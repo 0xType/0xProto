@@ -4,32 +4,38 @@ GLYPHS_FILE = $(FONT_NAME).glyphs
 OUTPUT_DIR = fonts
 UFO_DIR = $(FONT_NAME)-$(MAIN_WEIGHT).ufo
 
-setup_woff2:
-	git clone --recursive https://github.com/google/woff2.git
-	cd woff2 && make clean all
-
 setup:
 	pipenv install
 	$(MAKE) setup_woff2
 
+setup-woff2:
+	git clone --recursive https://github.com/google/woff2.git
+	cd woff2 && make clean all
+
+.PHONY: build
+build:
+	$(MAKE) clean
+	$(MAKE) ufo
+	$(MAKE) compile-all
+
 ufo:
 	glyphs2ufo $(GLYPHS_FILE)
 
-build-otf: $(FONT_NAME)-$(MAIN_WEIGHT).ufo
+compile-otf: $(FONT_NAME)-$(MAIN_WEIGHT).ufo
 	fontmake -u $(FONT_NAME)-$(MAIN_WEIGHT).ufo -o otf --output-dir $(OUTPUT_DIR)
 
-build-ttf: $(FONT_NAME)-$(MAIN_WEIGHT).ufo
+compile-ttf: $(FONT_NAME)-$(MAIN_WEIGHT).ufo
 	fontmake -u $(FONT_NAME)-$(MAIN_WEIGHT).ufo -o ttf --output-dir $(OUTPUT_DIR)
 
-build-woff2: $(OUTPUT_DIR)/$(FONT_NAME)-$(MAIN_WEIGHT).ttf
+compile-woff2: $(OUTPUT_DIR)/$(FONT_NAME)-$(MAIN_WEIGHT).ttf
 	./woff2/woff2_compress $(OUTPUT_DIR)/$(FONT_NAME)-$(MAIN_WEIGHT).ttf
 
-build-all: $(FONT_NAME)-$(MAIN_WEIGHT).ufo
-	$(MAKE) build-otf
-	$(MAKE) build-ttf && $(MAKE) build-woff2
+compile-all: $(FONT_NAME)-$(MAIN_WEIGHT).ufo
+	$(MAKE) compile-otf
+	$(MAKE) compile-ttf && $(MAKE) compile-woff2
 
 .PHONY: clean
 clean:
-	rm -rf $(OUTPUT_DIR)
-	rm -rf $(UFO_DIR)
-	rm $(FONT_NAME).designspace
+	if [ -e $(OUTPUT_DIR) ]; then rm -rf $(OUTPUT_DIR); fi
+	if [ -e $(UFO_DIR) ]; then rm -rf $(UFO_DIR); fi
+	if [ -e $(FONT_NAME).designspace ]; then rm $(FONT_NAME).designspace; fi
