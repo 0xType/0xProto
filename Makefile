@@ -5,7 +5,7 @@ OUTPUT_DIR = fonts
 UFO_DIR = $(FONT_NAME)-$(MAIN_WEIGHT).ufo
 
 setup:
-	pipenv install
+	pip install -r requirements.txt
 	$(MAKE) setup_woff2
 
 setup-woff2:
