@@ -3,14 +3,15 @@ MAIN_WEIGHT = Regular
 GLYPHS_FILE = $(FONT_NAME).glyphs
 OUTPUT_DIR = fonts
 UFO_DIR = $(FONT_NAME)-$(MAIN_WEIGHT).ufo
+WOFF2_DIR = woff2
 
 setup:
 	pip install -r requirements.txt
-	$(MAKE) setup_woff2
+	if [ ! -e $(WOFF2_DIR) ]; then $(MAKE) setup_woff2; fi
 
 setup-woff2:
 	git clone --recursive https://github.com/google/woff2.git
-	cd woff2 && make clean all
+	cd $(WOFF2_DIR) && make clean all
 
 .PHONY: build
 build:
