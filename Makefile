@@ -7,10 +7,10 @@ WOFF2_DIR = woff2
 
 setup:
 	pip install -r requirements.txt
-	if [ ! -e $(WOFF2_DIR) ]; then $(MAKE) setup_woff2; fi
+	if [ ! -e $(WOFF2_DIR) ]; then $(MAKE) setup-woff2; fi
 
 setup-woff2:
-	git clone --recursive https://github.com/google/woff2.git
+	git clone --recursive https://github.com/google/woff2.git $(WOFF2_DIR)
 	cd $(WOFF2_DIR) && make clean all
 
 .PHONY: build
