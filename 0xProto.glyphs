@@ -6739,6 +6739,16 @@ name = "for monospace font";
 type = "x-height";
 }
 );
+properties = (
+{
+key = postscriptFontName;
+value = "0xProto";
+},
+{
+key = manufacturerURL;
+value = "https://0xtype.dev/";
+}
+);
 unitsPerEm = 1000;
 userData = {
 GSDimensionPlugin.Dimensions = {
