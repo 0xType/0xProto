@@ -1,0 +1,36 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="slash_slash_slash" format="2">
+  <advance width="1860"/>
+  <outline>
+    <contour>
+      <point x="535" y="750" type="line"/>
+      <point x="270" y="-110" type="line"/>
+      <point x="270" y="-120" type="line"/>
+      <point x="371" y="-120" type="line"/>
+      <point x="636" y="740" type="line"/>
+      <point x="636" y="750" type="line"/>
+    </contour>
+    <contour>
+      <point x="1007" y="750" type="line"/>
+      <point x="742" y="-110" type="line"/>
+      <point x="742" y="-120" type="line"/>
+      <point x="843" y="-120" type="line"/>
+      <point x="1108" y="740" type="line"/>
+      <point x="1108" y="750" type="line"/>
+    </contour>
+    <contour>
+      <point x="1479" y="750" type="line"/>
+      <point x="1214" y="-110" type="line"/>
+      <point x="1214" y="-120" type="line"/>
+      <point x="1315" y="-120" type="line"/>
+      <point x="1580" y="740" type="line"/>
+      <point x="1580" y="750" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2023/05/17 03:00:23</string>
+    </dict>
+  </lib>
+</glyph>

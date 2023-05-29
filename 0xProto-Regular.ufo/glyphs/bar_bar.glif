@@ -1,0 +1,24 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="bar_bar" format="2">
+  <advance width="1240"/>
+  <outline>
+    <contour>
+      <point x="458" y="766" type="line"/>
+      <point x="360" y="766" type="line"/>
+      <point x="360" y="-160" type="line"/>
+      <point x="458" y="-160" type="line"/>
+    </contour>
+    <contour>
+      <point x="880" y="766" type="line"/>
+      <point x="782" y="766" type="line"/>
+      <point x="782" y="-160" type="line"/>
+      <point x="880" y="-160" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2023/05/17 03:12:51</string>
+    </dict>
+  </lib>
+</glyph>

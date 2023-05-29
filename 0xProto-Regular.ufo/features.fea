@@ -1,0 +1,26 @@
+feature liga {
+sub colon equal by colon_equal;
+sub question question by question_question;
+sub slash slash by slash_slash;
+sub equal greater by equal_greater;
+sub minus greater by minus_greater;
+sub greater greater by greater_greater;
+sub less less by less_less;
+sub ampersand ampersand by ampersand_ampersand;
+sub hyphen greater by hyphen_greater;
+sub exclam equal by exclam_equal;
+sub equal equal by equal_equal;
+sub equal equal equal by equal_equal_equal;
+sub exclam equal equal by exclam_equal_equal;
+sub colon colon by colon_colon;
+sub less hyphen by less_hyphen;
+sub less minus by less_minus;
+sub colon colon colon by colon_colon_colon;
+sub slash slash slash by slash_slash_slash;
+sub equal colon equal by equal_colon_equal;
+sub equal exclam equal by equal_exclam_equal;
+sub greater greater greater by greater_greater_greater;
+sub less equal greater by less_equal_greater;
+sub less less less by less_less_less;
+sub bar bar by bar_bar;
+} liga;

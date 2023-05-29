@@ -1,0 +1,33 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="U" format="2">
+  <advance width="620"/>
+  <unicode hex="0055"/>
+  <outline>
+    <contour>
+      <point x="465" y="710" type="line"/>
+      <point x="465" y="277" type="line"/>
+      <point x="465" y="139"/>
+      <point x="394" y="83"/>
+      <point x="314" y="83" type="curve"/>
+      <point x="232" y="83"/>
+      <point x="155" y="139"/>
+      <point x="155" y="277" type="curve"/>
+      <point x="155" y="710" type="line"/>
+      <point x="56" y="710" type="line"/>
+      <point x="56" y="277" type="line" smooth="yes"/>
+      <point x="56" y="55"/>
+      <point x="197" y="-15"/>
+      <point x="314" y="-15" type="curve"/>
+      <point x="428" y="-15"/>
+      <point x="565" y="55"/>
+      <point x="565" y="277" type="curve" smooth="yes"/>
+      <point x="565" y="710" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2023/04/27 02:48:30</string>
+    </dict>
+  </lib>
+</glyph>

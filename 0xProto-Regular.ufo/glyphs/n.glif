@@ -1,0 +1,39 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="n" format="2">
+  <advance width="620"/>
+  <unicode hex="006E"/>
+  <outline>
+    <contour>
+      <point x="87" y="554" type="line"/>
+      <point x="87" y="0" type="line"/>
+      <point x="183" y="0" type="line"/>
+      <point x="183" y="394" type="line"/>
+      <point x="252" y="448"/>
+      <point x="306" y="470"/>
+      <point x="353" y="470" type="curve" smooth="yes"/>
+      <point x="406" y="470"/>
+      <point x="432" y="438"/>
+      <point x="432" y="361" type="curve" smooth="yes"/>
+      <point x="432" y="241"/>
+      <point x="432" y="120"/>
+      <point x="432" y="0" type="curve"/>
+      <point x="531" y="0" type="line"/>
+      <point x="531" y="129"/>
+      <point x="531" y="248"/>
+      <point x="531" y="377" type="curve" smooth="yes"/>
+      <point x="531" y="515"/>
+      <point x="463" y="565"/>
+      <point x="387" y="566" type="curve" smooth="yes"/>
+      <point x="319" y="567"/>
+      <point x="240" y="532"/>
+      <point x="182" y="487" type="curve"/>
+      <point x="173" y="554" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2023/05/04 05:20:34</string>
+    </dict>
+  </lib>
+</glyph>
