@@ -1,6 +1,12 @@
 {
 .appVersion = "3151";
 .formatVersion = 3;
+customParameters = (
+{
+name = isFixedPitch;
+value = 1;
+}
+);
 date = "2023-05-29 06:39:11 +0000";
 familyName = "0xProto";
 features = (
