@@ -13,7 +13,7 @@
     <key>italicAngle</key>
     <integer>0</integer>
     <key>openTypeHeadCreated</key>
-    <string>2023/05/29 06:39:11</string>
+    <string>2023/06/01 01:15:37</string>
     <key>openTypeNameManufacturerURL</key>
     <string>https://0xtype.dev/</string>
     <key>openTypeOS2Type</key>
@@ -33,6 +33,8 @@
     </array>
     <key>postscriptFontName</key>
     <string>0xProto</string>
+    <key>postscriptIsFixedPitch</key>
+    <true/>
     <key>postscriptOtherBlues</key>
     <array>
       <integer>-216</integer>
@@ -49,7 +51,7 @@
     <key>versionMajor</key>
     <integer>1</integer>
     <key>versionMinor</key>
-    <integer>0</integer>
+    <integer>1</integer>
     <key>xHeight</key>
     <integer>550</integer>
   </dict>
