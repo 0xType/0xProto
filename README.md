@@ -52,10 +52,60 @@ If you prefer the programming ligature so far, I recommend Fira Code because it 
 
 ## Installation
 
+### macOS
+
 1. Download font files
 1. Unzip the archive and install the font:
-    - macOS: Drag & Drop the font file to Font Book (or the other font management app)
-    - Windows: right-click any of them, then pick `Install` from the menu
+1. Drag & Drop the font file to Font Book (or the other font management app)
+
+### Windows
+
+1. Download font files
+1. Unzip the archive and install the font:
+1. right-click any of them, then pick `Install` from the menu
+
+### Debian
+
+The other Linux distributions might be same.
+
+1. clone repository
+
+    ```sh
+    git clone https://github.com/0xType/0xProto.git
+    ```
+
+1. build fonts
+
+    ```sh
+    make
+    ```
+
+1. place files into `${HOME}/.local/share/fonts` directory
+
+    ```sh
+    cp fonts/0xProto-Regular.* ${HOME}/.local/share/fonts/
+    chmod -R 644 ${HOME}/.local/share/fonts/
+    ```
+
+1. update your font cache
+
+    ```sh
+    fc-cache -v
+    ```
+
+1. verify the fonts have been installed
+
+    ```sh
+    fc-list | grep 0xProto
+    ```
+
+    The output would like following:
+
+    ```sh
+    /home/fomalhaut/.local/share/fonts/0xProto-Regular.woff2: 0xProto:style=Regular
+    /home/fomalhaut/.local/share/fonts/0xProto-Regular.ttf: 0xProto:style=Regular
+    /home/fomalhaut/.local/share/fonts/0xProto-Regular.otf: 0xProto:style=Regular
+    ```
 
 ## How to use
 
