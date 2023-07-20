@@ -1,0 +1,44 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="bar_bar_bar_greater" format="2">
+  <advance width="2480"/>
+  <outline>
+    <contour>
+      <point x="658" y="632" type="line"/>
+      <point x="572" y="632" type="line"/>
+      <point x="572" y="-24" type="line"/>
+      <point x="658" y="-24" type="line"/>
+    </contour>
+    <contour>
+      <point x="1483" y="632" type="line"/>
+      <point x="1397" y="632" type="line"/>
+      <point x="1397" y="-24" type="line"/>
+      <point x="1483" y="-24" type="line"/>
+    </contour>
+    <contour>
+      <point x="1546" y="632" type="line"/>
+      <point x="1546" y="532" type="line"/>
+      <point x="2000" y="262" type="line"/>
+      <point x="2000" y="358" type="line"/>
+      <point x="1556" y="632" type="line"/>
+    </contour>
+    <contour>
+      <point x="1546" y="-24" type="line"/>
+      <point x="1556" y="-24" type="line"/>
+      <point x="2000" y="255" type="line"/>
+      <point x="2000" y="351" type="line"/>
+      <point x="1546" y="76" type="line"/>
+    </contour>
+    <contour>
+      <point x="1078" y="632" type="line"/>
+      <point x="992" y="632" type="line"/>
+      <point x="992" y="-24" type="line"/>
+      <point x="1078" y="-24" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2023/08/07 06:36:20</string>
+    </dict>
+  </lib>
+</glyph>

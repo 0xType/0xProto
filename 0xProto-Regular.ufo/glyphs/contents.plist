@@ -66,6 +66,12 @@
     <string>asciitilde.glif</string>
     <key>asterisk</key>
     <string>asterisk.glif</string>
+    <key>asterisk_asterisk</key>
+    <string>asterisk_asterisk.glif</string>
+    <key>asterisk_asterisk_asterisk</key>
+    <string>asterisk_asterisk_asterisk.glif</string>
+    <key>asterisk_greater</key>
+    <string>asterisk_greater.glif</string>
     <key>at</key>
     <string>at.glif</string>
     <key>b</key>
@@ -76,12 +82,22 @@
     <string>bar.glif</string>
     <key>bar_bar</key>
     <string>bar_bar.glif</string>
+    <key>bar_bar_bar_greater</key>
+    <string>bar_bar_bar_greater.glif</string>
+    <key>bar_bar_greater</key>
+    <string>bar_bar_greater.glif</string>
+    <key>bar_bracketright</key>
+    <string>bar_bracketright.glif</string>
+    <key>bar_greater</key>
+    <string>bar_greater.glif</string>
     <key>braceleft</key>
     <string>braceleft.glif</string>
     <key>braceright</key>
     <string>braceright.glif</string>
     <key>bracketleft</key>
     <string>bracketleft.glif</string>
+    <key>bracketleft_bar</key>
+    <string>bracketleft_bar.glif</string>
     <key>bracketright</key>
     <string>bracketright.glif</string>
     <key>c</key>
@@ -94,12 +110,18 @@
     <string>colon_colon_colon.glif</string>
     <key>colon_equal</key>
     <string>colon_equal.glif</string>
+    <key>colon_greater_colon</key>
+    <string>colon_greater_colon.glif</string>
+    <key>colon_less_colon</key>
+    <string>colon_less_colon.glif</string>
     <key>comma</key>
     <string>comma.glif</string>
     <key>d</key>
     <string>d.glif</string>
     <key>dollar</key>
     <string>dollar.glif</string>
+    <key>dollar_greater</key>
+    <string>dollar_greater.glif</string>
     <key>e</key>
     <string>e.glif</string>
     <key>eight</key>
@@ -116,6 +138,14 @@
     <string>equal_exclam_equal.glif</string>
     <key>equal_greater</key>
     <string>equal_greater.glif</string>
+    <key>equal_greater_equal</key>
+    <string>equal_greater_equal.glif</string>
+    <key>equal_greater_greater</key>
+    <string>equal_greater_greater.glif</string>
+    <key>equal_less_equal</key>
+    <string>equal_less_equal.glif</string>
+    <key>equal_less_less</key>
+    <string>equal_less_less.glif</string>
     <key>exclam</key>
     <string>exclam.glif</string>
     <key>exclam_equal</key>
@@ -134,6 +164,8 @@
     <string>grave.glif</string>
     <key>greater</key>
     <string>greater.glif</string>
+    <key>greater_equal_greater</key>
+    <string>greater_equal_greater.glif</string>
     <key>greater_greater</key>
     <string>greater_greater.glif</string>
     <key>greater_greater_greater</key>
@@ -154,8 +186,28 @@
     <string>l.glif</string>
     <key>less</key>
     <string>less.glif</string>
+    <key>less_asterisk</key>
+    <string>less_asterisk.glif</string>
+    <key>less_asterisk_greater</key>
+    <string>less_asterisk_greater.glif</string>
+    <key>less_bar</key>
+    <string>less_bar.glif</string>
+    <key>less_bar_bar</key>
+    <string>less_bar_bar.glif</string>
+    <key>less_bar_bar_bar</key>
+    <string>less_bar_bar_bar.glif</string>
+    <key>less_bar_greater</key>
+    <string>less_bar_greater.glif</string>
+    <key>less_dollar</key>
+    <string>less_dollar.glif</string>
+    <key>less_dollar_greater</key>
+    <string>less_dollar_greater.glif</string>
     <key>less_equal_greater</key>
     <string>less_equal_greater.glif</string>
+    <key>less_equal_less</key>
+    <string>less_equal_less.glif</string>
+    <key>less_greater</key>
+    <string>less_greater.glif</string>
     <key>less_hyphen</key>
     <string>less_hyphen.glif</string>
     <key>less_less</key>
@@ -164,6 +216,10 @@
     <string>less_less_less.glif</string>
     <key>less_minus</key>
     <string>less_minus.glif</string>
+    <key>less_plus</key>
+    <string>less_plus.glif</string>
+    <key>less_plus_greater</key>
+    <string>less_plus_greater.glif</string>
     <key>m</key>
     <string>m.glif</string>
     <key>minus</key>
@@ -176,6 +232,8 @@
     <string>nine.glif</string>
     <key>numbersign</key>
     <string>numbersign.glif</string>
+    <key>numbersign_equal</key>
+    <string>numbersign_equal.glif</string>
     <key>o</key>
     <string>o.glif</string>
     <key>one</key>
@@ -188,10 +246,16 @@
     <string>parenright.glif</string>
     <key>percent</key>
     <string>percent.glif</string>
+    <key>percent_percent</key>
+    <string>percent_percent.glif</string>
     <key>period</key>
     <string>period.glif</string>
+    <key>period_equal</key>
+    <string>period_equal.glif</string>
     <key>plus</key>
     <string>plus.glif</string>
+    <key>plus_greater</key>
+    <string>plus_greater.glif</string>
     <key>q</key>
     <string>q.glif</string>
     <key>question</key>

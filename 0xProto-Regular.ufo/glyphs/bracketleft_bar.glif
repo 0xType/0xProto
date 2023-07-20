@@ -1,0 +1,36 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="bracketleft_bar" format="2">
+  <advance width="1240"/>
+  <outline>
+    <contour>
+      <point x="300" y="750" type="line"/>
+      <point x="300" y="-120" type="line"/>
+      <point x="395" y="-120" type="line"/>
+      <point x="395" y="750" type="line"/>
+    </contour>
+    <contour>
+      <point x="654" y="750" type="line"/>
+      <point x="324" y="750" type="line"/>
+      <point x="324" y="665" type="line"/>
+      <point x="654" y="665" type="line"/>
+    </contour>
+    <contour>
+      <point x="654" y="-35" type="line"/>
+      <point x="324" y="-35" type="line"/>
+      <point x="324" y="-120" type="line"/>
+      <point x="654" y="-120" type="line"/>
+    </contour>
+    <contour>
+      <point x="890" y="750" type="line"/>
+      <point x="795" y="750" type="line"/>
+      <point x="795" y="-120" type="line"/>
+      <point x="890" y="-120" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2023/08/07 06:37:00</string>
+    </dict>
+  </lib>
+</glyph>

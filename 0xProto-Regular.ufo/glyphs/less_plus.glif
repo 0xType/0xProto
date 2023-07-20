@@ -1,0 +1,38 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="less_plus" format="2">
+  <advance width="1240"/>
+  <outline>
+    <contour>
+      <point x="568" y="597" type="line"/>
+      <point x="558" y="597" type="line"/>
+      <point x="148" y="356" type="line"/>
+      <point x="148" y="263" type="line"/>
+      <point x="568" y="498" type="line"/>
+    </contour>
+    <contour>
+      <point x="568" y="11" type="line"/>
+      <point x="568" y="110" type="line"/>
+      <point x="148" y="350" type="line"/>
+      <point x="148" y="257" type="line"/>
+      <point x="558" y="11" type="line"/>
+    </contour>
+    <contour>
+      <point x="1086" y="350" type="line"/>
+      <point x="616" y="350" type="line"/>
+      <point x="616" y="264" type="line"/>
+      <point x="1086" y="264" type="line"/>
+    </contour>
+    <contour>
+      <point x="896" y="56" type="line"/>
+      <point x="896" y="558" type="line"/>
+      <point x="806" y="558" type="line"/>
+      <point x="806" y="56" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2023/07/18 08:23:22</string>
+    </dict>
+  </lib>
+</glyph>

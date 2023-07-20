@@ -1,0 +1,38 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="less_bar_bar" format="2">
+  <advance width="1860"/>
+  <outline>
+    <contour>
+      <point x="909" y="632" type="line"/>
+      <point x="909" y="-24" type="line"/>
+      <point x="995" y="-24" type="line"/>
+      <point x="995" y="632" type="line"/>
+    </contour>
+    <contour>
+      <point x="846" y="632" type="line"/>
+      <point x="836" y="632" type="line"/>
+      <point x="392" y="358" type="line"/>
+      <point x="392" y="262" type="line"/>
+      <point x="846" y="532" type="line"/>
+    </contour>
+    <contour>
+      <point x="846" y="-24" type="line"/>
+      <point x="846" y="76" type="line"/>
+      <point x="392" y="351" type="line"/>
+      <point x="392" y="255" type="line"/>
+      <point x="836" y="-24" type="line"/>
+    </contour>
+    <contour>
+      <point x="1314" y="632" type="line"/>
+      <point x="1314" y="-24" type="line"/>
+      <point x="1400" y="-24" type="line"/>
+      <point x="1400" y="632" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2023/08/07 06:36:43</string>
+    </dict>
+  </lib>
+</glyph>

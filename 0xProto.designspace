@@ -19,10 +19,7 @@
       <key>GSDimensionPlugin.Dimensions</key>
       <dict>
         <key>m01</key>
-        <dict>
-          <key>oV</key>
-          <string>5</string>
-        </dict>
+        <dict/>
       </dict>
     </dict>
   </lib>

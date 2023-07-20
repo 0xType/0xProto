@@ -70,6 +70,12 @@
       <integer>0</integer>
       <key>com.schriftgestaltung.layerOrderInGlyph.asterisk</key>
       <integer>0</integer>
+      <key>com.schriftgestaltung.layerOrderInGlyph.asterisk_asterisk</key>
+      <integer>0</integer>
+      <key>com.schriftgestaltung.layerOrderInGlyph.asterisk_asterisk_asterisk</key>
+      <integer>0</integer>
+      <key>com.schriftgestaltung.layerOrderInGlyph.asterisk_greater</key>
+      <integer>0</integer>
       <key>com.schriftgestaltung.layerOrderInGlyph.at</key>
       <integer>0</integer>
       <key>com.schriftgestaltung.layerOrderInGlyph.b</key>
@@ -80,11 +86,21 @@
       <integer>0</integer>
       <key>com.schriftgestaltung.layerOrderInGlyph.bar_bar</key>
       <integer>0</integer>
+      <key>com.schriftgestaltung.layerOrderInGlyph.bar_bar_bar_greater</key>
+      <integer>0</integer>
+      <key>com.schriftgestaltung.layerOrderInGlyph.bar_bar_greater</key>
+      <integer>0</integer>
+      <key>com.schriftgestaltung.layerOrderInGlyph.bar_bracketright</key>
+      <integer>0</integer>
+      <key>com.schriftgestaltung.layerOrderInGlyph.bar_greater</key>
+      <integer>0</integer>
       <key>com.schriftgestaltung.layerOrderInGlyph.braceleft</key>
       <integer>0</integer>
       <key>com.schriftgestaltung.layerOrderInGlyph.braceright</key>
       <integer>0</integer>
       <key>com.schriftgestaltung.layerOrderInGlyph.bracketleft</key>
+      <integer>0</integer>
+      <key>com.schriftgestaltung.layerOrderInGlyph.bracketleft_bar</key>
       <integer>0</integer>
       <key>com.schriftgestaltung.layerOrderInGlyph.bracketright</key>
       <integer>0</integer>
@@ -98,11 +114,17 @@
       <integer>0</integer>
       <key>com.schriftgestaltung.layerOrderInGlyph.colon_equal</key>
       <integer>0</integer>
+      <key>com.schriftgestaltung.layerOrderInGlyph.colon_greater_colon</key>
+      <integer>0</integer>
+      <key>com.schriftgestaltung.layerOrderInGlyph.colon_less_colon</key>
+      <integer>0</integer>
       <key>com.schriftgestaltung.layerOrderInGlyph.comma</key>
       <integer>0</integer>
       <key>com.schriftgestaltung.layerOrderInGlyph.d</key>
       <integer>0</integer>
       <key>com.schriftgestaltung.layerOrderInGlyph.dollar</key>
+      <integer>0</integer>
+      <key>com.schriftgestaltung.layerOrderInGlyph.dollar_greater</key>
       <integer>0</integer>
       <key>com.schriftgestaltung.layerOrderInGlyph.e</key>
       <integer>0</integer>
@@ -119,6 +141,14 @@
       <key>com.schriftgestaltung.layerOrderInGlyph.equal_exclam_equal</key>
       <integer>0</integer>
       <key>com.schriftgestaltung.layerOrderInGlyph.equal_greater</key>
+      <integer>0</integer>
+      <key>com.schriftgestaltung.layerOrderInGlyph.equal_greater_equal</key>
+      <integer>0</integer>
+      <key>com.schriftgestaltung.layerOrderInGlyph.equal_greater_greater</key>
+      <integer>0</integer>
+      <key>com.schriftgestaltung.layerOrderInGlyph.equal_less_equal</key>
+      <integer>0</integer>
+      <key>com.schriftgestaltung.layerOrderInGlyph.equal_less_less</key>
       <integer>0</integer>
       <key>com.schriftgestaltung.layerOrderInGlyph.exclam</key>
       <integer>0</integer>
@@ -137,6 +167,8 @@
       <key>com.schriftgestaltung.layerOrderInGlyph.grave</key>
       <integer>0</integer>
       <key>com.schriftgestaltung.layerOrderInGlyph.greater</key>
+      <integer>0</integer>
+      <key>com.schriftgestaltung.layerOrderInGlyph.greater_equal_greater</key>
       <integer>0</integer>
       <key>com.schriftgestaltung.layerOrderInGlyph.greater_greater</key>
       <integer>0</integer>
@@ -158,7 +190,27 @@
       <integer>0</integer>
       <key>com.schriftgestaltung.layerOrderInGlyph.less</key>
       <integer>0</integer>
+      <key>com.schriftgestaltung.layerOrderInGlyph.less_asterisk</key>
+      <integer>0</integer>
+      <key>com.schriftgestaltung.layerOrderInGlyph.less_asterisk_greater</key>
+      <integer>0</integer>
+      <key>com.schriftgestaltung.layerOrderInGlyph.less_bar</key>
+      <integer>0</integer>
+      <key>com.schriftgestaltung.layerOrderInGlyph.less_bar_bar</key>
+      <integer>0</integer>
+      <key>com.schriftgestaltung.layerOrderInGlyph.less_bar_bar_bar</key>
+      <integer>0</integer>
+      <key>com.schriftgestaltung.layerOrderInGlyph.less_bar_greater</key>
+      <integer>0</integer>
+      <key>com.schriftgestaltung.layerOrderInGlyph.less_dollar</key>
+      <integer>0</integer>
+      <key>com.schriftgestaltung.layerOrderInGlyph.less_dollar_greater</key>
+      <integer>0</integer>
       <key>com.schriftgestaltung.layerOrderInGlyph.less_equal_greater</key>
+      <integer>0</integer>
+      <key>com.schriftgestaltung.layerOrderInGlyph.less_equal_less</key>
+      <integer>0</integer>
+      <key>com.schriftgestaltung.layerOrderInGlyph.less_greater</key>
       <integer>0</integer>
       <key>com.schriftgestaltung.layerOrderInGlyph.less_hyphen</key>
       <integer>0</integer>
@@ -167,6 +219,10 @@
       <key>com.schriftgestaltung.layerOrderInGlyph.less_less_less</key>
       <integer>0</integer>
       <key>com.schriftgestaltung.layerOrderInGlyph.less_minus</key>
+      <integer>0</integer>
+      <key>com.schriftgestaltung.layerOrderInGlyph.less_plus</key>
+      <integer>0</integer>
+      <key>com.schriftgestaltung.layerOrderInGlyph.less_plus_greater</key>
       <integer>0</integer>
       <key>com.schriftgestaltung.layerOrderInGlyph.m</key>
       <integer>0</integer>
@@ -180,6 +236,8 @@
       <integer>0</integer>
       <key>com.schriftgestaltung.layerOrderInGlyph.numbersign</key>
       <integer>0</integer>
+      <key>com.schriftgestaltung.layerOrderInGlyph.numbersign_equal</key>
+      <integer>0</integer>
       <key>com.schriftgestaltung.layerOrderInGlyph.o</key>
       <integer>0</integer>
       <key>com.schriftgestaltung.layerOrderInGlyph.one</key>
@@ -192,9 +250,15 @@
       <integer>0</integer>
       <key>com.schriftgestaltung.layerOrderInGlyph.percent</key>
       <integer>0</integer>
+      <key>com.schriftgestaltung.layerOrderInGlyph.percent_percent</key>
+      <integer>0</integer>
       <key>com.schriftgestaltung.layerOrderInGlyph.period</key>
       <integer>0</integer>
+      <key>com.schriftgestaltung.layerOrderInGlyph.period_equal</key>
+      <integer>0</integer>
       <key>com.schriftgestaltung.layerOrderInGlyph.plus</key>
+      <integer>0</integer>
+      <key>com.schriftgestaltung.layerOrderInGlyph.plus_greater</key>
       <integer>0</integer>
       <key>com.schriftgestaltung.layerOrderInGlyph.q</key>
       <integer>0</integer>

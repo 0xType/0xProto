@@ -1,0 +1,52 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="less_equal_less" format="2">
+  <advance width="1860"/>
+  <outline>
+    <contour>
+      <point x="591" y="258" type="line"/>
+      <point x="591" y="186" type="line"/>
+      <point x="1162" y="186" type="line"/>
+      <point x="1162" y="258" type="line"/>
+    </contour>
+    <contour>
+      <point x="591" y="428" type="line"/>
+      <point x="591" y="356" type="line"/>
+      <point x="1162" y="356" type="line"/>
+      <point x="1162" y="428" type="line"/>
+    </contour>
+    <contour>
+      <point x="620" y="620" type="line"/>
+      <point x="610" y="620" type="line"/>
+      <point x="190" y="356" type="line"/>
+      <point x="190" y="263" type="line"/>
+      <point x="620" y="523" type="line"/>
+    </contour>
+    <contour>
+      <point x="620" y="-7" type="line"/>
+      <point x="620" y="90" type="line"/>
+      <point x="190" y="350" type="line"/>
+      <point x="190" y="257" type="line"/>
+      <point x="610" y="-7" type="line"/>
+    </contour>
+    <contour>
+      <point x="1670" y="625" type="line"/>
+      <point x="1660" y="625" type="line"/>
+      <point x="1240" y="356" type="line"/>
+      <point x="1240" y="262" type="line"/>
+      <point x="1670" y="528" type="line"/>
+    </contour>
+    <contour>
+      <point x="1670" y="-12" type="line"/>
+      <point x="1670" y="85" type="line"/>
+      <point x="1240" y="351" type="line"/>
+      <point x="1240" y="257" type="line"/>
+      <point x="1660" y="-12" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2023/07/21 07:35:35</string>
+    </dict>
+  </lib>
+</glyph>

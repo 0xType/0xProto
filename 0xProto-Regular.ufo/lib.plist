@@ -113,12 +113,20 @@
       <string>nine</string>
       <string>space</string>
       <string>hyphen_greater</string>
+      <string>bracketleft_bar</string>
+      <string>period_equal</string>
       <string>colon_colon</string>
       <string>colon_colon_colon</string>
       <string>colon_equal</string>
+      <string>colon_greater_colon</string>
+      <string>colon_less_colon</string>
       <string>exclam_equal</string>
       <string>exclam_equal_equal</string>
       <string>question_question</string>
+      <string>asterisk_asterisk</string>
+      <string>asterisk_asterisk_asterisk</string>
+      <string>asterisk_greater</string>
+      <string>numbersign_equal</string>
       <string>slash_slash</string>
       <string>slash_slash_slash</string>
       <string>period</string>
@@ -146,20 +154,44 @@
       <string>quotedbl</string>
       <string>quotesingle</string>
       <string>ampersand_ampersand</string>
+      <string>bar_bracketright</string>
       <string>bar_bar</string>
+      <string>bar_bar_bar_greater</string>
+      <string>bar_bar_greater</string>
+      <string>bar_greater</string>
+      <string>dollar_greater</string>
+      <string>plus_greater</string>
       <string>minus_greater</string>
       <string>equal_colon_equal</string>
       <string>equal_exclam_equal</string>
       <string>equal_equal</string>
       <string>equal_equal_equal</string>
       <string>equal_greater</string>
+      <string>equal_greater_equal</string>
+      <string>equal_greater_greater</string>
+      <string>equal_less_equal</string>
+      <string>equal_less_less</string>
+      <string>greater_equal_greater</string>
       <string>greater_greater</string>
       <string>greater_greater_greater</string>
       <string>less_hyphen</string>
+      <string>less_asterisk</string>
+      <string>less_asterisk_greater</string>
+      <string>less_bar</string>
+      <string>less_bar_bar</string>
+      <string>less_bar_bar_bar</string>
+      <string>less_bar_greater</string>
+      <string>less_dollar</string>
+      <string>less_dollar_greater</string>
+      <string>less_plus</string>
+      <string>less_plus_greater</string>
       <string>less_minus</string>
       <string>less_equal_greater</string>
+      <string>less_equal_less</string>
+      <string>less_greater</string>
       <string>less_less</string>
       <string>less_less_less</string>
+      <string>percent_percent</string>
       <string>at</string>
       <string>ampersand</string>
       <string>bar</string>
