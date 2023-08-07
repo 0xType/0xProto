@@ -50,6 +50,10 @@ For these reasons, 0xProto has made a conscious decision to abstain from using l
 
 If you prefer the programming ligature so far, I recommend Fira Code because it is very clean and useful!
 
+Added some ligatures for functional programming languages (from v1.100):
+
+![Functional programming ligatures](./images/fp_ligatures.png)
+
 ## Installation
 
 1. Download font files
