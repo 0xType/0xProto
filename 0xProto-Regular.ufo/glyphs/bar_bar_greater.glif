@@ -1,0 +1,38 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="bar_bar_greater" format="2">
+  <advance width="1860"/>
+  <outline>
+    <contour>
+      <point x="951" y="632" type="line"/>
+      <point x="865" y="632" type="line"/>
+      <point x="865" y="-24" type="line"/>
+      <point x="951" y="-24" type="line"/>
+    </contour>
+    <contour>
+      <point x="1014" y="632" type="line"/>
+      <point x="1014" y="532" type="line"/>
+      <point x="1468" y="262" type="line"/>
+      <point x="1468" y="358" type="line"/>
+      <point x="1024" y="632" type="line"/>
+    </contour>
+    <contour>
+      <point x="1014" y="-24" type="line"/>
+      <point x="1024" y="-24" type="line"/>
+      <point x="1468" y="255" type="line"/>
+      <point x="1468" y="351" type="line"/>
+      <point x="1014" y="76" type="line"/>
+    </contour>
+    <contour>
+      <point x="546" y="632" type="line"/>
+      <point x="460" y="632" type="line"/>
+      <point x="460" y="-24" type="line"/>
+      <point x="546" y="-24" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2023/08/07 06:35:36</string>
+    </dict>
+  </lib>
+</glyph>
