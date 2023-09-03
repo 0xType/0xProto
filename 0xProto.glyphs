@@ -5,6 +5,21 @@ customParameters = (
 {
 name = isFixedPitch;
 value = 1;
+},
+{
+name = panose;
+value = (
+2,
+0,
+0,
+9,
+0,
+0,
+0,
+0,
+0,
+0
+);
 }
 );
 date = "2023-06-01 01:15:37 +0000";
