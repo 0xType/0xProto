@@ -16,6 +16,19 @@
     <string>2023/06/01 01:15:37</string>
     <key>openTypeNameManufacturerURL</key>
     <string>https://0xtype.dev/</string>
+    <key>openTypeOS2Panose</key>
+    <array>
+      <integer>2</integer>
+      <integer>0</integer>
+      <integer>0</integer>
+      <integer>9</integer>
+      <integer>0</integer>
+      <integer>0</integer>
+      <integer>0</integer>
+      <integer>0</integer>
+      <integer>0</integer>
+      <integer>0</integer>
+    </array>
     <key>openTypeOS2Type</key>
     <array>
       <integer>3</integer>
