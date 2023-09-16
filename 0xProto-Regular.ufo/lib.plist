@@ -334,7 +334,6 @@
       <string>boxVerticalSingleAndLeftDouble</string>
       <string>boxVerticalSingleAndRightDouble</string>
       <string>boxLeftDownHeavyAndRightUpLight.001</string>
-      <string>boxUpSingleAndHorizontalDouble.001</string>
       <string>grave</string>
     </array>
     <key>public.postscriptNames</key>
@@ -567,8 +566,6 @@
       <string>uni2515</string>
       <key>boxUpSingleAndHorizontalDouble</key>
       <string>uni2567</string>
-      <key>boxUpSingleAndHorizontalDouble.001</key>
-      <string>uni2567.001</string>
       <key>boxUpSingleAndLeftDouble</key>
       <string>uni255B</string>
       <key>boxUpSingleAndRightDouble</key>
