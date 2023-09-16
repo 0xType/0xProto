@@ -1,0 +1,19 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="boxHeavyLeft" format="2">
+  <advance width="620"/>
+  <unicode hex="2578"/>
+  <outline>
+    <contour>
+      <point x="276" y="433" type="line"/>
+      <point x="-10" y="433" type="line"/>
+      <point x="-10" y="263" type="line"/>
+      <point x="276" y="263" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2023/09/13 03:31:36</string>
+    </dict>
+  </lib>
+</glyph>

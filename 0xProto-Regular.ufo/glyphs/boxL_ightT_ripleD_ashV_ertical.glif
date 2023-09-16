@@ -1,0 +1,31 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="boxLightTripleDashVertical" format="2">
+  <advance width="620"/>
+  <unicode hex="2506"/>
+  <outline>
+    <contour>
+      <point x="344" y="825" type="line"/>
+      <point x="344" y="1130" type="line"/>
+      <point x="276" y="1130" type="line"/>
+      <point x="276" y="825" type="line"/>
+    </contour>
+    <contour>
+      <point x="344" y="-430" type="line"/>
+      <point x="344" y="-125" type="line"/>
+      <point x="276" y="-125" type="line"/>
+      <point x="276" y="-430" type="line"/>
+    </contour>
+    <contour>
+      <point x="344" y="80" type="line"/>
+      <point x="344" y="620" type="line"/>
+      <point x="276" y="620" type="line"/>
+      <point x="276" y="80" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2023/09/12 04:41:19</string>
+    </dict>
+  </lib>
+</glyph>

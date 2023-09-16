@@ -1,0 +1,37 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="boxLightQuadrupleDashHorizontal" format="2">
+  <advance width="620"/>
+  <unicode hex="2508"/>
+  <outline>
+    <contour>
+      <point x="630" y="382" type="line"/>
+      <point x="565" y="382" type="line"/>
+      <point x="565" y="314" type="line"/>
+      <point x="630" y="314" type="line"/>
+    </contour>
+    <contour>
+      <point x="468" y="382" type="line"/>
+      <point x="358" y="382" type="line"/>
+      <point x="358" y="314" type="line"/>
+      <point x="468" y="314" type="line"/>
+    </contour>
+    <contour>
+      <point x="262" y="382" type="line"/>
+      <point x="152" y="382" type="line"/>
+      <point x="152" y="314" type="line"/>
+      <point x="262" y="314" type="line"/>
+    </contour>
+    <contour>
+      <point x="55" y="382" type="line"/>
+      <point x="-10" y="382" type="line"/>
+      <point x="-10" y="314" type="line"/>
+      <point x="55" y="314" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2023/09/12 05:35:34</string>
+    </dict>
+  </lib>
+</glyph>
