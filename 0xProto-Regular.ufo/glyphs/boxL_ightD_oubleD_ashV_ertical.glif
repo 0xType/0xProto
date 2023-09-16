@@ -1,0 +1,25 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="boxLightDoubleDashVertical" format="2">
+  <advance width="620"/>
+  <unicode hex="254E"/>
+  <outline>
+    <contour>
+      <point x="344" y="500" type="line"/>
+      <point x="344" y="1130" type="line"/>
+      <point x="276" y="1130" type="line"/>
+      <point x="276" y="500" type="line"/>
+    </contour>
+    <contour>
+      <point x="344" y="-430" type="line"/>
+      <point x="344" y="200" type="line"/>
+      <point x="276" y="200" type="line"/>
+      <point x="276" y="-430" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2023/09/12 05:40:14</string>
+    </dict>
+  </lib>
+</glyph>

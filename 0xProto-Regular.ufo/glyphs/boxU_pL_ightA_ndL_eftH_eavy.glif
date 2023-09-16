@@ -1,0 +1,31 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="boxUpLightAndLeftHeavy" format="2">
+  <advance width="620"/>
+  <unicode hex="2519"/>
+  <outline>
+    <contour>
+      <point x="344" y="314" type="line"/>
+      <point x="344" y="1130" type="line"/>
+      <point x="276" y="1130" type="line"/>
+      <point x="276" y="314" type="line"/>
+    </contour>
+    <contour>
+      <point x="344" y="314" type="line"/>
+      <point x="344" y="1130" type="line"/>
+      <point x="276" y="1130" type="line"/>
+      <point x="276" y="314" type="line"/>
+    </contour>
+    <contour>
+      <point x="344" y="433" type="line"/>
+      <point x="-10" y="433" type="line"/>
+      <point x="-10" y="263" type="line"/>
+      <point x="344" y="263" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2023/09/12 04:45:03</string>
+    </dict>
+  </lib>
+</glyph>
