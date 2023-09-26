@@ -1,38 +1,38 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <glyph name="equal_greater" format="2">
-  <advance width="1240"/>
+  <advance width="620"/>
   <outline>
     <contour>
-      <point x="730" y="258" type="line"/>
-      <point x="120" y="258" type="line"/>
-      <point x="120" y="186" type="line"/>
-      <point x="730" y="186" type="line"/>
+      <point x="110" y="258" type="line"/>
+      <point x="-500" y="258" type="line"/>
+      <point x="-500" y="186" type="line"/>
+      <point x="110" y="186" type="line"/>
     </contour>
     <contour>
-      <point x="730" y="428" type="line"/>
-      <point x="120" y="428" type="line"/>
-      <point x="120" y="356" type="line"/>
-      <point x="730" y="356" type="line"/>
+      <point x="110" y="428" type="line"/>
+      <point x="-500" y="428" type="line"/>
+      <point x="-500" y="356" type="line"/>
+      <point x="110" y="356" type="line"/>
     </contour>
     <contour>
-      <point x="690" y="620" type="line"/>
-      <point x="690" y="523" type="line"/>
-      <point x="1120" y="263" type="line"/>
-      <point x="1120" y="356" type="line"/>
-      <point x="700" y="620" type="line"/>
+      <point x="70" y="620" type="line"/>
+      <point x="70" y="523" type="line"/>
+      <point x="500" y="263" type="line"/>
+      <point x="500" y="356" type="line"/>
+      <point x="80" y="620" type="line"/>
     </contour>
     <contour>
-      <point x="690" y="-7" type="line"/>
-      <point x="700" y="-7" type="line"/>
-      <point x="1120" y="257" type="line"/>
-      <point x="1120" y="350" type="line"/>
-      <point x="690" y="90" type="line"/>
+      <point x="70" y="-7" type="line"/>
+      <point x="80" y="-7" type="line"/>
+      <point x="500" y="257" type="line"/>
+      <point x="500" y="350" type="line"/>
+      <point x="70" y="90" type="line"/>
     </contour>
   </outline>
   <lib>
     <dict>
       <key>com.schriftgestaltung.Glyphs.lastChange</key>
-      <string>2023/09/14 06:46:15</string>
+      <string>2023/09/26 04:07:52</string>
     </dict>
   </lib>
 </glyph>

@@ -1,60 +1,452 @@
-feature liga {
-sub colon equal by colon_equal;
-sub question question by question_question;
-sub slash slash by slash_slash;
-sub equal greater by equal_greater;
-sub minus greater by minus_greater;
-sub greater greater by greater_greater;
-sub less less by less_less;
-sub ampersand ampersand by ampersand_ampersand;
-sub hyphen greater by hyphen_greater;
-sub exclam equal by exclam_equal;
-sub equal equal by equal_equal;
-sub equal equal equal by equal_equal_equal;
-sub exclam equal equal by exclam_equal_equal;
-sub colon colon by colon_colon;
-sub less hyphen by less_hyphen;
-sub less minus by less_minus;
-sub colon colon colon by colon_colon_colon;
-sub slash slash slash by slash_slash_slash;
-sub equal colon equal by equal_colon_equal;
-sub equal exclam equal by equal_exclam_equal;
-sub greater greater greater by greater_greater_greater;
-sub less equal greater by less_equal_greater;
-sub less less less by less_less_less;
-sub bar bar by bar_bar;
-sub bar greater by bar_greater;
-sub less bar by less_bar;
-sub bar bar greater by bar_bar_greater;
-sub less bar bar by less_bar_bar;
-sub bar bar bar greater by bar_bar_bar_greater;
-sub  less bar bar bar by less_bar_bar_bar;
-sub less bar greater by less_bar_greater;
-sub less greater by less_greater;
-sub numbersign equal by numbersign_equal;
-sub asterisk asterisk by asterisk_asterisk;
-sub asterisk asterisk asterisk by asterisk_asterisk_asterisk;
-sub colon less colon by colon_less_colon;
-sub colon greater colon by colon_greater_colon;
-sub bracketleft bar by bracketleft_bar;
-sub equal greater greater by equal_greater_greater;
-sub bar bracketright by bar_bracketright;
-sub equal less less by equal_less_less;
-sub greater equal greater by greater_equal_greater;
-sub less equal less by less_equal_less;
-sub less greater less by less_equal_less;
-sub equal greater equal by equal_greater_equal;
-sub equal less equal by equal_less_equal;
-sub less asterisk by less_asterisk;
-sub less plus by less_plus;
-sub less asterisk greater by less_asterisk_greater;
-sub less plus greater by less_plus_greater;
-sub asterisk greater by asterisk_greater;
-sub plus greater by plus_greater;
-sub period equal by period_equal;
-sub less dollar by less_dollar;
-sub dollar greater by dollar_greater;
-sub less dollar greater by less_dollar_greater;
-sub percent percent by percent_percent;
+# Prefix: Languagesystems
+# automatic
+languagesystem DFLT dflt;
 
+
+feature aalt {
+# automatic
+feature calt;
+
+} aalt;
+
+feature calt {
+# ***
+lookup asterisk_asterisk_asterisk {
+  ignore sub asterisk asterisk' asterisk asterisk;
+  ignore sub asterisk' asterisk asterisk asterisk;
+  ignore sub slash asterisk' asterisk asterisk;
+  ignore sub asterisk' asterisk asterisk slash;
+  sub asterisk.spacer asterisk.spacer asterisk' by asterisk_asterisk_asterisk;
+  sub asterisk.spacer asterisk' asterisk by asterisk.spacer;
+  sub asterisk' asterisk asterisk by asterisk.spacer;
+} asterisk_asterisk_asterisk;
+
+# **
+lookup asterisk_asterisk {
+  ignore sub asterisk' asterisk asterisk;
+  ignore sub asterisk asterisk' asterisk;
+  ignore sub slash asterisk' asterisk;
+  ignore sub asterisk' asterisk slash;
+  sub asterisk.spacer asterisk' by asterisk_asterisk;
+  sub asterisk' asterisk by asterisk.spacer;
+} asterisk_asterisk;
+
+# <*>
+lookup less_asterisk_greater {
+  sub less.spacer asterisk.spacer greater' by less_asterisk_greater;
+  sub less.spacer asterisk' greater by asterisk.spacer;
+  sub less' asterisk greater by less.spacer;
+} less_asterisk_greater;
+
+# *>
+lookup asterisk_greater {
+  sub asterisk.spacer greater' by asterisk_greater;
+  sub asterisk' greater by asterisk.spacer;
+} asterisk_greater;
+
+# <*
+lookup less_asterisk {
+  sub less.spacer asterisk' by less_asterisk;
+  sub less' asterisk by less.spacer;
+} less_asterisk;
+
+# <|>
+lookup less_bar_greater {
+  sub less.spacer bar.spacer greater' by less_bar_greater;
+  sub less.spacer bar' greater by bar.spacer;
+  sub less' bar greater by less.spacer;
+} less_bar_greater;
+
+# ///
+lookup slash_slash_slash {
+  ignore sub slash slash' slash slash;
+  ignore sub slash' slash slash slash;
+  sub slash.spacer slash.spacer slash' by slash_slash_slash;
+  sub slash.spacer slash' slash by slash.spacer;
+  sub slash' slash slash by slash.spacer;
+} slash_slash_slash;
+
+# //
+lookup slash_slash {
+  ignore sub slash slash' slash;
+  ignore sub slash' slash slash;
+  sub slash.spacer slash' by slash_slash;
+  sub slash' slash by slash.spacer;
+} slash_slash;
+
+# |||>
+lookup bar_bar_bar_greater {
+  sub bar.spacer bar.spacer bar.spacer greater' by bar_bar_bar_greater;
+  sub bar.spacer bar.spacer bar' greater by bar.spacer;
+  sub bar.spacer bar' bar greater by bar.spacer;
+  sub bar' bar bar greater by bar.spacer;
+} bar_bar_bar_greater;
+
+# ||>
+lookup bar_bar_greater {
+  sub bar.spacer bar.spacer greater' by bar_bar_greater;
+  sub bar.spacer bar' greater by bar.spacer;
+  sub bar' bar greater by bar.spacer;
+} bar_bar_greater;
+
+# |>
+lookup bar_greater {
+  sub bar.spacer greater' by bar_greater;
+  sub bar' greater by bar.spacer;
+} bar_greater;
+
+# |]
+lookup bar_bracketright {
+  sub bar.spacer bracketright' by bar_bracketright;
+  sub bar' bracketright by bar.spacer;
+} bar_bracketright;
+
+# [|
+lookup bracketleft_bar {
+  sub bracketleft.spacer bar' by bracketleft_bar;
+  sub bracketleft' bar by bracketleft.spacer;
+} bracketleft_bar;
+
+# <|||
+lookup less_bar_bar_bar {
+  sub less.spacer bar.spacer bar.spacer bar' by less_bar_bar_bar;
+  sub less.spacer bar.spacer bar' bar by bar.spacer;
+  sub less.spacer bar' bar bar by bar.spacer;
+  sub less' bar bar bar by less.spacer;
+} less_bar_bar_bar;
+
+# <||
+lookup less_bar_bar {
+  sub less.spacer bar.spacer bar' by less_bar_bar;
+  sub less.spacer bar' bar by bar.spacer;
+  sub less' bar bar by less.spacer;
+} less_bar_bar;
+
+# <|
+lookup less_bar {
+  sub less.spacer bar' by less_bar;
+  sub less' bar by less.spacer;
+} less_bar;
+
+# ||
+lookup bar_bar {
+  sub bar.spacer bar' by bar_bar;
+  sub bar' bar by bar.spacer;
+} bar_bar;
+
+# <>
+lookup less_greater {
+  sub less.spacer greater' by less_greater;
+  sub less' greater by less.spacer;
+} less_greater;
+
+# ->
+lookup hyphen_greater {
+  sub hyphen.spacer greater' by hyphen_greater;
+  sub hyphen' greater by hyphen.spacer;
+} hyphen_greater;
+
+# <-
+lookup less_hyphen {
+  sub less.spacer hyphen' by less_hyphen;
+  sub less' hyphen by less.spacer;
+} less_hyphen;
+
+# <=>
+lookup less_equal_greater {
+  sub less.spacer equal.spacer greater' by less_equal_greater;
+  sub less.spacer equal' greater by equal.spacer;
+  sub less' equal greater by less.spacer;
+} less_equal_greater;
+
+# <=<
+lookup less_equal_less {
+  sub less.spacer equal.spacer less' by less_equal_less;
+  sub less.spacer equal' less by equal.spacer;
+  sub less' equal less by less.spacer;
+} less_equal_less;
+
+# >=>
+lookup greater_equal_greater {
+  sub greater.spacer equal.spacer greater' by greater_equal_greater;
+  sub greater.spacer equal' greater by equal.spacer;
+  sub greater' equal greater by greater.spacer;
+} greater_equal_greater;
+
+# =>=
+lookup equal_greater_equal {
+  sub equal.spacer greater.spacer equal' by equal_greater_equal;
+  sub equal.spacer greater' equal by greater.spacer;
+  sub equal' greater equal by equal.spacer;
+} equal_greater_equal;
+
+# =<=
+lookup equal_less_equal {
+  sub equal.spacer less.spacer equal' by equal_less_equal;
+  sub equal.spacer less' equal by less.spacer;
+  sub equal' less equal by equal.spacer;
+} equal_less_equal;
+
+# =>>
+lookup equal_greater_greater {
+  sub equal.spacer greater.spacer greater' by equal_greater_greater;
+  sub equal.spacer greater' greater by greater.spacer;
+  sub equal' greater greater by equal.spacer;
+} equal_greater_greater;
+
+# =<<
+lookup equal_less_less {
+  sub equal.spacer less.spacer less' by equal_less_less;
+  sub equal.spacer less' less by less.spacer;
+  sub equal' less less by equal.spacer;
+} equal_less_less;
+
+# =>
+lookup equal_greater {
+  sub equal.spacer greater' by equal_greater;
+  sub equal' greater by equal.spacer;
+} equal_greater;
+
+# <<<
+lookup less_less_less {
+  ignore sub less less' less less;
+  ignore sub less' less less less;
+  sub less.spacer less.spacer less' by less_less_less;
+  sub less.spacer less' less by less.spacer;
+  sub less' less less by less.spacer;
+} less_less_less;
+
+# <<
+lookup less_less {
+  ignore sub less less' less;
+  ignore sub less' less less;
+  sub less.spacer less' by less_less;
+  sub less' less by less.spacer;
+} less_less;
+
+# >>>
+lookup greater_greater_greater {
+  ignore sub greater greater' greater greater;
+  ignore sub greater' greater greater greater;
+  sub greater.spacer greater.spacer greater' by greater_greater_greater;
+  sub greater.spacer greater' greater by greater.spacer;
+  sub greater' greater greater by greater.spacer;
+} greater_greater_greater;
+
+# >>
+lookup greater_greater {
+  ignore sub greater greater' greater;
+  ignore sub greater' greater greater;
+  sub greater.spacer greater' by greater_greater;
+  sub greater' greater by greater.spacer;
+} greater_greater;
+
+# <+>
+lookup less_plus_greater {
+  sub less.spacer plus.spacer greater' by less_plus_greater;
+  sub less.spacer plus' greater by plus.spacer;
+  sub less' plus greater by less.spacer;
+} less_plus_greater;
+
+# +>
+lookup plus_greater {
+  sub plus.spacer greater' by plus_greater;
+  sub plus' greater by plus.spacer;
+} plus_greater;
+
+# +>
+lookup less_plus {
+  sub less.spacer plus' by less_plus;
+  sub less' plus by less.spacer;
+} less_plus;
+
+# !==
+lookup exclam_equal_equal {
+  ignore sub exclam equal' equal equal;
+  ignore sub exclam equal equal' equal;
+  ignore sub exclam equal equal equal';
+  sub exclam.spacer equal.spacer equal' by exclam_equal_equal;
+  sub exclam.spacer equal' equal by equal.spacer;
+  sub exclam' equal equal by exclam.spacer;
+} exclam_equal_equal;
+
+# ===
+lookup equal_equal_equal {
+  ignore sub equal equal' equal equal;
+  ignore sub equal' equal equal equal;
+  sub equal.spacer equal.spacer equal' by equal_equal_equal;
+  sub equal.spacer equal' equal by equal.spacer;
+  sub equal' equal equal by equal.spacer;
+} equal_equal_equal;
+
+# ==
+lookup equal_equal {
+  ignore sub equal equal' equal;
+  ignore sub equal' equal equal;
+  sub equal.spacer equal' by equal_equal;
+  sub equal' equal by equal.spacer;
+} equal_equal;
+
+# .=
+lookup period_equal {
+  sub period.spacer equal' by period_equal;
+  sub period' equal by period.spacer;
+} period_equal;
+
+# =:=
+lookup equal_colon_equal {
+  sub equal.spacer colon.spacer equal' by equal_colon_equal;
+  sub equal.spacer colon' equal by colon.spacer;
+  sub equal' colon equal by equal.spacer;
+} equal_colon_equal;
+
+# :=
+lookup colon_equal {
+  sub colon.spacer equal' by colon_equal;
+  sub colon' equal by colon.spacer;
+} colon_equal;
+
+# :::
+lookup colon_colon_colon {
+  ignore sub colon colon' colon colon;
+  ignore sub colon' colon colon colon;
+  sub colon.spacer colon.spacer colon' by colon_colon_colon;
+  sub colon.spacer colon' colon by colon.spacer;
+  sub colon' colon colon by colon.spacer;
+} colon_colon_colon;
+
+# ::
+lookup colon_colon {
+  ignore sub colon colon' colon;
+  ignore sub colon' colon colon;
+  sub colon.spacer colon' by colon_colon;
+  sub colon' colon by colon.spacer;
+} colon_colon;
+
+# :<:
+lookup colon_less_colon {
+  sub colon.spacer less.spacer colon' by colon_less_colon;
+  sub colon.spacer less' colon by less.spacer;
+  sub colon' less colon by colon.spacer;
+} colon_less_colon ;
+
+# :>:
+lookup colon_greater_colon {
+  sub colon.spacer greater.spacer colon' by colon_greater_colon;
+  sub colon.spacer greater' colon by greater.spacer;
+  sub colon' greater colon by colon.spacer;
+} colon_greater_colon ;
+
+# =!=
+lookup equal_exclam_equal {
+  sub equal.spacer exclam.spacer equal' by equal_exclam_equal;
+  sub equal.spacer exclam' equal by exclam.spacer;
+  sub equal' exclam equal by equal.spacer;
+} equal_exclam_equal;
+
+# !=
+lookup exclam_equal {
+  sub exclam.spacer equal' by exclam_equal;
+  sub exclam' equal by exclam.spacer;
+} exclam_equal;
+
+# #=
+lookup numbersign_equal {
+  sub numbersign.spacer equal' by numbersign_equal;
+  sub numbersign' equal by numbersign.spacer;
+} numbersign_equal;
+
+# %%
+lookup percent_percent {
+  sub percent.spacer percent' by percent_percent;
+  sub percent' percent by percent.spacer;
+} percent_percent;
+
+# &&
+lookup ampersand_ampersand {
+  sub ampersand.spacer ampersand' by ampersand_ampersand;
+  sub ampersand' ampersand by ampersand.spacer;
+} ampersand_ampersand;
+
+# ??
+lookup question_question {
+  sub question.spacer question' by question_question;
+  sub question' question by question.spacer;
+} question_question;
+
+lookup less_dollar_greater {
+  sub less.spacer dollar.spacer greater' by less_dollar_greater;
+  sub less.spacer dollar' greater by dollar.spacer;
+  sub less' dollar greater by less.spacer;
+} less_dollar_greater;
+
+lookup less_dollar {
+  sub less.spacer dollar' by less_dollar;
+  sub less' dollar by less.spacer;
+} less_dollar;
+
+lookup dollar_greater {
+  sub dollar.spacer greater' by dollar_greater;
+  sub dollar' greater by dollar.spacer;
+} dollar_greater;
+
+} calt;
+
+feature liga {
+# disabled
+## lookupflag IgnoreMarks;
+## sub colon equal by colon_equal;
+## sub question question by question_question;
+## sub slash slash by slash_slash;
+## sub equal greater by equal_greater;
+## sub greater greater by greater_greater;
+## sub less less by less_less;
+## sub ampersand ampersand by ampersand_ampersand;
+## sub hyphen greater by hyphen_greater;
+## sub exclam equal by exclam_equal;
+## sub equal equal by equal_equal;
+## sub equal equal equal by equal_equal_equal;
+## sub exclam equal equal by exclam_equal_equal;
+## sub colon colon by colon_colon;
+## sub less hyphen by less_hyphen;
+## sub colon colon colon by colon_colon_colon;
+## sub slash slash slash by slash_slash_slash;
+## sub equal colon equal by equal_colon_equal;
+## sub equal exclam equal by equal_exclam_equal;
+## sub greater greater greater by greater_greater_greater;
+## sub less equal greater by less_equal_greater;
+## sub less less less by less_less_less;
+## sub bar bar by bar_bar;
+## sub bar greater by bar_greater;
+## sub less bar by less_bar;
+## sub bar bar greater by bar_bar_greater;
+## sub less bar bar by less_bar_bar;
+## sub bar bar bar greater by bar_bar_bar_greater;
+## sub  less bar bar bar by less_bar_bar_bar;
+## sub less bar greater by less_bar_greater;
+## sub less greater by less_greater;
+## sub numbersign equal by numbersign_equal;
+## sub asterisk asterisk by asterisk_asterisk;
+## sub asterisk asterisk asterisk by asterisk_asterisk_asterisk;
+## sub colon less colon by colon_less_colon;
+## sub colon greater colon by colon_greater_colon;
+## sub bracketleft bar by bracketleft_bar;
+## sub equal greater greater by equal_greater_greater;
+## sub bar bracketright by bar_bracketright;
+## sub equal less less by equal_less_less;
+## sub greater equal greater by greater_equal_greater;
+## sub less equal less by less_equal_less;
+## sub equal greater equal by equal_greater_equal;
+## sub equal less equal by equal_less_equal;
+## sub less asterisk by less_asterisk;
+## sub less plus by less_plus;
+## sub less asterisk greater by less_asterisk_greater;
+## sub less plus greater by less_plus_greater;
+## sub asterisk greater by asterisk_greater;
+## sub plus greater by plus_greater;
+## sub period equal by period_equal;
+## sub less dollar by less_dollar;
+## sub dollar greater by dollar_greater;
+## sub less dollar greater by less_dollar_greater;
+## sub percent percent by percent_percent;
 } liga;

@@ -141,14 +141,23 @@
       <string>numbersign</string>
       <string>slash</string>
       <string>backslash</string>
+      <string>period.spacer</string>
+      <string>colon.spacer</string>
+      <string>exclam.spacer</string>
+      <string>question.spacer</string>
+      <string>asterisk.spacer</string>
+      <string>numbersign.spacer</string>
+      <string>slash.spacer</string>
       <string>hyphen</string>
       <string>underscore</string>
+      <string>hyphen.spacer</string>
       <string>parenleft</string>
       <string>parenright</string>
       <string>braceleft</string>
       <string>braceright</string>
       <string>bracketleft</string>
       <string>bracketright</string>
+      <string>bracketleft.spacer</string>
       <string>quotedblleft</string>
       <string>quotedblright</string>
       <string>quoteleft</string>
@@ -163,7 +172,6 @@
       <string>bar_greater</string>
       <string>dollar_greater</string>
       <string>plus_greater</string>
-      <string>minus_greater</string>
       <string>equal_colon_equal</string>
       <string>equal_exclam_equal</string>
       <string>equal_equal</string>
@@ -187,7 +195,6 @@
       <string>less_dollar_greater</string>
       <string>less_plus</string>
       <string>less_plus_greater</string>
-      <string>less_minus</string>
       <string>less_equal_greater</string>
       <string>less_equal_less</string>
       <string>less_greater</string>
@@ -197,7 +204,10 @@
       <string>at</string>
       <string>ampersand</string>
       <string>bar</string>
+      <string>ampersand.spacer</string>
+      <string>bar.spacer</string>
       <string>dollar</string>
+      <string>dollar.spacer</string>
       <string>plus</string>
       <string>minus</string>
       <string>equal</string>
@@ -206,6 +216,11 @@
       <string>asciitilde</string>
       <string>asciicircum</string>
       <string>percent</string>
+      <string>plus.spacer</string>
+      <string>equal.spacer</string>
+      <string>greater.spacer</string>
+      <string>less.spacer</string>
+      <string>percent.spacer</string>
       <string>boxDoubleDownAndHorizontal</string>
       <string>boxDoubleDownAndLeft</string>
       <string>boxDoubleDownAndRight</string>

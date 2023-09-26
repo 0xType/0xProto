@@ -58,6 +58,8 @@
     <string>a.glif</string>
     <key>ampersand</key>
     <string>ampersand.glif</string>
+    <key>ampersand.spacer</key>
+    <string>ampersand.spacer.glif</string>
     <key>ampersand_ampersand</key>
     <string>ampersand_ampersand.glif</string>
     <key>asciicircum</key>
@@ -66,6 +68,8 @@
     <string>asciitilde.glif</string>
     <key>asterisk</key>
     <string>asterisk.glif</string>
+    <key>asterisk.spacer</key>
+    <string>asterisk.spacer.glif</string>
     <key>asterisk_asterisk</key>
     <string>asterisk_asterisk.glif</string>
     <key>asterisk_asterisk_asterisk</key>
@@ -80,6 +84,8 @@
     <string>backslash.glif</string>
     <key>bar</key>
     <string>bar.glif</string>
+    <key>bar.spacer</key>
+    <string>bar.spacer.glif</string>
     <key>bar_bar</key>
     <string>bar_bar.glif</string>
     <key>bar_bar_bar_greater</key>
@@ -352,6 +358,8 @@
     <string>braceright.glif</string>
     <key>bracketleft</key>
     <string>bracketleft.glif</string>
+    <key>bracketleft.spacer</key>
+    <string>bracketleft.spacer.glif</string>
     <key>bracketleft_bar</key>
     <string>bracketleft_bar.glif</string>
     <key>bracketright</key>
@@ -360,6 +368,8 @@
     <string>c.glif</string>
     <key>colon</key>
     <string>colon.glif</string>
+    <key>colon.spacer</key>
+    <string>colon.spacer.glif</string>
     <key>colon_colon</key>
     <string>colon_colon.glif</string>
     <key>colon_colon_colon</key>
@@ -376,6 +386,8 @@
     <string>d.glif</string>
     <key>dollar</key>
     <string>dollar.glif</string>
+    <key>dollar.spacer</key>
+    <string>dollar.spacer.glif</string>
     <key>dollar_greater</key>
     <string>dollar_greater.glif</string>
     <key>e</key>
@@ -384,6 +396,8 @@
     <string>eight.glif</string>
     <key>equal</key>
     <string>equal.glif</string>
+    <key>equal.spacer</key>
+    <string>equal.spacer.glif</string>
     <key>equal_colon_equal</key>
     <string>equal_colon_equal.glif</string>
     <key>equal_equal</key>
@@ -404,6 +418,8 @@
     <string>equal_less_less.glif</string>
     <key>exclam</key>
     <string>exclam.glif</string>
+    <key>exclam.spacer</key>
+    <string>exclam.spacer.glif</string>
     <key>exclam_equal</key>
     <string>exclam_equal.glif</string>
     <key>exclam_equal_equal</key>
@@ -420,6 +436,8 @@
     <string>grave.glif</string>
     <key>greater</key>
     <string>greater.glif</string>
+    <key>greater.spacer</key>
+    <string>greater.spacer.glif</string>
     <key>greater_equal_greater</key>
     <string>greater_equal_greater.glif</string>
     <key>greater_greater</key>
@@ -430,6 +448,8 @@
     <string>h.glif</string>
     <key>hyphen</key>
     <string>hyphen.glif</string>
+    <key>hyphen.spacer</key>
+    <string>hyphen.spacer.glif</string>
     <key>hyphen_greater</key>
     <string>hyphen_greater.glif</string>
     <key>i</key>
@@ -442,6 +462,8 @@
     <string>l.glif</string>
     <key>less</key>
     <string>less.glif</string>
+    <key>less.spacer</key>
+    <string>less.spacer.glif</string>
     <key>less_asterisk</key>
     <string>less_asterisk.glif</string>
     <key>less_asterisk_greater</key>
@@ -470,8 +492,6 @@
     <string>less_less.glif</string>
     <key>less_less_less</key>
     <string>less_less_less.glif</string>
-    <key>less_minus</key>
-    <string>less_minus.glif</string>
     <key>less_plus</key>
     <string>less_plus.glif</string>
     <key>less_plus_greater</key>
@@ -480,14 +500,14 @@
     <string>m.glif</string>
     <key>minus</key>
     <string>minus.glif</string>
-    <key>minus_greater</key>
-    <string>minus_greater.glif</string>
     <key>n</key>
     <string>n.glif</string>
     <key>nine</key>
     <string>nine.glif</string>
     <key>numbersign</key>
     <string>numbersign.glif</string>
+    <key>numbersign.spacer</key>
+    <string>numbersign.spacer.glif</string>
     <key>numbersign_equal</key>
     <string>numbersign_equal.glif</string>
     <key>o</key>
@@ -502,20 +522,28 @@
     <string>parenright.glif</string>
     <key>percent</key>
     <string>percent.glif</string>
+    <key>percent.spacer</key>
+    <string>percent.spacer.glif</string>
     <key>percent_percent</key>
     <string>percent_percent.glif</string>
     <key>period</key>
     <string>period.glif</string>
+    <key>period.spacer</key>
+    <string>period.spacer.glif</string>
     <key>period_equal</key>
     <string>period_equal.glif</string>
     <key>plus</key>
     <string>plus.glif</string>
+    <key>plus.spacer</key>
+    <string>plus.spacer.glif</string>
     <key>plus_greater</key>
     <string>plus_greater.glif</string>
     <key>q</key>
     <string>q.glif</string>
     <key>question</key>
     <string>question.glif</string>
+    <key>question.spacer</key>
+    <string>question.spacer.glif</string>
     <key>question_question</key>
     <string>question_question.glif</string>
     <key>quotedbl</key>
@@ -542,6 +570,8 @@
     <string>six.glif</string>
     <key>slash</key>
     <string>slash.glif</string>
+    <key>slash.spacer</key>
+    <string>slash.spacer.glif</string>
     <key>slash_slash</key>
     <string>slash_slash.glif</string>
     <key>slash_slash_slash</key>

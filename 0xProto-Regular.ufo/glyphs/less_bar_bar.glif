@@ -1,38 +1,38 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <glyph name="less_bar_bar" format="2">
-  <advance width="1860"/>
+  <advance width="620"/>
   <outline>
     <contour>
-      <point x="909" y="632" type="line"/>
-      <point x="909" y="-24" type="line"/>
-      <point x="995" y="-24" type="line"/>
-      <point x="995" y="632" type="line"/>
+      <point x="-331" y="632" type="line"/>
+      <point x="-331" y="-24" type="line"/>
+      <point x="-245" y="-24" type="line"/>
+      <point x="-245" y="632" type="line"/>
     </contour>
     <contour>
-      <point x="846" y="632" type="line"/>
-      <point x="836" y="632" type="line"/>
-      <point x="392" y="358" type="line"/>
-      <point x="392" y="262" type="line"/>
-      <point x="846" y="532" type="line"/>
+      <point x="-394" y="632" type="line"/>
+      <point x="-404" y="632" type="line"/>
+      <point x="-848" y="358" type="line"/>
+      <point x="-848" y="262" type="line"/>
+      <point x="-394" y="532" type="line"/>
     </contour>
     <contour>
-      <point x="846" y="-24" type="line"/>
-      <point x="846" y="76" type="line"/>
-      <point x="392" y="351" type="line"/>
-      <point x="392" y="255" type="line"/>
-      <point x="836" y="-24" type="line"/>
+      <point x="-394" y="-24" type="line"/>
+      <point x="-394" y="76" type="line"/>
+      <point x="-848" y="351" type="line"/>
+      <point x="-848" y="255" type="line"/>
+      <point x="-404" y="-24" type="line"/>
     </contour>
     <contour>
-      <point x="1314" y="632" type="line"/>
-      <point x="1314" y="-24" type="line"/>
-      <point x="1400" y="-24" type="line"/>
-      <point x="1400" y="632" type="line"/>
+      <point x="74" y="632" type="line"/>
+      <point x="74" y="-24" type="line"/>
+      <point x="160" y="-24" type="line"/>
+      <point x="160" y="632" type="line"/>
     </contour>
   </outline>
   <lib>
     <dict>
       <key>com.schriftgestaltung.Glyphs.lastChange</key>
-      <string>2023/09/14 07:07:09</string>
+      <string>2023/09/26 04:14:02</string>
     </dict>
   </lib>
 </glyph>

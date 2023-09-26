@@ -62,6 +62,8 @@
       <integer>0</integer>
       <key>com.schriftgestaltung.layerOrderInGlyph.ampersand</key>
       <integer>0</integer>
+      <key>com.schriftgestaltung.layerOrderInGlyph.ampersand.spacer</key>
+      <integer>0</integer>
       <key>com.schriftgestaltung.layerOrderInGlyph.ampersand_ampersand</key>
       <integer>0</integer>
       <key>com.schriftgestaltung.layerOrderInGlyph.asciicircum</key>
@@ -69,6 +71,8 @@
       <key>com.schriftgestaltung.layerOrderInGlyph.asciitilde</key>
       <integer>0</integer>
       <key>com.schriftgestaltung.layerOrderInGlyph.asterisk</key>
+      <integer>0</integer>
+      <key>com.schriftgestaltung.layerOrderInGlyph.asterisk.spacer</key>
       <integer>0</integer>
       <key>com.schriftgestaltung.layerOrderInGlyph.asterisk_asterisk</key>
       <integer>0</integer>
@@ -83,6 +87,8 @@
       <key>com.schriftgestaltung.layerOrderInGlyph.backslash</key>
       <integer>0</integer>
       <key>com.schriftgestaltung.layerOrderInGlyph.bar</key>
+      <integer>0</integer>
+      <key>com.schriftgestaltung.layerOrderInGlyph.bar.spacer</key>
       <integer>0</integer>
       <key>com.schriftgestaltung.layerOrderInGlyph.bar_bar</key>
       <integer>0</integer>
@@ -356,6 +362,8 @@
       <integer>0</integer>
       <key>com.schriftgestaltung.layerOrderInGlyph.bracketleft</key>
       <integer>0</integer>
+      <key>com.schriftgestaltung.layerOrderInGlyph.bracketleft.spacer</key>
+      <integer>0</integer>
       <key>com.schriftgestaltung.layerOrderInGlyph.bracketleft_bar</key>
       <integer>0</integer>
       <key>com.schriftgestaltung.layerOrderInGlyph.bracketright</key>
@@ -363,6 +371,8 @@
       <key>com.schriftgestaltung.layerOrderInGlyph.c</key>
       <integer>0</integer>
       <key>com.schriftgestaltung.layerOrderInGlyph.colon</key>
+      <integer>0</integer>
+      <key>com.schriftgestaltung.layerOrderInGlyph.colon.spacer</key>
       <integer>0</integer>
       <key>com.schriftgestaltung.layerOrderInGlyph.colon_colon</key>
       <integer>0</integer>
@@ -380,6 +390,8 @@
       <integer>0</integer>
       <key>com.schriftgestaltung.layerOrderInGlyph.dollar</key>
       <integer>0</integer>
+      <key>com.schriftgestaltung.layerOrderInGlyph.dollar.spacer</key>
+      <integer>0</integer>
       <key>com.schriftgestaltung.layerOrderInGlyph.dollar_greater</key>
       <integer>0</integer>
       <key>com.schriftgestaltung.layerOrderInGlyph.e</key>
@@ -387,6 +399,8 @@
       <key>com.schriftgestaltung.layerOrderInGlyph.eight</key>
       <integer>0</integer>
       <key>com.schriftgestaltung.layerOrderInGlyph.equal</key>
+      <integer>0</integer>
+      <key>com.schriftgestaltung.layerOrderInGlyph.equal.spacer</key>
       <integer>0</integer>
       <key>com.schriftgestaltung.layerOrderInGlyph.equal_colon_equal</key>
       <integer>0</integer>
@@ -408,6 +422,8 @@
       <integer>0</integer>
       <key>com.schriftgestaltung.layerOrderInGlyph.exclam</key>
       <integer>0</integer>
+      <key>com.schriftgestaltung.layerOrderInGlyph.exclam.spacer</key>
+      <integer>0</integer>
       <key>com.schriftgestaltung.layerOrderInGlyph.exclam_equal</key>
       <integer>0</integer>
       <key>com.schriftgestaltung.layerOrderInGlyph.exclam_equal_equal</key>
@@ -424,6 +440,8 @@
       <integer>0</integer>
       <key>com.schriftgestaltung.layerOrderInGlyph.greater</key>
       <integer>0</integer>
+      <key>com.schriftgestaltung.layerOrderInGlyph.greater.spacer</key>
+      <integer>0</integer>
       <key>com.schriftgestaltung.layerOrderInGlyph.greater_equal_greater</key>
       <integer>0</integer>
       <key>com.schriftgestaltung.layerOrderInGlyph.greater_greater</key>
@@ -433,6 +451,8 @@
       <key>com.schriftgestaltung.layerOrderInGlyph.h</key>
       <integer>0</integer>
       <key>com.schriftgestaltung.layerOrderInGlyph.hyphen</key>
+      <integer>0</integer>
+      <key>com.schriftgestaltung.layerOrderInGlyph.hyphen.spacer</key>
       <integer>0</integer>
       <key>com.schriftgestaltung.layerOrderInGlyph.hyphen_greater</key>
       <integer>0</integer>
@@ -445,6 +465,8 @@
       <key>com.schriftgestaltung.layerOrderInGlyph.l</key>
       <integer>0</integer>
       <key>com.schriftgestaltung.layerOrderInGlyph.less</key>
+      <integer>0</integer>
+      <key>com.schriftgestaltung.layerOrderInGlyph.less.spacer</key>
       <integer>0</integer>
       <key>com.schriftgestaltung.layerOrderInGlyph.less_asterisk</key>
       <integer>0</integer>
@@ -474,8 +496,6 @@
       <integer>0</integer>
       <key>com.schriftgestaltung.layerOrderInGlyph.less_less_less</key>
       <integer>0</integer>
-      <key>com.schriftgestaltung.layerOrderInGlyph.less_minus</key>
-      <integer>0</integer>
       <key>com.schriftgestaltung.layerOrderInGlyph.less_plus</key>
       <integer>0</integer>
       <key>com.schriftgestaltung.layerOrderInGlyph.less_plus_greater</key>
@@ -484,13 +504,13 @@
       <integer>0</integer>
       <key>com.schriftgestaltung.layerOrderInGlyph.minus</key>
       <integer>0</integer>
-      <key>com.schriftgestaltung.layerOrderInGlyph.minus_greater</key>
-      <integer>0</integer>
       <key>com.schriftgestaltung.layerOrderInGlyph.n</key>
       <integer>0</integer>
       <key>com.schriftgestaltung.layerOrderInGlyph.nine</key>
       <integer>0</integer>
       <key>com.schriftgestaltung.layerOrderInGlyph.numbersign</key>
+      <integer>0</integer>
+      <key>com.schriftgestaltung.layerOrderInGlyph.numbersign.spacer</key>
       <integer>0</integer>
       <key>com.schriftgestaltung.layerOrderInGlyph.numbersign_equal</key>
       <integer>0</integer>
@@ -506,19 +526,27 @@
       <integer>0</integer>
       <key>com.schriftgestaltung.layerOrderInGlyph.percent</key>
       <integer>0</integer>
+      <key>com.schriftgestaltung.layerOrderInGlyph.percent.spacer</key>
+      <integer>0</integer>
       <key>com.schriftgestaltung.layerOrderInGlyph.percent_percent</key>
       <integer>0</integer>
       <key>com.schriftgestaltung.layerOrderInGlyph.period</key>
       <integer>0</integer>
+      <key>com.schriftgestaltung.layerOrderInGlyph.period.spacer</key>
+      <integer>0</integer>
       <key>com.schriftgestaltung.layerOrderInGlyph.period_equal</key>
       <integer>0</integer>
       <key>com.schriftgestaltung.layerOrderInGlyph.plus</key>
+      <integer>0</integer>
+      <key>com.schriftgestaltung.layerOrderInGlyph.plus.spacer</key>
       <integer>0</integer>
       <key>com.schriftgestaltung.layerOrderInGlyph.plus_greater</key>
       <integer>0</integer>
       <key>com.schriftgestaltung.layerOrderInGlyph.q</key>
       <integer>0</integer>
       <key>com.schriftgestaltung.layerOrderInGlyph.question</key>
+      <integer>0</integer>
+      <key>com.schriftgestaltung.layerOrderInGlyph.question.spacer</key>
       <integer>0</integer>
       <key>com.schriftgestaltung.layerOrderInGlyph.question_question</key>
       <integer>0</integer>
@@ -545,6 +573,8 @@
       <key>com.schriftgestaltung.layerOrderInGlyph.six</key>
       <integer>0</integer>
       <key>com.schriftgestaltung.layerOrderInGlyph.slash</key>
+      <integer>0</integer>
+      <key>com.schriftgestaltung.layerOrderInGlyph.slash.spacer</key>
       <integer>0</integer>
       <key>com.schriftgestaltung.layerOrderInGlyph.slash_slash</key>
       <integer>0</integer>
