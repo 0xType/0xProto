@@ -1,36 +1,36 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <glyph name="bracketleft_bar" format="2">
-  <advance width="1240"/>
+  <advance width="620"/>
   <outline>
     <contour>
-      <point x="300" y="750" type="line"/>
-      <point x="300" y="-120" type="line"/>
-      <point x="395" y="-120" type="line"/>
-      <point x="395" y="750" type="line"/>
+      <point x="-320" y="750" type="line"/>
+      <point x="-320" y="-120" type="line"/>
+      <point x="-225" y="-120" type="line"/>
+      <point x="-225" y="750" type="line"/>
     </contour>
     <contour>
-      <point x="654" y="750" type="line"/>
-      <point x="324" y="750" type="line"/>
-      <point x="324" y="665" type="line"/>
-      <point x="654" y="665" type="line"/>
+      <point x="34" y="750" type="line"/>
+      <point x="-296" y="750" type="line"/>
+      <point x="-296" y="665" type="line"/>
+      <point x="34" y="665" type="line"/>
     </contour>
     <contour>
-      <point x="654" y="-35" type="line"/>
-      <point x="324" y="-35" type="line"/>
-      <point x="324" y="-120" type="line"/>
-      <point x="654" y="-120" type="line"/>
+      <point x="34" y="-35" type="line"/>
+      <point x="-296" y="-35" type="line"/>
+      <point x="-296" y="-120" type="line"/>
+      <point x="34" y="-120" type="line"/>
     </contour>
     <contour>
-      <point x="890" y="750" type="line"/>
-      <point x="795" y="750" type="line"/>
-      <point x="795" y="-120" type="line"/>
-      <point x="890" y="-120" type="line"/>
+      <point x="270" y="750" type="line"/>
+      <point x="175" y="750" type="line"/>
+      <point x="175" y="-120" type="line"/>
+      <point x="270" y="-120" type="line"/>
     </contour>
   </outline>
   <lib>
     <dict>
       <key>com.schriftgestaltung.Glyphs.lastChange</key>
-      <string>2023/09/14 07:08:34</string>
+      <string>2023/09/26 03:41:40</string>
     </dict>
   </lib>
 </glyph>

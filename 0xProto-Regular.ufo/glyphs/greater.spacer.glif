@@ -1,0 +1,12 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="greater.spacer" format="2">
+  <advance width="600"/>
+  <outline>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2023/09/26 07:59:59</string>
+    </dict>
+  </lib>
+</glyph>

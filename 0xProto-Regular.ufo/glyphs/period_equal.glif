@@ -1,38 +1,38 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <glyph name="period_equal" format="2">
-  <advance width="1240"/>
+  <advance width="620"/>
   <outline>
     <contour>
-      <point x="314" y="-16" type="curve" smooth="yes"/>
-      <point x="358" y="-16"/>
-      <point x="394" y="20"/>
-      <point x="394" y="64" type="curve" smooth="yes"/>
-      <point x="394" y="108"/>
-      <point x="358" y="144"/>
-      <point x="314" y="144" type="curve" smooth="yes"/>
-      <point x="270" y="144"/>
-      <point x="234" y="108"/>
-      <point x="234" y="64" type="curve" smooth="yes"/>
-      <point x="234" y="20"/>
-      <point x="270" y="-16"/>
+      <point x="-306" y="-16" type="curve" smooth="yes"/>
+      <point x="-262" y="-16"/>
+      <point x="-226" y="20"/>
+      <point x="-226" y="64" type="curve" smooth="yes"/>
+      <point x="-226" y="108"/>
+      <point x="-262" y="144"/>
+      <point x="-306" y="144" type="curve" smooth="yes"/>
+      <point x="-350" y="144"/>
+      <point x="-386" y="108"/>
+      <point x="-386" y="64" type="curve" smooth="yes"/>
+      <point x="-386" y="20"/>
+      <point x="-350" y="-16"/>
     </contour>
     <contour>
-      <point x="1060" y="247" type="line"/>
-      <point x="570" y="247" type="line"/>
-      <point x="570" y="159" type="line"/>
-      <point x="1060" y="159" type="line"/>
+      <point x="440" y="247" type="line"/>
+      <point x="-50" y="247" type="line"/>
+      <point x="-50" y="159" type="line"/>
+      <point x="440" y="159" type="line"/>
     </contour>
     <contour>
-      <point x="1060" y="447" type="line"/>
-      <point x="570" y="447" type="line"/>
-      <point x="570" y="359" type="line"/>
-      <point x="1060" y="359" type="line"/>
+      <point x="440" y="447" type="line"/>
+      <point x="-50" y="447" type="line"/>
+      <point x="-50" y="359" type="line"/>
+      <point x="440" y="359" type="line"/>
     </contour>
   </outline>
   <lib>
     <dict>
       <key>com.schriftgestaltung.Glyphs.lastChange</key>
-      <string>2023/09/14 07:08:38</string>
+      <string>2023/09/26 03:42:01</string>
     </dict>
   </lib>
 </glyph>

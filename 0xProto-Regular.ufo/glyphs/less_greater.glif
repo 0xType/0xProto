@@ -1,40 +1,40 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <glyph name="less_greater" format="2">
-  <advance width="1240"/>
+  <advance width="620"/>
   <outline>
     <contour>
-      <point x="585" y="597" type="line"/>
-      <point x="575" y="597" type="line"/>
-      <point x="165" y="356" type="line"/>
-      <point x="165" y="263" type="line"/>
-      <point x="585" y="498" type="line"/>
+      <point x="-35" y="597" type="line"/>
+      <point x="-45" y="597" type="line"/>
+      <point x="-455" y="356" type="line"/>
+      <point x="-455" y="263" type="line"/>
+      <point x="-35" y="498" type="line"/>
     </contour>
     <contour>
-      <point x="585" y="11" type="line"/>
-      <point x="585" y="110" type="line"/>
-      <point x="165" y="350" type="line"/>
-      <point x="165" y="257" type="line"/>
-      <point x="575" y="11" type="line"/>
+      <point x="-35" y="11" type="line"/>
+      <point x="-35" y="110" type="line"/>
+      <point x="-455" y="350" type="line"/>
+      <point x="-455" y="257" type="line"/>
+      <point x="-45" y="11" type="line"/>
     </contour>
     <contour>
-      <point x="655" y="597" type="line"/>
-      <point x="655" y="498" type="line"/>
-      <point x="1075" y="263" type="line"/>
-      <point x="1075" y="356" type="line"/>
-      <point x="665" y="597" type="line"/>
+      <point x="35" y="597" type="line"/>
+      <point x="35" y="498" type="line"/>
+      <point x="455" y="263" type="line"/>
+      <point x="455" y="356" type="line"/>
+      <point x="45" y="597" type="line"/>
     </contour>
     <contour>
-      <point x="655" y="11" type="line"/>
-      <point x="665" y="11" type="line"/>
-      <point x="1075" y="257" type="line"/>
-      <point x="1075" y="350" type="line"/>
-      <point x="655" y="110" type="line"/>
+      <point x="35" y="11" type="line"/>
+      <point x="45" y="11" type="line"/>
+      <point x="455" y="257" type="line"/>
+      <point x="455" y="350" type="line"/>
+      <point x="35" y="110" type="line"/>
     </contour>
   </outline>
   <lib>
     <dict>
       <key>com.schriftgestaltung.Glyphs.lastChange</key>
-      <string>2023/09/14 07:07:57</string>
+      <string>2023/09/26 04:16:04</string>
     </dict>
   </lib>
 </glyph>

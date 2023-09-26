@@ -1,32 +1,32 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <glyph name="less_bar" format="2">
-  <advance width="1240"/>
+  <advance width="620"/>
   <outline>
     <contour>
-      <point x="817" y="632" type="line"/>
-      <point x="817" y="-24" type="line"/>
-      <point x="903" y="-24" type="line"/>
-      <point x="903" y="632" type="line"/>
+      <point x="197" y="632" type="line"/>
+      <point x="197" y="-24" type="line"/>
+      <point x="283" y="-24" type="line"/>
+      <point x="283" y="632" type="line"/>
     </contour>
     <contour>
-      <point x="754" y="632" type="line"/>
-      <point x="744" y="632" type="line"/>
-      <point x="300" y="358" type="line"/>
-      <point x="300" y="262" type="line"/>
-      <point x="754" y="532" type="line"/>
+      <point x="134" y="632" type="line"/>
+      <point x="124" y="632" type="line"/>
+      <point x="-320" y="358" type="line"/>
+      <point x="-320" y="262" type="line"/>
+      <point x="134" y="532" type="line"/>
     </contour>
     <contour>
-      <point x="754" y="-24" type="line"/>
-      <point x="754" y="76" type="line"/>
-      <point x="300" y="351" type="line"/>
-      <point x="300" y="255" type="line"/>
-      <point x="744" y="-24" type="line"/>
+      <point x="134" y="-24" type="line"/>
+      <point x="134" y="76" type="line"/>
+      <point x="-320" y="351" type="line"/>
+      <point x="-320" y="255" type="line"/>
+      <point x="124" y="-24" type="line"/>
     </contour>
   </outline>
   <lib>
     <dict>
       <key>com.schriftgestaltung.Glyphs.lastChange</key>
-      <string>2023/09/14 07:07:05</string>
+      <string>2023/09/26 04:13:47</string>
     </dict>
   </lib>
 </glyph>

@@ -1,38 +1,38 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <glyph name="bar_bar_greater" format="2">
-  <advance width="1860"/>
+  <advance width="620"/>
   <outline>
     <contour>
-      <point x="951" y="632" type="line"/>
-      <point x="865" y="632" type="line"/>
-      <point x="865" y="-24" type="line"/>
-      <point x="951" y="-24" type="line"/>
+      <point x="-289" y="632" type="line"/>
+      <point x="-375" y="632" type="line"/>
+      <point x="-375" y="-24" type="line"/>
+      <point x="-289" y="-24" type="line"/>
     </contour>
     <contour>
-      <point x="1014" y="632" type="line"/>
-      <point x="1014" y="532" type="line"/>
-      <point x="1468" y="262" type="line"/>
-      <point x="1468" y="358" type="line"/>
-      <point x="1024" y="632" type="line"/>
+      <point x="-226" y="632" type="line"/>
+      <point x="-226" y="532" type="line"/>
+      <point x="228" y="262" type="line"/>
+      <point x="228" y="358" type="line"/>
+      <point x="-216" y="632" type="line"/>
     </contour>
     <contour>
-      <point x="1014" y="-24" type="line"/>
-      <point x="1024" y="-24" type="line"/>
-      <point x="1468" y="255" type="line"/>
-      <point x="1468" y="351" type="line"/>
-      <point x="1014" y="76" type="line"/>
+      <point x="-226" y="-24" type="line"/>
+      <point x="-216" y="-24" type="line"/>
+      <point x="228" y="255" type="line"/>
+      <point x="228" y="351" type="line"/>
+      <point x="-226" y="76" type="line"/>
     </contour>
     <contour>
-      <point x="546" y="632" type="line"/>
-      <point x="460" y="632" type="line"/>
-      <point x="460" y="-24" type="line"/>
-      <point x="546" y="-24" type="line"/>
+      <point x="-694" y="632" type="line"/>
+      <point x="-780" y="632" type="line"/>
+      <point x="-780" y="-24" type="line"/>
+      <point x="-694" y="-24" type="line"/>
     </contour>
   </outline>
   <lib>
     <dict>
       <key>com.schriftgestaltung.Glyphs.lastChange</key>
-      <string>2023/09/14 07:05:21</string>
+      <string>2023/09/26 03:57:37</string>
     </dict>
   </lib>
 </glyph>
