@@ -1,5 +1,9 @@
 All notable changes to this project will be documented in this file.
 
+## 1.201
+
+- Ignore ligatures with continuous characters https://github.com/0xType/0xProto/pull/23
+
 ## 1.200
 
 - Support box-drawing characters https://github.com/0xType/0xProto/pull/17
