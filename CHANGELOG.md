@@ -1,5 +1,17 @@
 All notable changes to this project will be documented in this file.
 
+## 1.300
+
+- Fine-tune the following glyphs https://github.com/0xType/0xProto/pull/29
+  - `()`
+  - `[]`
+  - `{}`
+  - `!`
+  - `?`
+  - `,`
+  - `;`
+  - and ligatures that includes the glyphs
+
 ## 1.201
 
 - Ignore ligatures with continuous characters https://github.com/0xType/0xProto/pull/23
