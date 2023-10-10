@@ -18,9 +18,9 @@
       <point x="279" y="400"/>
     </contour>
     <contour>
-      <point x="266" y="39" type="line"/>
-      <point x="202" y="-179" type="line"/>
-      <point x="263" y="-179" type="line"/>
+      <point x="268" y="39" type="line"/>
+      <point x="182" y="-193" type="line"/>
+      <point x="243" y="-193" type="line"/>
       <point x="386" y="39" type="line"/>
     </contour>
     <contour>
@@ -41,7 +41,7 @@
   <lib>
     <dict>
       <key>com.schriftgestaltung.Glyphs.lastChange</key>
-      <string>2023/05/04 05:24:40</string>
+      <string>2023/09/29 06:56:28</string>
     </dict>
   </lib>
 </glyph>

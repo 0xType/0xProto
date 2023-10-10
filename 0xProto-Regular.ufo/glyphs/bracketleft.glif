@@ -4,28 +4,28 @@
   <unicode hex="005B"/>
   <outline>
     <contour>
-      <point x="196" y="750" type="line"/>
-      <point x="196" y="-120" type="line"/>
-      <point x="291" y="-120" type="line"/>
-      <point x="291" y="750" type="line"/>
+      <point x="191" y="750" type="line"/>
+      <point x="191" y="-120" type="line"/>
+      <point x="286" y="-120" type="line"/>
+      <point x="286" y="750" type="line"/>
     </contour>
     <contour>
-      <point x="440" y="750" type="line"/>
-      <point x="220" y="750" type="line"/>
-      <point x="220" y="665" type="line"/>
-      <point x="440" y="665" type="line"/>
+      <point x="470" y="750" type="line"/>
+      <point x="215" y="750" type="line"/>
+      <point x="215" y="665" type="line"/>
+      <point x="470" y="665" type="line"/>
     </contour>
     <contour>
-      <point x="440" y="-35" type="line"/>
-      <point x="220" y="-35" type="line"/>
-      <point x="220" y="-120" type="line"/>
-      <point x="440" y="-120" type="line"/>
+      <point x="470" y="-35" type="line"/>
+      <point x="215" y="-35" type="line"/>
+      <point x="215" y="-120" type="line"/>
+      <point x="470" y="-120" type="line"/>
     </contour>
   </outline>
   <lib>
     <dict>
       <key>com.schriftgestaltung.Glyphs.lastChange</key>
-      <string>2023/05/04 01:18:11</string>
+      <string>2023/09/29 06:54:27</string>
     </dict>
   </lib>
 </glyph>
