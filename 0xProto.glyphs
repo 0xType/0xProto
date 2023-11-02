@@ -15219,6 +15219,19 @@ value = "0xProto";
 {
 key = manufacturerURL;
 value = "https://0xtype.dev/";
+},
+{
+key = copyrights;
+values = (
+{
+language = dflt;
+value = "0xType Project Authors (https://github.com/0xType)";
+}
+);
+},
+{
+key = vendorID;
+value = "0xType";
 }
 );
 unitsPerEm = 1000;
