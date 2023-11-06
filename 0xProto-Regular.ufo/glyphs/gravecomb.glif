@@ -1,0 +1,23 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="gravecomb" format="2">
+  <unicode hex="0300"/>
+  <outline>
+    <contour>
+      <point x="287" y="786" type="line"/>
+      <point x="173" y="786" type="line"/>
+      <point x="173" y="780" type="line"/>
+      <point x="278" y="628" type="line"/>
+      <point x="349" y="628" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.Export</key>
+      <false/>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2023/11/06 02:48:29</string>
+      <key>com.schriftgestaltung.Glyphs.originalWidth</key>
+      <integer>620</integer>
+    </dict>
+  </lib>
+</glyph>

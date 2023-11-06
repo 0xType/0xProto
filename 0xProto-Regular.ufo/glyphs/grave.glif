@@ -13,8 +13,10 @@
   </outline>
   <lib>
     <dict>
+      <key>com.schriftgestaltung.Glyphs.Export</key>
+      <false/>
       <key>com.schriftgestaltung.Glyphs.lastChange</key>
-      <string>2023/05/02 07:00:55</string>
+      <string>2023/11/01 12:16:57</string>
     </dict>
   </lib>
 </glyph>
