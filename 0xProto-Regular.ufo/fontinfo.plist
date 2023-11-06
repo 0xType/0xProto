@@ -6,6 +6,8 @@
     <integer>750</integer>
     <key>capHeight</key>
     <integer>710</integer>
+    <key>copyright</key>
+    <string>0xType Project Authors (https://github.com/0xType)</string>
     <key>descender</key>
     <integer>-200</integer>
     <key>familyName</key>
@@ -33,6 +35,8 @@
     <array>
       <integer>3</integer>
     </array>
+    <key>openTypeOS2VendorID</key>
+    <string>0xType</string>
     <key>postscriptBlueValues</key>
     <array>
       <integer>-16</integer>
