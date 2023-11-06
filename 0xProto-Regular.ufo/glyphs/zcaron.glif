@@ -1,0 +1,15 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="zcaron" format="2">
+  <advance width="620"/>
+  <unicode hex="017E"/>
+  <outline>
+    <component base="z"/>
+    <component base="circumflexcomb" yScale="-1" xOffset="14" yOffset="1394"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2023/11/02 02:55:38</string>
+    </dict>
+  </lib>
+</glyph>

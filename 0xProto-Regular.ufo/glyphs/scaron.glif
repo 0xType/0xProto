@@ -1,0 +1,15 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="scaron" format="2">
+  <advance width="620"/>
+  <unicode hex="0161"/>
+  <outline>
+    <component base="s"/>
+    <component base="circumflexcomb" yScale="-1" yOffset="1394"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2023/11/02 00:33:06</string>
+    </dict>
+  </lib>
+</glyph>

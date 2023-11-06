@@ -52,57 +52,124 @@
     <key>public.glyphOrder</key>
     <array>
       <string>A</string>
+      <string>Aacute</string>
+      <string>Acircumflex</string>
+      <string>Adieresis</string>
+      <string>Agrave</string>
+      <string>Aring</string>
+      <string>Atilde</string>
+      <string>AE</string>
       <string>B</string>
       <string>C</string>
+      <string>Ccedilla</string>
       <string>D</string>
+      <string>Eth</string>
       <string>E</string>
+      <string>Eacute</string>
+      <string>Ecircumflex</string>
+      <string>Edieresis</string>
+      <string>Egrave</string>
       <string>F</string>
       <string>G</string>
       <string>H</string>
       <string>I</string>
+      <string>Iacute</string>
+      <string>Icircumflex</string>
+      <string>Idieresis</string>
+      <string>Igrave</string>
       <string>J</string>
       <string>K</string>
       <string>L</string>
       <string>M</string>
       <string>N</string>
+      <string>Ntilde</string>
       <string>O</string>
+      <string>Oacute</string>
+      <string>Ocircumflex</string>
+      <string>Odieresis</string>
+      <string>Ograve</string>
+      <string>Oslash</string>
+      <string>Otilde</string>
+      <string>OE</string>
       <string>P</string>
       <string>Q</string>
       <string>R</string>
       <string>S</string>
+      <string>Scaron</string>
       <string>T</string>
       <string>U</string>
+      <string>Uacute</string>
+      <string>Ucircumflex</string>
+      <string>Udieresis</string>
+      <string>Ugrave</string>
       <string>V</string>
       <string>W</string>
       <string>X</string>
       <string>Y</string>
+      <string>Yacute</string>
+      <string>Ydieresis</string>
       <string>Z</string>
       <string>a</string>
+      <string>aacute</string>
+      <string>acircumflex</string>
+      <string>adieresis</string>
+      <string>agrave</string>
+      <string>aring</string>
+      <string>atilde</string>
+      <string>ae</string>
       <string>b</string>
       <string>c</string>
+      <string>ccedilla</string>
       <string>d</string>
+      <string>eth</string>
       <string>e</string>
+      <string>eacute</string>
+      <string>ecircumflex</string>
+      <string>edieresis</string>
+      <string>egrave</string>
       <string>f</string>
       <string>g</string>
       <string>h</string>
       <string>i</string>
+      <string>idotless</string>
+      <string>iacute</string>
+      <string>icircumflex</string>
+      <string>idieresis</string>
+      <string>igrave</string>
       <string>j</string>
       <string>k</string>
       <string>l</string>
       <string>m</string>
       <string>n</string>
+      <string>ntilde</string>
       <string>o</string>
+      <string>oacute</string>
+      <string>ocircumflex</string>
+      <string>odieresis</string>
+      <string>ograve</string>
+      <string>oslash</string>
+      <string>otilde</string>
+      <string>oe</string>
       <string>p</string>
       <string>q</string>
       <string>r</string>
       <string>s</string>
+      <string>scaron</string>
+      <string>germandbls</string>
       <string>t</string>
       <string>u</string>
+      <string>uacute</string>
+      <string>ucircumflex</string>
+      <string>udieresis</string>
+      <string>ugrave</string>
       <string>v</string>
       <string>w</string>
       <string>x</string>
       <string>y</string>
+      <string>yacute</string>
+      <string>ydieresis</string>
       <string>z</string>
+      <string>zcaron</string>
       <string>zero</string>
       <string>one</string>
       <string>two</string>
@@ -136,7 +203,9 @@
       <string>colon</string>
       <string>semicolon</string>
       <string>exclam</string>
+      <string>exclamdown</string>
       <string>question</string>
+      <string>questiondown</string>
       <string>asterisk</string>
       <string>numbersign</string>
       <string>slash</string>
@@ -349,6 +418,13 @@
       <string>boxVerticalSingleAndLeftDouble</string>
       <string>boxVerticalSingleAndRightDouble</string>
       <string>boxLeftDownHeavyAndRightUpLight.001</string>
+      <string>dieresiscomb</string>
+      <string>gravecomb</string>
+      <string>acutecomb</string>
+      <string>circumflexcomb</string>
+      <string>ringcomb</string>
+      <string>tildecomb</string>
+      <string>cedillacomb</string>
       <string>grave</string>
     </array>
     <key>public.postscriptNames</key>
@@ -609,6 +685,16 @@
       <string>uni2561</string>
       <key>boxVerticalSingleAndRightDouble</key>
       <string>uni255E</string>
+      <key>cedillacomb</key>
+      <string>uni0327</string>
+      <key>circumflexcomb</key>
+      <string>uni0302</string>
+      <key>dieresiscomb</key>
+      <string>uni0308</string>
+      <key>idotless</key>
+      <string>dotlessi</string>
+      <key>ringcomb</key>
+      <string>uni030A</string>
     </dict>
   </dict>
 </plist>
