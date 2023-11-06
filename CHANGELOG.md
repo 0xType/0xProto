@@ -1,5 +1,10 @@
 All notable changes to this project will be documented in this file.
 
+## 1.400
+
+- Add accented characters to support French, German, Spanish, etc https://github.com/0xType/0xProto/pull/34
+- Add Copyright and Vendor ID to font information https://github.com/0xType/0xProto/pull/33
+
 ## 1.300
 
 - Fine-tune the following glyphs https://github.com/0xType/0xProto/pull/29
