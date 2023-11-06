@@ -2,6 +2,8 @@
 <glyph name="oe" format="2">
   <advance width="620"/>
   <unicode hex="0153"/>
+  <anchor x="310" y="0" name="bottom"/>
+  <anchor x="310" y="550" name="top"/>
   <outline>
     <contour>
       <point x="184" y="-16" type="curve" smooth="yes"/>
@@ -63,10 +65,4 @@
       <point x="523" y="312" type="curve"/>
     </contour>
   </outline>
-  <lib>
-    <dict>
-      <key>com.schriftgestaltung.Glyphs.lastChange</key>
-      <string>2023/11/05 06:23:28</string>
-    </dict>
-  </lib>
 </glyph>

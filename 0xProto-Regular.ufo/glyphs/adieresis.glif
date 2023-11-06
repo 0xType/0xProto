@@ -2,14 +2,11 @@
 <glyph name="adieresis" format="2">
   <advance width="620"/>
   <unicode hex="00E4"/>
+  <anchor x="310" y="0" name="bottom"/>
+  <anchor x="558" y="10" name="ogonek"/>
+  <anchor x="295" y="760" name="top"/>
   <outline>
     <component base="a"/>
-    <component base="dieresiscomb"/>
+    <component base="dieresiscomb" xOffset="-15"/>
   </outline>
-  <lib>
-    <dict>
-      <key>com.schriftgestaltung.Glyphs.lastChange</key>
-      <string>2023/10/31 07:29:33</string>
-    </dict>
-  </lib>
 </glyph>

@@ -1,6 +1,8 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <glyph name="circumflexcomb" format="2">
   <unicode hex="0302"/>
+  <anchor x="304" y="550" name="_top"/>
+  <anchor x="304" y="786" name="top"/>
   <outline>
     <contour>
       <point x="351" y="786" type="line"/>
@@ -19,10 +21,6 @@
   </outline>
   <lib>
     <dict>
-      <key>com.schriftgestaltung.Glyphs.Export</key>
-      <false/>
-      <key>com.schriftgestaltung.Glyphs.lastChange</key>
-      <string>2023/11/05 07:40:38</string>
       <key>com.schriftgestaltung.Glyphs.originalWidth</key>
       <integer>620</integer>
     </dict>

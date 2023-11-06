@@ -122,6 +122,8 @@
       <integer>0</integer>
       <key>com.schriftgestaltung.layerOrderInGlyph.Z</key>
       <integer>0</integer>
+      <key>com.schriftgestaltung.layerOrderInGlyph.Zcaron</key>
+      <integer>0</integer>
       <key>com.schriftgestaltung.layerOrderInGlyph.a</key>
       <integer>0</integer>
       <key>com.schriftgestaltung.layerOrderInGlyph.aacute</key>
@@ -129,6 +131,8 @@
       <key>com.schriftgestaltung.layerOrderInGlyph.acircumflex</key>
       <integer>0</integer>
       <key>com.schriftgestaltung.layerOrderInGlyph.acutecomb</key>
+      <integer>0</integer>
+      <key>com.schriftgestaltung.layerOrderInGlyph.acutecomb.case</key>
       <integer>0</integer>
       <key>com.schriftgestaltung.layerOrderInGlyph.adieresis</key>
       <integer>0</integer>
@@ -450,11 +454,19 @@
       <integer>0</integer>
       <key>com.schriftgestaltung.layerOrderInGlyph.c</key>
       <integer>0</integer>
+      <key>com.schriftgestaltung.layerOrderInGlyph.caroncomb</key>
+      <integer>0</integer>
+      <key>com.schriftgestaltung.layerOrderInGlyph.caroncomb.case</key>
+      <integer>0</integer>
       <key>com.schriftgestaltung.layerOrderInGlyph.ccedilla</key>
       <integer>0</integer>
       <key>com.schriftgestaltung.layerOrderInGlyph.cedillacomb</key>
       <integer>0</integer>
+      <key>com.schriftgestaltung.layerOrderInGlyph.cedillacomb.case</key>
+      <integer>0</integer>
       <key>com.schriftgestaltung.layerOrderInGlyph.circumflexcomb</key>
+      <integer>0</integer>
+      <key>com.schriftgestaltung.layerOrderInGlyph.circumflexcomb.case</key>
       <integer>0</integer>
       <key>com.schriftgestaltung.layerOrderInGlyph.colon</key>
       <integer>0</integer>
@@ -476,11 +488,17 @@
       <integer>0</integer>
       <key>com.schriftgestaltung.layerOrderInGlyph.dieresiscomb</key>
       <integer>0</integer>
+      <key>com.schriftgestaltung.layerOrderInGlyph.dieresiscomb.case</key>
+      <integer>0</integer>
       <key>com.schriftgestaltung.layerOrderInGlyph.dollar</key>
       <integer>0</integer>
       <key>com.schriftgestaltung.layerOrderInGlyph.dollar.spacer</key>
       <integer>0</integer>
       <key>com.schriftgestaltung.layerOrderInGlyph.dollar_greater</key>
+      <integer>0</integer>
+      <key>com.schriftgestaltung.layerOrderInGlyph.dotaccentcomb</key>
+      <integer>0</integer>
+      <key>com.schriftgestaltung.layerOrderInGlyph.dotaccentcomb.case</key>
       <integer>0</integer>
       <key>com.schriftgestaltung.layerOrderInGlyph.e</key>
       <integer>0</integer>
@@ -542,6 +560,8 @@
       <integer>0</integer>
       <key>com.schriftgestaltung.layerOrderInGlyph.gravecomb</key>
       <integer>0</integer>
+      <key>com.schriftgestaltung.layerOrderInGlyph.gravecomb.case</key>
+      <integer>0</integer>
       <key>com.schriftgestaltung.layerOrderInGlyph.greater</key>
       <integer>0</integer>
       <key>com.schriftgestaltung.layerOrderInGlyph.greater.spacer</key>
@@ -573,6 +593,8 @@
       <key>com.schriftgestaltung.layerOrderInGlyph.igrave</key>
       <integer>0</integer>
       <key>com.schriftgestaltung.layerOrderInGlyph.j</key>
+      <integer>0</integer>
+      <key>com.schriftgestaltung.layerOrderInGlyph.jdotless</key>
       <integer>0</integer>
       <key>com.schriftgestaltung.layerOrderInGlyph.k</key>
       <integer>0</integer>
@@ -698,6 +720,8 @@
       <integer>0</integer>
       <key>com.schriftgestaltung.layerOrderInGlyph.ringcomb</key>
       <integer>0</integer>
+      <key>com.schriftgestaltung.layerOrderInGlyph.ringcomb.case</key>
+      <integer>0</integer>
       <key>com.schriftgestaltung.layerOrderInGlyph.s</key>
       <integer>0</integer>
       <key>com.schriftgestaltung.layerOrderInGlyph.scaron</key>
@@ -723,6 +747,8 @@
       <key>com.schriftgestaltung.layerOrderInGlyph.three</key>
       <integer>0</integer>
       <key>com.schriftgestaltung.layerOrderInGlyph.tildecomb</key>
+      <integer>0</integer>
+      <key>com.schriftgestaltung.layerOrderInGlyph.tildecomb.case</key>
       <integer>0</integer>
       <key>com.schriftgestaltung.layerOrderInGlyph.two</key>
       <integer>0</integer>

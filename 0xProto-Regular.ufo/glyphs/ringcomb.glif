@@ -1,6 +1,8 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <glyph name="ringcomb" format="2">
   <unicode hex="030A"/>
+  <anchor x="310" y="550" name="_top"/>
+  <anchor x="310" y="815" name="top"/>
   <outline>
     <contour>
       <point x="310" y="611" type="curve" smooth="yes"/>
@@ -33,10 +35,6 @@
   </outline>
   <lib>
     <dict>
-      <key>com.schriftgestaltung.Glyphs.Export</key>
-      <false/>
-      <key>com.schriftgestaltung.Glyphs.lastChange</key>
-      <string>2023/11/05 07:40:55</string>
       <key>com.schriftgestaltung.Glyphs.originalWidth</key>
       <integer>620</integer>
     </dict>

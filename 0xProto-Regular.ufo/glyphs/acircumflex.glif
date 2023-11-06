@@ -2,14 +2,11 @@
 <glyph name="acircumflex" format="2">
   <advance width="620"/>
   <unicode hex="00E2"/>
+  <anchor x="310" y="0" name="bottom"/>
+  <anchor x="558" y="10" name="ogonek"/>
+  <anchor x="295" y="786" name="top"/>
   <outline>
     <component base="a"/>
     <component base="circumflexcomb" xOffset="-9"/>
   </outline>
-  <lib>
-    <dict>
-      <key>com.schriftgestaltung.Glyphs.lastChange</key>
-      <string>2023/10/29 06:59:37</string>
-    </dict>
-  </lib>
 </glyph>

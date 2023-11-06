@@ -1,6 +1,8 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <glyph name="tildecomb" format="2">
   <unicode hex="0303"/>
+  <anchor x="300" y="550" name="_top"/>
+  <anchor x="300" y="776" name="top"/>
   <outline>
     <contour>
       <point x="320" y="727" type="curve" smooth="yes"/>
@@ -21,10 +23,6 @@
   </outline>
   <lib>
     <dict>
-      <key>com.schriftgestaltung.Glyphs.Export</key>
-      <false/>
-      <key>com.schriftgestaltung.Glyphs.lastChange</key>
-      <string>2023/11/05 07:44:04</string>
       <key>com.schriftgestaltung.Glyphs.originalWidth</key>
       <integer>620</integer>
     </dict>

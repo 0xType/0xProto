@@ -2,14 +2,12 @@
 <glyph name="udieresis" format="2">
   <advance width="620"/>
   <unicode hex="00FC"/>
+  <anchor x="310" y="0" name="bottom"/>
+  <anchor x="558" y="10" name="ogonek"/>
+  <anchor x="310" y="760" name="top"/>
+  <anchor x="600" y="550" name="topright"/>
   <outline>
     <component base="u"/>
-    <component base="dieresiscomb" xOffset="-12"/>
+    <component base="dieresiscomb"/>
   </outline>
-  <lib>
-    <dict>
-      <key>com.schriftgestaltung.Glyphs.lastChange</key>
-      <string>2023/11/02 04:26:23</string>
-    </dict>
-  </lib>
 </glyph>

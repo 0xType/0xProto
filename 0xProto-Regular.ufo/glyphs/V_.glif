@@ -2,6 +2,8 @@
 <glyph name="V" format="2">
   <advance width="620"/>
   <unicode hex="0056"/>
+  <anchor x="310" y="0" name="bottom"/>
+  <anchor x="310" y="710" name="top"/>
   <outline>
     <contour>
       <point x="38" y="710" type="line"/>
@@ -24,10 +26,4 @@
       <point x="514" y="406"/>
     </contour>
   </outline>
-  <lib>
-    <dict>
-      <key>com.schriftgestaltung.Glyphs.lastChange</key>
-      <string>2023/05/04 05:18:55</string>
-    </dict>
-  </lib>
 </glyph>

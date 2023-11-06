@@ -2,6 +2,9 @@
 <glyph name="A" format="2">
   <advance width="620"/>
   <unicode hex="0041"/>
+  <anchor x="310" y="0" name="bottom"/>
+  <anchor x="558" y="10" name="ogonek"/>
+  <anchor x="310" y="710" name="top"/>
   <outline>
     <contour>
       <point x="38" y="0" type="curve"/>
@@ -30,10 +33,4 @@
       <point x="464" y="258" type="line"/>
     </contour>
   </outline>
-  <lib>
-    <dict>
-      <key>com.schriftgestaltung.Glyphs.lastChange</key>
-      <string>2023/04/28 07:57:06</string>
-    </dict>
-  </lib>
 </glyph>

@@ -2,6 +2,8 @@
 <glyph name="m" format="2">
   <advance width="620"/>
   <unicode hex="006D"/>
+  <anchor x="310" y="0" name="bottom"/>
+  <anchor x="310" y="550" name="top"/>
   <outline>
     <contour>
       <point x="36" y="554" type="line"/>
@@ -52,10 +54,4 @@
       <point x="362" y="524"/>
     </contour>
   </outline>
-  <lib>
-    <dict>
-      <key>com.schriftgestaltung.Glyphs.lastChange</key>
-      <string>2023/05/04 05:20:30</string>
-    </dict>
-  </lib>
 </glyph>

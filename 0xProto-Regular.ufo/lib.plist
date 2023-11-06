@@ -17,6 +17,8 @@
     </array>
     <key>com.schriftgestaltung.appVersion</key>
     <string>3151</string>
+    <key>com.schriftgestaltung.customParameter.GSFont.Write lastChange</key>
+    <integer>0</integer>
     <key>com.schriftgestaltung.customParameter.GSFont.disablesAutomaticAlignment</key>
     <false/>
     <key>com.schriftgestaltung.customParameter.GSFont.useNiceNames</key>
@@ -109,6 +111,7 @@
       <string>Yacute</string>
       <string>Ydieresis</string>
       <string>Z</string>
+      <string>Zcaron</string>
       <string>a</string>
       <string>aacute</string>
       <string>acircumflex</string>
@@ -137,6 +140,7 @@
       <string>idieresis</string>
       <string>igrave</string>
       <string>j</string>
+      <string>jdotless</string>
       <string>k</string>
       <string>l</string>
       <string>m</string>
@@ -419,12 +423,23 @@
       <string>boxVerticalSingleAndRightDouble</string>
       <string>boxLeftDownHeavyAndRightUpLight.001</string>
       <string>dieresiscomb</string>
+      <string>dotaccentcomb</string>
       <string>gravecomb</string>
       <string>acutecomb</string>
       <string>circumflexcomb</string>
+      <string>caroncomb</string>
       <string>ringcomb</string>
       <string>tildecomb</string>
       <string>cedillacomb</string>
+      <string>dieresiscomb.case</string>
+      <string>dotaccentcomb.case</string>
+      <string>gravecomb.case</string>
+      <string>acutecomb.case</string>
+      <string>circumflexcomb.case</string>
+      <string>caroncomb.case</string>
+      <string>ringcomb.case</string>
+      <string>tildecomb.case</string>
+      <string>cedillacomb.case</string>
       <string>grave</string>
     </array>
     <key>public.postscriptNames</key>
@@ -685,16 +700,34 @@
       <string>uni2561</string>
       <key>boxVerticalSingleAndRightDouble</key>
       <string>uni255E</string>
+      <key>caroncomb</key>
+      <string>uni030C</string>
+      <key>caroncomb.case</key>
+      <string>uni030C.case</string>
       <key>cedillacomb</key>
       <string>uni0327</string>
+      <key>cedillacomb.case</key>
+      <string>uni0327.case</string>
       <key>circumflexcomb</key>
       <string>uni0302</string>
+      <key>circumflexcomb.case</key>
+      <string>uni0302.case</string>
       <key>dieresiscomb</key>
       <string>uni0308</string>
+      <key>dieresiscomb.case</key>
+      <string>uni0308.case</string>
+      <key>dotaccentcomb</key>
+      <string>uni0307</string>
+      <key>dotaccentcomb.case</key>
+      <string>uni0307.case</string>
       <key>idotless</key>
       <string>dotlessi</string>
+      <key>jdotless</key>
+      <string>uni0237</string>
       <key>ringcomb</key>
       <string>uni030A</string>
+      <key>ringcomb.case</key>
+      <string>uni030A.case</string>
     </dict>
   </dict>
 </plist>
