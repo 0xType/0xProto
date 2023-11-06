@@ -1,6 +1,6 @@
 # 0xProto: an opinionated font for software engineers 💻
 
-![0xProto](./images/hero.gif)
+![0xProto](./images/examples.png)
 
 ## Quick Q&A
 
@@ -63,7 +63,7 @@ If you prefer the programming ligature so far, I recommend Fira Code because it 
 
 1. Open `Settings`
 1. Go `Text Editor` -> `Font` -> `Font Family`
-1. Input box type: `"0xProto"`
+1. Input box type: `"0xProto"` (Enclose `0xProto` in quotation marks `'` or double quotation marks `"`.)
 
 To enable ligatures:
 
