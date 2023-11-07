@@ -4,12 +4,9 @@
   <unicode hex="00D2"/>
   <anchor x="310" y="0" name="bottom"/>
   <anchor x="310" y="355" name="center"/>
-  <anchor x="558" y="10" name="ogonek"/>
   <anchor x="310" y="934" name="top"/>
-  <anchor x="20" y="710" name="topleft"/>
-  <anchor x="600" y="710" name="topright"/>
   <outline>
     <component base="O"/>
-    <component base="gravecomb.case" xOffset="19"/>
+    <component base="gravecomb.case"/>
   </outline>
 </glyph>

@@ -1,22 +1,22 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <glyph name="caroncomb" format="2">
   <unicode hex="030C"/>
-  <anchor x="304" y="550" name="_top"/>
-  <anchor x="304" y="786" name="top"/>
+  <anchor x="310" y="550" name="_top"/>
+  <anchor x="310" y="786" name="top"/>
   <outline>
     <contour>
-      <point x="257" y="628" type="line"/>
-      <point x="351" y="628" type="line"/>
-      <point x="351" y="634" type="line"/>
-      <point x="220" y="786" type="line"/>
-      <point x="135" y="786" type="line"/>
+      <point x="263" y="628" type="line"/>
+      <point x="357" y="628" type="line"/>
+      <point x="357" y="634" type="line"/>
+      <point x="226" y="786" type="line"/>
+      <point x="141" y="786" type="line"/>
     </contour>
     <contour>
-      <point x="351" y="628" type="line"/>
-      <point x="473" y="786" type="line"/>
-      <point x="388" y="786" type="line"/>
-      <point x="257" y="634" type="line"/>
-      <point x="257" y="628" type="line"/>
+      <point x="357" y="628" type="line"/>
+      <point x="479" y="786" type="line"/>
+      <point x="394" y="786" type="line"/>
+      <point x="263" y="634" type="line"/>
+      <point x="263" y="628" type="line"/>
     </contour>
   </outline>
   <lib>

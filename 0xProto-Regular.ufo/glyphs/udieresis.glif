@@ -3,9 +3,9 @@
   <advance width="620"/>
   <unicode hex="00FC"/>
   <anchor x="310" y="0" name="bottom"/>
-  <anchor x="558" y="10" name="ogonek"/>
+  <anchor x="576" y="-8" name="ogonek"/>
   <anchor x="310" y="760" name="top"/>
-  <anchor x="600" y="550" name="topright"/>
+  <anchor x="519" y="550" name="topright"/>
   <outline>
     <component base="u"/>
     <component base="dieresiscomb"/>
