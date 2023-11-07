@@ -19323,7 +19323,6 @@ GSDimensionPlugin.Dimensions = {
 m01 = {
 };
 };
-GSDontShowVersionAlert = 1;
 };
 versionMajor = 1;
 versionMinor = 400;
