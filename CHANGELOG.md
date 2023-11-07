@@ -1,5 +1,20 @@
 All notable changes to this project will be documented in this file.
 
+## 1.401
+
+https://github.com/0xType/0xProto/pull/36 by @moyogo (& https://github.com/0xType/0xProto/pull/39 )
+
+- Add and use anchors
+- Add .case variants of combining diacritics, shifted up
+- Replace components in composite glyphs
+- Add missing Zcaron
+- Add and disable Write Last Change custom parameter
+- Add ccmp feature
+- Add and use dotaccentcomb, add dotaccentcomb.case
+- Add and use caroncomb, caroncomb.case.
+- Export combining mark
+- Don’t use GSDontShowVersionAlert
+
 ## 1.400
 
 - Add accented characters to support French, German, Spanish, etc https://github.com/0xType/0xProto/pull/34
