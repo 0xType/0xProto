@@ -2,9 +2,9 @@
 <glyph name="idotless" format="2">
   <advance width="620"/>
   <unicode hex="0131"/>
-  <anchor x="310" y="0" name="bottom"/>
+  <anchor x="298" y="0" name="bottom"/>
   <anchor x="543" y="0" name="ogonek"/>
-  <anchor x="305" y="550" name="top"/>
+  <anchor x="298" y="550" name="top"/>
   <outline>
     <contour>
       <point x="149" y="509" type="line"/>

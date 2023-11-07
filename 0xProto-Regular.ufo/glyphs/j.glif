@@ -2,10 +2,10 @@
 <glyph name="j" format="2">
   <advance width="620"/>
   <unicode hex="006A"/>
-  <anchor x="310" y="-200" name="bottom"/>
-  <anchor x="348" y="766" name="top"/>
+  <anchor x="343" y="-200" name="bottom"/>
+  <anchor x="343" y="766" name="top"/>
   <outline>
     <component base="jdotless"/>
-    <component base="dotaccentcomb" xOffset="43"/>
+    <component base="dotaccentcomb" xOffset="38"/>
   </outline>
 </glyph>

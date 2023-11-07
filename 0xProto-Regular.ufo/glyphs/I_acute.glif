@@ -3,11 +3,11 @@
   <advance width="620"/>
   <unicode hex="00CD"/>
   <anchor x="310" y="0" name="bottom"/>
-  <anchor x="558" y="10" name="ogonek"/>
+  <anchor x="530" y="0" name="ogonek"/>
   <anchor x="310" y="934" name="top"/>
-  <anchor x="20" y="710" name="topleft"/>
+  <anchor x="95" y="710" name="topleft"/>
   <outline>
     <component base="I"/>
-    <component base="acutecomb.case" xOffset="-26"/>
+    <component base="acutecomb.case"/>
   </outline>
 </glyph>
