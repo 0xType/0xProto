@@ -2,6 +2,9 @@
 <glyph name="idotless" format="2">
   <advance width="620"/>
   <unicode hex="0131"/>
+  <anchor x="310" y="0" name="bottom"/>
+  <anchor x="543" y="0" name="ogonek"/>
+  <anchor x="305" y="550" name="top"/>
   <outline>
     <contour>
       <point x="149" y="509" type="line"/>
@@ -22,10 +25,4 @@
       <point x="543" y="88" type="line"/>
     </contour>
   </outline>
-  <lib>
-    <dict>
-      <key>com.schriftgestaltung.Glyphs.lastChange</key>
-      <string>2023/11/01 10:02:42</string>
-    </dict>
-  </lib>
 </glyph>

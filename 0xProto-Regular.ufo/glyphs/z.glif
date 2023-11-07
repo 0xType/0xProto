@@ -2,6 +2,9 @@
 <glyph name="z" format="2">
   <advance width="620"/>
   <unicode hex="007A"/>
+  <anchor x="310" y="0" name="bottom"/>
+  <anchor x="310" y="275" name="center"/>
+  <anchor x="310" y="550" name="top"/>
   <outline>
     <contour>
       <point x="91" y="550" type="line"/>
@@ -22,10 +25,4 @@
       <point x="393" y="462" type="line"/>
     </contour>
   </outline>
-  <lib>
-    <dict>
-      <key>com.schriftgestaltung.Glyphs.lastChange</key>
-      <string>2023/04/27 12:56:59</string>
-    </dict>
-  </lib>
 </glyph>

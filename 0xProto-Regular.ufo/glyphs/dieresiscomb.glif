@@ -1,6 +1,8 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <glyph name="dieresiscomb" format="2">
   <unicode hex="0308"/>
+  <anchor x="310" y="550" name="_top"/>
+  <anchor x="310" y="760" name="top"/>
   <outline>
     <contour>
       <point x="158" y="760" type="line"/>
@@ -17,10 +19,6 @@
   </outline>
   <lib>
     <dict>
-      <key>com.schriftgestaltung.Glyphs.Export</key>
-      <false/>
-      <key>com.schriftgestaltung.Glyphs.lastChange</key>
-      <string>2023/11/05 07:46:11</string>
       <key>com.schriftgestaltung.Glyphs.originalWidth</key>
       <integer>620</integer>
     </dict>

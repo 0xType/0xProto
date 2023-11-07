@@ -2,14 +2,11 @@
 <glyph name="zcaron" format="2">
   <advance width="620"/>
   <unicode hex="017E"/>
+  <anchor x="310" y="0" name="bottom"/>
+  <anchor x="310" y="275" name="center"/>
+  <anchor x="310" y="786" name="top"/>
   <outline>
     <component base="z"/>
-    <component base="circumflexcomb" yScale="-1" xOffset="14" yOffset="1394"/>
+    <component base="caroncomb" xOffset="6"/>
   </outline>
-  <lib>
-    <dict>
-      <key>com.schriftgestaltung.Glyphs.lastChange</key>
-      <string>2023/11/02 02:55:38</string>
-    </dict>
-  </lib>
 </glyph>

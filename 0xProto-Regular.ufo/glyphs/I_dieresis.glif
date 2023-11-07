@@ -2,14 +2,12 @@
 <glyph name="Idieresis" format="2">
   <advance width="620"/>
   <unicode hex="00CF"/>
+  <anchor x="310" y="0" name="bottom"/>
+  <anchor x="558" y="10" name="ogonek"/>
+  <anchor x="310" y="908" name="top"/>
+  <anchor x="20" y="710" name="topleft"/>
   <outline>
     <component base="I"/>
-    <component base="dieresiscomb" yOffset="122"/>
+    <component base="dieresiscomb.case"/>
   </outline>
-  <lib>
-    <dict>
-      <key>com.schriftgestaltung.Glyphs.lastChange</key>
-      <string>2023/11/01 10:09:27</string>
-    </dict>
-  </lib>
 </glyph>

@@ -118,6 +118,8 @@
     <string>Y_dieresis.glif</string>
     <key>Z</key>
     <string>Z_.glif</string>
+    <key>Zcaron</key>
+    <string>Z_caron.glif</string>
     <key>a</key>
     <string>a.glif</string>
     <key>aacute</key>
@@ -126,6 +128,8 @@
     <string>acircumflex.glif</string>
     <key>acutecomb</key>
     <string>acutecomb.glif</string>
+    <key>acutecomb.case</key>
+    <string>acutecomb.case.glif</string>
     <key>adieresis</key>
     <string>adieresis.glif</string>
     <key>ae</key>
@@ -446,12 +450,20 @@
     <string>bracketright.glif</string>
     <key>c</key>
     <string>c.glif</string>
+    <key>caroncomb</key>
+    <string>caroncomb.glif</string>
+    <key>caroncomb.case</key>
+    <string>caroncomb.case.glif</string>
     <key>ccedilla</key>
     <string>ccedilla.glif</string>
     <key>cedillacomb</key>
     <string>cedillacomb.glif</string>
+    <key>cedillacomb.case</key>
+    <string>cedillacomb.case.glif</string>
     <key>circumflexcomb</key>
     <string>circumflexcomb.glif</string>
+    <key>circumflexcomb.case</key>
+    <string>circumflexcomb.case.glif</string>
     <key>colon</key>
     <string>colon.glif</string>
     <key>colon.spacer</key>
@@ -472,12 +484,18 @@
     <string>d.glif</string>
     <key>dieresiscomb</key>
     <string>dieresiscomb.glif</string>
+    <key>dieresiscomb.case</key>
+    <string>dieresiscomb.case.glif</string>
     <key>dollar</key>
     <string>dollar.glif</string>
     <key>dollar.spacer</key>
     <string>dollar.spacer.glif</string>
     <key>dollar_greater</key>
     <string>dollar_greater.glif</string>
+    <key>dotaccentcomb</key>
+    <string>dotaccentcomb.glif</string>
+    <key>dotaccentcomb.case</key>
+    <string>dotaccentcomb.case.glif</string>
     <key>e</key>
     <string>e.glif</string>
     <key>eacute</key>
@@ -538,6 +556,8 @@
     <string>grave.glif</string>
     <key>gravecomb</key>
     <string>gravecomb.glif</string>
+    <key>gravecomb.case</key>
+    <string>gravecomb.case.glif</string>
     <key>greater</key>
     <string>greater.glif</string>
     <key>greater.spacer</key>
@@ -570,6 +590,8 @@
     <string>igrave.glif</string>
     <key>j</key>
     <string>j.glif</string>
+    <key>jdotless</key>
+    <string>jdotless.glif</string>
     <key>k</key>
     <string>k.glif</string>
     <key>l</key>
@@ -694,6 +716,8 @@
     <string>r.glif</string>
     <key>ringcomb</key>
     <string>ringcomb.glif</string>
+    <key>ringcomb.case</key>
+    <string>ringcomb.case.glif</string>
     <key>s</key>
     <string>s.glif</string>
     <key>scaron</key>
@@ -720,6 +744,8 @@
     <string>three.glif</string>
     <key>tildecomb</key>
     <string>tildecomb.glif</string>
+    <key>tildecomb.case</key>
+    <string>tildecomb.case.glif</string>
     <key>two</key>
     <string>two.glif</string>
     <key>u</key>

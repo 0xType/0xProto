@@ -2,14 +2,11 @@
 <glyph name="atilde" format="2">
   <advance width="620"/>
   <unicode hex="00E3"/>
+  <anchor x="310" y="0" name="bottom"/>
+  <anchor x="558" y="10" name="ogonek"/>
+  <anchor x="295" y="776" name="top"/>
   <outline>
     <component base="a"/>
-    <component base="tildecomb" xOffset="6" yOffset="1"/>
+    <component base="tildecomb" xOffset="-5"/>
   </outline>
-  <lib>
-    <dict>
-      <key>com.schriftgestaltung.Glyphs.lastChange</key>
-      <string>2023/11/06 02:46:37</string>
-    </dict>
-  </lib>
 </glyph>

@@ -1,6 +1,8 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <glyph name="gravecomb" format="2">
   <unicode hex="0300"/>
+  <anchor x="291" y="550" name="_top"/>
+  <anchor x="291" y="786" name="top"/>
   <outline>
     <contour>
       <point x="287" y="786" type="line"/>
@@ -12,10 +14,6 @@
   </outline>
   <lib>
     <dict>
-      <key>com.schriftgestaltung.Glyphs.Export</key>
-      <false/>
-      <key>com.schriftgestaltung.Glyphs.lastChange</key>
-      <string>2023/11/06 02:48:29</string>
       <key>com.schriftgestaltung.Glyphs.originalWidth</key>
       <integer>620</integer>
     </dict>

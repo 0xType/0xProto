@@ -2,14 +2,12 @@
 <glyph name="uacute" format="2">
   <advance width="620"/>
   <unicode hex="00FA"/>
+  <anchor x="310" y="0" name="bottom"/>
+  <anchor x="558" y="10" name="ogonek"/>
+  <anchor x="310" y="786" name="top"/>
+  <anchor x="600" y="550" name="topright"/>
   <outline>
     <component base="u"/>
-    <component base="acutecomb"/>
+    <component base="acutecomb" xOffset="-26"/>
   </outline>
-  <lib>
-    <dict>
-      <key>com.schriftgestaltung.Glyphs.lastChange</key>
-      <string>2023/11/02 02:49:28</string>
-    </dict>
-  </lib>
 </glyph>

@@ -2,14 +2,12 @@
 <glyph name="Igrave" format="2">
   <advance width="620"/>
   <unicode hex="00CC"/>
+  <anchor x="310" y="0" name="bottom"/>
+  <anchor x="558" y="10" name="ogonek"/>
+  <anchor x="310" y="934" name="top"/>
+  <anchor x="20" y="710" name="topleft"/>
   <outline>
     <component base="I"/>
-    <component base="gravecomb" xOffset="9" yOffset="148"/>
+    <component base="gravecomb.case" xOffset="19"/>
   </outline>
-  <lib>
-    <dict>
-      <key>com.schriftgestaltung.Glyphs.lastChange</key>
-      <string>2023/11/01 10:09:43</string>
-    </dict>
-  </lib>
 </glyph>

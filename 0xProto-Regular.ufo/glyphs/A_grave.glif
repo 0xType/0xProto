@@ -2,14 +2,11 @@
 <glyph name="Agrave" format="2">
   <advance width="620"/>
   <unicode hex="00C0"/>
+  <anchor x="310" y="0" name="bottom"/>
+  <anchor x="558" y="10" name="ogonek"/>
+  <anchor x="310" y="934" name="top"/>
   <outline>
     <component base="A"/>
-    <component base="gravecomb" xOffset="-8" yOffset="148"/>
+    <component base="gravecomb.case" xOffset="19"/>
   </outline>
-  <lib>
-    <dict>
-      <key>com.schriftgestaltung.Glyphs.lastChange</key>
-      <string>2023/10/31 07:31:04</string>
-    </dict>
-  </lib>
 </glyph>

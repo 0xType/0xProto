@@ -2,6 +2,12 @@
 <glyph name="Oslash" format="2">
   <advance width="620"/>
   <unicode hex="00D8"/>
+  <anchor x="310" y="0" name="bottom"/>
+  <anchor x="310" y="355" name="center"/>
+  <anchor x="558" y="10" name="ogonek"/>
+  <anchor x="310" y="710" name="top"/>
+  <anchor x="20" y="710" name="topleft"/>
+  <anchor x="600" y="710" name="topright"/>
   <outline>
     <contour>
       <point x="22" y="-86" type="line"/>
@@ -13,10 +19,4 @@
     </contour>
     <component base="O"/>
   </outline>
-  <lib>
-    <dict>
-      <key>com.schriftgestaltung.Glyphs.lastChange</key>
-      <string>2023/11/01 12:25:42</string>
-    </dict>
-  </lib>
 </glyph>
