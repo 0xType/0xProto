@@ -42,6 +42,8 @@
     <string>F_.glif</string>
     <key>G</key>
     <string>G_.glif</string>
+    <key>Gbreve</key>
+    <string>G_breve.glif</string>
     <key>H</key>
     <string>H_.glif</string>
     <key>I</key>
@@ -52,6 +54,8 @@
     <string>I_circumflex.glif</string>
     <key>Idieresis</key>
     <string>I_dieresis.glif</string>
+    <key>Idotaccent</key>
+    <string>I_dotaccent.glif</string>
     <key>Igrave</key>
     <string>I_grave.glif</string>
     <key>J</key>
@@ -92,6 +96,8 @@
     <string>S_.glif</string>
     <key>Scaron</key>
     <string>S_caron.glif</string>
+    <key>Scedilla</key>
+    <string>S_cedilla.glif</string>
     <key>T</key>
     <string>T_.glif</string>
     <key>U</key>
@@ -448,6 +454,10 @@
     <string>bracketleft_bar.glif</string>
     <key>bracketright</key>
     <string>bracketright.glif</string>
+    <key>brevecomb</key>
+    <string>brevecomb.glif</string>
+    <key>brevecomb.case</key>
+    <string>brevecomb.case.glif</string>
     <key>c</key>
     <string>c.glif</string>
     <key>caroncomb</key>
@@ -550,6 +560,8 @@
     <string>four.glif</string>
     <key>g</key>
     <string>g.glif</string>
+    <key>gbreve</key>
+    <string>gbreve.glif</string>
     <key>germandbls</key>
     <string>germandbls.glif</string>
     <key>grave</key>
@@ -722,6 +734,8 @@
     <string>s.glif</string>
     <key>scaron</key>
     <string>scaron.glif</string>
+    <key>scedilla</key>
+    <string>scedilla.glif</string>
     <key>semicolon</key>
     <string>semicolon.glif</string>
     <key>seven</key>
