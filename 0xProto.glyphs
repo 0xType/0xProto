@@ -4,7 +4,7 @@
 classes = (
 {
 automatic = 1;
-code = "A Aacute Acircumflex Adieresis Agrave Aring Atilde AE B C Ccedilla D Eth E Eacute Ecircumflex Edieresis Egrave F G H I Iacute Icircumflex Idieresis Igrave J K L M N Ntilde O Oacute Ocircumflex Odieresis Ograve Oslash Otilde OE P Q R S Scaron T U Uacute Ucircumflex Udieresis Ugrave V W X Y Yacute Ydieresis Z Zcaron";
+code = "A Aacute Acircumflex Adieresis Agrave Aring Atilde AE B C Ccedilla D Eth E Eacute Ecircumflex Edieresis Egrave F G Gbreve H I Iacute Icircumflex Idieresis Idotaccent Igrave J K L M N Ntilde O Oacute Ocircumflex Odieresis Ograve Oslash Otilde OE P Q R S Scaron Scedilla T U Uacute Ucircumflex Udieresis Ugrave V W X Y Yacute Ydieresis Z Zcaron";
 name = Uppercase;
 }
 );
@@ -496,15 +496,15 @@ tag = liga;
 {
 automatic = 1;
 code = "lookup ccmp_Other_1 {
-	@CombiningTopAccents = [acutecomb caroncomb circumflexcomb dieresiscomb dotaccentcomb gravecomb ringcomb tildecomb];
+	@CombiningTopAccents = [acutecomb brevecomb caroncomb circumflexcomb dieresiscomb dotaccentcomb gravecomb ringcomb tildecomb];
 	lookupflag UseMarkFilteringSet @CombiningTopAccents;
 	sub i' @CombiningTopAccents by idotless;
 	sub j' @CombiningTopAccents by jdotless;
 } ccmp_Other_1;
 
 lookup ccmp_Other_2 {
-	@Markscomb = [dieresiscomb dotaccentcomb gravecomb acutecomb circumflexcomb caroncomb ringcomb tildecomb cedillacomb];
-	@MarkscombCase = [dieresiscomb.case dotaccentcomb.case gravecomb.case acutecomb.case circumflexcomb.case caroncomb.case ringcomb.case tildecomb.case cedillacomb.case];
+	@Markscomb = [dieresiscomb dotaccentcomb gravecomb acutecomb circumflexcomb caroncomb brevecomb ringcomb tildecomb cedillacomb];
+	@MarkscombCase = [dieresiscomb.case dotaccentcomb.case gravecomb.case acutecomb.case circumflexcomb.case caroncomb.case brevecomb.case ringcomb.case tildecomb.case cedillacomb.case];
 	sub @Markscomb @Markscomb' by @MarkscombCase;
 	sub @Uppercase @Markscomb' by @MarkscombCase;
 } ccmp_Other_2;
@@ -1408,6 +1408,24 @@ width = 620;
 unicode = 71;
 },
 {
+glyphname = Gbreve;
+layers = (
+{
+layerId = m01;
+shapes = (
+{
+ref = G;
+},
+{
+ref = brevecomb.case;
+}
+);
+width = 620;
+}
+);
+unicode = 286;
+},
+{
 glyphname = H;
 layers = (
 {
@@ -1574,6 +1592,24 @@ width = 620;
 }
 );
 unicode = 207;
+},
+{
+glyphname = Idotaccent;
+layers = (
+{
+layerId = m01;
+shapes = (
+{
+ref = I;
+},
+{
+ref = dotaccentcomb.case;
+}
+);
+width = 620;
+}
+);
+unicode = 304;
 },
 {
 glyphname = Igrave;
@@ -2503,6 +2539,25 @@ width = 620;
 }
 );
 unicode = 352;
+},
+{
+glyphname = Scedilla;
+layers = (
+{
+layerId = m01;
+shapes = (
+{
+ref = S;
+},
+{
+pos = (10,0);
+ref = cedillacomb.case;
+}
+);
+width = 620;
+}
+);
+unicode = 350;
 },
 {
 glyphname = T;
@@ -4675,6 +4730,24 @@ width = 620;
 unicode = 103;
 },
 {
+glyphname = gbreve;
+layers = (
+{
+layerId = m01;
+shapes = (
+{
+ref = g;
+},
+{
+ref = brevecomb;
+}
+);
+width = 620;
+}
+);
+unicode = 287;
+},
+{
 glyphname = h;
 layers = (
 {
@@ -5870,6 +5943,25 @@ width = 620;
 }
 );
 unicode = 353;
+},
+{
+glyphname = scedilla;
+layers = (
+{
+layerId = m01;
+shapes = (
+{
+ref = s;
+},
+{
+pos = (-2,0);
+ref = cedillacomb;
+}
+);
+width = 620;
+}
+);
+unicode = 351;
 },
 {
 glyphname = germandbls;
@@ -18374,6 +18466,47 @@ width = 620;
 unicode = 780;
 },
 {
+glyphname = brevecomb;
+layers = (
+{
+anchors = (
+{
+name = bottom;
+pos = (310,620);
+},
+{
+name = top;
+pos = (310,787);
+}
+);
+layerId = m01;
+shapes = (
+{
+closed = 1;
+nodes = (
+(397,787,l),
+(396,727,o),
+(362,694,o),
+(310,694,cs),
+(257,694,o),
+(224,727,o),
+(223,787,c),
+(141,787,l),
+(142,689,o),
+(208,620,o),
+(310,620,cs),
+(409,620,o),
+(478,689,o),
+(479,787,c)
+);
+}
+);
+width = 620;
+}
+);
+unicode = 774;
+},
+{
 glyphname = ringcomb;
 layers = (
 {
@@ -18759,17 +18892,17 @@ layers = (
 anchors = (
 {
 name = _top;
-pos = (305,710);
+pos = (310,710);
 },
 {
 name = top;
-pos = (305,914);
+pos = (310,924);
 }
 );
 layerId = m01;
 shapes = (
 {
-pos = (0,148);
+pos = (0,158);
 ref = dotaccentcomb;
 }
 );
@@ -18871,6 +19004,36 @@ shapes = (
 {
 pos = (0,148);
 ref = caroncomb;
+}
+);
+width = 620;
+}
+);
+},
+{
+glyphname = brevecomb.case;
+layers = (
+{
+layerId = m01;
+shapes = (
+{
+closed = 1;
+nodes = (
+(397,934,l),
+(396,874,o),
+(362,841,o),
+(310,841,cs),
+(257,841,o),
+(224,874,o),
+(223,934,c),
+(141,934,l),
+(142,836,o),
+(208,767,o),
+(310,767,cs),
+(409,767,o),
+(478,836,o),
+(479,934,c)
+);
 }
 );
 width = 620;
