@@ -46,8 +46,6 @@
       <integer>0</integer>
       <key>com.schriftgestaltung.layerOrderInGlyph.G</key>
       <integer>0</integer>
-      <key>com.schriftgestaltung.layerOrderInGlyph.Gbreve</key>
-      <integer>0</integer>
       <key>com.schriftgestaltung.layerOrderInGlyph.H</key>
       <integer>0</integer>
       <key>com.schriftgestaltung.layerOrderInGlyph.I</key>
@@ -57,8 +55,6 @@
       <key>com.schriftgestaltung.layerOrderInGlyph.Icircumflex</key>
       <integer>0</integer>
       <key>com.schriftgestaltung.layerOrderInGlyph.Idieresis</key>
-      <integer>0</integer>
-      <key>com.schriftgestaltung.layerOrderInGlyph.Idotaccent</key>
       <integer>0</integer>
       <key>com.schriftgestaltung.layerOrderInGlyph.Igrave</key>
       <integer>0</integer>
@@ -99,8 +95,6 @@
       <key>com.schriftgestaltung.layerOrderInGlyph.S</key>
       <integer>0</integer>
       <key>com.schriftgestaltung.layerOrderInGlyph.Scaron</key>
-      <integer>0</integer>
-      <key>com.schriftgestaltung.layerOrderInGlyph.Scedilla</key>
       <integer>0</integer>
       <key>com.schriftgestaltung.layerOrderInGlyph.T</key>
       <integer>0</integer>
@@ -458,10 +452,6 @@
       <integer>0</integer>
       <key>com.schriftgestaltung.layerOrderInGlyph.bracketright</key>
       <integer>0</integer>
-      <key>com.schriftgestaltung.layerOrderInGlyph.brevecomb</key>
-      <integer>0</integer>
-      <key>com.schriftgestaltung.layerOrderInGlyph.brevecomb.case</key>
-      <integer>0</integer>
       <key>com.schriftgestaltung.layerOrderInGlyph.c</key>
       <integer>0</integer>
       <key>com.schriftgestaltung.layerOrderInGlyph.caroncomb</key>
@@ -563,8 +553,6 @@
       <key>com.schriftgestaltung.layerOrderInGlyph.four</key>
       <integer>0</integer>
       <key>com.schriftgestaltung.layerOrderInGlyph.g</key>
-      <integer>0</integer>
-      <key>com.schriftgestaltung.layerOrderInGlyph.gbreve</key>
       <integer>0</integer>
       <key>com.schriftgestaltung.layerOrderInGlyph.germandbls</key>
       <integer>0</integer>
@@ -737,8 +725,6 @@
       <key>com.schriftgestaltung.layerOrderInGlyph.s</key>
       <integer>0</integer>
       <key>com.schriftgestaltung.layerOrderInGlyph.scaron</key>
-      <integer>0</integer>
-      <key>com.schriftgestaltung.layerOrderInGlyph.scedilla</key>
       <integer>0</integer>
       <key>com.schriftgestaltung.layerOrderInGlyph.semicolon</key>
       <integer>0</integer>

@@ -73,13 +73,11 @@
       <string>Egrave</string>
       <string>F</string>
       <string>G</string>
-      <string>Gbreve</string>
       <string>H</string>
       <string>I</string>
       <string>Iacute</string>
       <string>Icircumflex</string>
       <string>Idieresis</string>
-      <string>Idotaccent</string>
       <string>Igrave</string>
       <string>J</string>
       <string>K</string>
@@ -100,7 +98,6 @@
       <string>R</string>
       <string>S</string>
       <string>Scaron</string>
-      <string>Scedilla</string>
       <string>T</string>
       <string>U</string>
       <string>Uacute</string>
@@ -135,7 +132,6 @@
       <string>egrave</string>
       <string>f</string>
       <string>g</string>
-      <string>gbreve</string>
       <string>h</string>
       <string>i</string>
       <string>idotless</string>
@@ -163,7 +159,6 @@
       <string>r</string>
       <string>s</string>
       <string>scaron</string>
-      <string>scedilla</string>
       <string>germandbls</string>
       <string>t</string>
       <string>u</string>
@@ -433,7 +428,6 @@
       <string>acutecomb</string>
       <string>circumflexcomb</string>
       <string>caroncomb</string>
-      <string>brevecomb</string>
       <string>ringcomb</string>
       <string>tildecomb</string>
       <string>cedillacomb</string>
@@ -443,7 +437,6 @@
       <string>acutecomb.case</string>
       <string>circumflexcomb.case</string>
       <string>caroncomb.case</string>
-      <string>brevecomb.case</string>
       <string>ringcomb.case</string>
       <string>tildecomb.case</string>
       <string>cedillacomb.case</string>
@@ -707,10 +700,6 @@
       <string>uni2561</string>
       <key>boxVerticalSingleAndRightDouble</key>
       <string>uni255E</string>
-      <key>brevecomb</key>
-      <string>uni0306</string>
-      <key>brevecomb.case</key>
-      <string>uni0306.case</string>
       <key>caroncomb</key>
       <string>uni030C</string>
       <key>caroncomb.case</key>

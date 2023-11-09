@@ -1,9 +1,9 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <glyph name="dotaccentcomb.case" format="2">
-  <anchor x="310" y="710" name="_top"/>
-  <anchor x="310" y="924" name="top"/>
+  <anchor x="305" y="710" name="_top"/>
+  <anchor x="305" y="914" name="top"/>
   <outline>
-    <component base="dotaccentcomb" yOffset="158"/>
+    <component base="dotaccentcomb" yOffset="148"/>
   </outline>
   <lib>
     <dict>
