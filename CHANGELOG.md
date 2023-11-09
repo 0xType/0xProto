@@ -1,5 +1,9 @@
 All notable changes to this project will be documented in this file.
 
+## 1.402
+
+- Support Turkish characters https://github.com/0xType/0xProto/pull/41
+
 ## 1.401
 
 https://github.com/0xType/0xProto/pull/36 by @moyogo (& https://github.com/0xType/0xProto/pull/39 )
