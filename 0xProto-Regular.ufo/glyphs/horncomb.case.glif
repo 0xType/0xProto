@@ -1,0 +1,14 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="horncomb.case" format="2">
+  <anchor x="242" y="760" name="_topright"/>
+  <anchor x="383" y="877" name="topright"/>
+  <outline>
+    <component base="horncomb" yOffset="211"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.originalWidth</key>
+      <integer>620</integer>
+    </dict>
+  </lib>
+</glyph>

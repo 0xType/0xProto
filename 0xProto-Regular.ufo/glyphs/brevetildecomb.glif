@@ -1,0 +1,35 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="brevetildecomb" format="2">
+  <advance width="620"/>
+  <anchor x="310" y="550" name="_top"/>
+  <anchor x="310" y="938" name="top"/>
+  <outline>
+    <contour>
+      <point x="293" y="857" type="curve" smooth="yes"/>
+      <point x="326" y="836" type="line" smooth="yes"/>
+      <point x="351" y="820"/>
+      <point x="382" y="818"/>
+      <point x="405" y="839" type="curve" smooth="yes"/>
+      <point x="419" y="851"/>
+      <point x="431" y="861"/>
+      <point x="455" y="892" type="curve"/>
+      <point x="416" y="925" type="line"/>
+      <point x="389" y="896" type="line" smooth="yes"/>
+      <point x="367" y="872"/>
+      <point x="362" y="875"/>
+      <point x="327" y="899" type="curve" smooth="yes"/>
+      <point x="292" y="923" type="line" smooth="yes"/>
+      <point x="263" y="943"/>
+      <point x="241" y="944"/>
+      <point x="213" y="923" type="curve" smooth="yes"/>
+      <point x="198" y="912"/>
+      <point x="184" y="902"/>
+      <point x="154" y="872" type="curve"/>
+      <point x="194" y="835" type="line"/>
+      <point x="222" y="861" type="line" smooth="yes"/>
+      <point x="251" y="887"/>
+      <point x="256" y="881"/>
+    </contour>
+    <component base="brevecomb"/>
+  </outline>
+</glyph>

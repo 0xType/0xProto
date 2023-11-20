@@ -1,5 +1,5 @@
 # automatic
-@Uppercase = [ A Aacute Acircumflex Adieresis Agrave Aring Atilde AE B C Ccedilla D Eth E Eacute Ecircumflex Edieresis Egrave F G Gbreve H I Iacute Icircumflex Idieresis Idotaccent Igrave J K L M N Ntilde O Oacute Ocircumflex Odieresis Ograve Oslash Otilde OE P Q R S Scaron Scedilla T U Uacute Ucircumflex Udieresis Ugrave V W X Y Yacute Ydieresis Z Zcaron
+@Uppercase = [ A Aacute Abreve Abreveacute Abrevedotbelow Abrevegrave Abrevehookabove Abrevetilde Acircumflex Acircumflexacute Acircumflexdotbelow Acircumflexgrave Acircumflexhookabove Acircumflextilde Adieresis Adotbelow Agrave Ahookabove Aring Atilde AE B C Ccedilla D Dcroat Eth E Eacute Ecircumflex Ecircumflexacute Ecircumflexdotbelow Ecircumflexgrave Ecircumflexhookabove Ecircumflextilde Edieresis Edotbelow Egrave Ehookabove Etilde F G Gbreve H I Iacute Icircumflex Idieresis Idotaccent Idotbelow Igrave Ihookabove Itilde J K L M N Ntilde O Oacute Ocircumflex Ocircumflexacute Ocircumflexdotbelow Ocircumflexgrave Ocircumflexhookabove Ocircumflextilde Odieresis Odotbelow Ograve Ohookabove Ohorn Ohornacute Ohorndotbelow Ohorngrave Ohornhookabove Ohorntilde Oslash Otilde OE P Q R S Scaron Scedilla T U Uacute Ucircumflex Udieresis Udotbelow Ugrave Uhookabove Uhorn Uhornacute Uhorndotbelow Uhorngrave Uhornhookabove Uhorntilde Utilde V W X Y Yacute Ydieresis Ydotbelow Ygrave Yhookabove Ytilde Z Zcaron
 ];
 
 # Prefix: Languagesystems
@@ -458,20 +458,22 @@ feature liga {
 feature ccmp {
 # automatic
 lookup ccmp_Other_1 {
-	@CombiningTopAccents = [acutecomb brevecomb caroncomb circumflexcomb dieresiscomb dotaccentcomb gravecomb ringcomb tildecomb];
+	@CombiningTopAccents = [acutecomb brevecomb caroncomb circumflexcomb dieresiscomb dotaccentcomb gravecomb hookabovecomb ringcomb tildecomb];
 	lookupflag UseMarkFilteringSet @CombiningTopAccents;
 	sub i' @CombiningTopAccents by idotless;
 	sub j' @CombiningTopAccents by jdotless;
 } ccmp_Other_1;
 
 lookup ccmp_Other_2 {
-	@Markscomb = [dieresiscomb dotaccentcomb gravecomb acutecomb circumflexcomb caroncomb brevecomb ringcomb tildecomb cedillacomb];
-	@MarkscombCase = [dieresiscomb.case dotaccentcomb.case gravecomb.case acutecomb.case circumflexcomb.case caroncomb.case brevecomb.case ringcomb.case tildecomb.case cedillacomb.case];
+	lookupflag 0;
+	@Markscomb = [dieresiscomb dotaccentcomb gravecomb acutecomb circumflexcomb caroncomb brevecomb ringcomb tildecomb hookabovecomb horncomb dotbelowcomb cedillacomb];
+	@MarkscombCase = [dieresiscomb.case dotaccentcomb.case gravecomb.case acutecomb.case circumflexcomb.case caroncomb.case brevecomb.case ringcomb.case tildecomb.case hookabovecomb.case horncomb.case dotbelowcomb.case cedillacomb.case];
 	sub @Markscomb @Markscomb' by @MarkscombCase;
 	sub @Uppercase @Markscomb' by @MarkscombCase;
 } ccmp_Other_2;
 
 lookup ccmp_Other_3 {
+	lookupflag 0;
 	sub @Markscomb' @MarkscombCase by @MarkscombCase;
 	sub @MarkscombCase @Markscomb' by @MarkscombCase;
 } ccmp_Other_3;

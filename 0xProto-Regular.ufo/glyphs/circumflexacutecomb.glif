@@ -1,0 +1,16 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="circumflexacutecomb" format="2">
+  <advance width="620"/>
+  <anchor x="310" y="550" name="_top"/>
+  <anchor x="310" y="868" name="top"/>
+  <outline>
+    <contour>
+      <point x="479" y="868" type="line"/>
+      <point x="424" y="750" type="line"/>
+      <point x="494" y="750" type="line"/>
+      <point x="576" y="862" type="line"/>
+      <point x="576" y="868" type="line"/>
+    </contour>
+    <component base="circumflexcomb"/>
+  </outline>
+</glyph>

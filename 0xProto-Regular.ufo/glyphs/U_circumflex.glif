@@ -4,7 +4,7 @@
   <unicode hex="00DB"/>
   <anchor x="310" y="-15" name="bottom"/>
   <anchor x="310" y="934" name="top"/>
-  <anchor x="565" y="710" name="topright"/>
+  <anchor x="507" y="710" name="topright"/>
   <outline>
     <component base="U"/>
     <component base="circumflexcomb.case"/>
