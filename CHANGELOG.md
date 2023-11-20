@@ -1,5 +1,9 @@
 All notable changes to this project will be documented in this file.
 
+## 1.403
+
+- Support Vietnamese characters https://github.com/0xType/0xProto/pull/47
+
 ## 1.402
 
 - Support Turkish characters https://github.com/0xType/0xProto/pull/41
