@@ -16,7 +16,7 @@
       </dict>
     </array>
     <key>com.schriftgestaltung.appVersion</key>
-    <string>3226</string>
+    <string>3227</string>
     <key>com.schriftgestaltung.customParameter.GSFont.Write lastChange</key>
     <integer>0</integer>
     <key>com.schriftgestaltung.customParameter.GSFont.disablesAutomaticAlignment</key>
@@ -55,9 +55,22 @@
     <array>
       <string>A</string>
       <string>Aacute</string>
+      <string>Abreve</string>
+      <string>Abreveacute</string>
+      <string>Abrevedotbelow</string>
+      <string>Abrevegrave</string>
+      <string>Abrevehookabove</string>
+      <string>Abrevetilde</string>
       <string>Acircumflex</string>
+      <string>Acircumflexacute</string>
+      <string>Acircumflexdotbelow</string>
+      <string>Acircumflexgrave</string>
+      <string>Acircumflexhookabove</string>
+      <string>Acircumflextilde</string>
       <string>Adieresis</string>
+      <string>Adotbelow</string>
       <string>Agrave</string>
+      <string>Ahookabove</string>
       <string>Aring</string>
       <string>Atilde</string>
       <string>AE</string>
@@ -65,12 +78,21 @@
       <string>C</string>
       <string>Ccedilla</string>
       <string>D</string>
+      <string>Dcroat</string>
       <string>Eth</string>
       <string>E</string>
       <string>Eacute</string>
       <string>Ecircumflex</string>
+      <string>Ecircumflexacute</string>
+      <string>Ecircumflexdotbelow</string>
+      <string>Ecircumflexgrave</string>
+      <string>Ecircumflexhookabove</string>
+      <string>Ecircumflextilde</string>
       <string>Edieresis</string>
+      <string>Edotbelow</string>
       <string>Egrave</string>
+      <string>Ehookabove</string>
+      <string>Etilde</string>
       <string>F</string>
       <string>G</string>
       <string>Gbreve</string>
@@ -80,7 +102,10 @@
       <string>Icircumflex</string>
       <string>Idieresis</string>
       <string>Idotaccent</string>
+      <string>Idotbelow</string>
       <string>Igrave</string>
+      <string>Ihookabove</string>
+      <string>Itilde</string>
       <string>J</string>
       <string>K</string>
       <string>L</string>
@@ -90,8 +115,21 @@
       <string>O</string>
       <string>Oacute</string>
       <string>Ocircumflex</string>
+      <string>Ocircumflexacute</string>
+      <string>Ocircumflexdotbelow</string>
+      <string>Ocircumflexgrave</string>
+      <string>Ocircumflexhookabove</string>
+      <string>Ocircumflextilde</string>
       <string>Odieresis</string>
+      <string>Odotbelow</string>
       <string>Ograve</string>
+      <string>Ohookabove</string>
+      <string>Ohorn</string>
+      <string>Ohornacute</string>
+      <string>Ohorndotbelow</string>
+      <string>Ohorngrave</string>
+      <string>Ohornhookabove</string>
+      <string>Ohorntilde</string>
       <string>Oslash</string>
       <string>Otilde</string>
       <string>OE</string>
@@ -106,20 +144,46 @@
       <string>Uacute</string>
       <string>Ucircumflex</string>
       <string>Udieresis</string>
+      <string>Udotbelow</string>
       <string>Ugrave</string>
+      <string>Uhookabove</string>
+      <string>Uhorn</string>
+      <string>Uhornacute</string>
+      <string>Uhorndotbelow</string>
+      <string>Uhorngrave</string>
+      <string>Uhornhookabove</string>
+      <string>Uhorntilde</string>
+      <string>Utilde</string>
       <string>V</string>
       <string>W</string>
       <string>X</string>
       <string>Y</string>
       <string>Yacute</string>
       <string>Ydieresis</string>
+      <string>Ydotbelow</string>
+      <string>Ygrave</string>
+      <string>Yhookabove</string>
+      <string>Ytilde</string>
       <string>Z</string>
       <string>Zcaron</string>
       <string>a</string>
       <string>aacute</string>
+      <string>abreve</string>
+      <string>abreveacute</string>
+      <string>abrevedotbelow</string>
+      <string>abrevegrave</string>
+      <string>abrevehookabove</string>
+      <string>abrevetilde</string>
       <string>acircumflex</string>
+      <string>acircumflexacute</string>
+      <string>acircumflexdotbelow</string>
+      <string>acircumflexgrave</string>
+      <string>acircumflexhookabove</string>
+      <string>acircumflextilde</string>
       <string>adieresis</string>
+      <string>adotbelow</string>
       <string>agrave</string>
+      <string>ahookabove</string>
       <string>aring</string>
       <string>atilde</string>
       <string>ae</string>
@@ -127,12 +191,21 @@
       <string>c</string>
       <string>ccedilla</string>
       <string>d</string>
+      <string>dcroat</string>
       <string>eth</string>
       <string>e</string>
       <string>eacute</string>
       <string>ecircumflex</string>
+      <string>ecircumflexacute</string>
+      <string>ecircumflexdotbelow</string>
+      <string>ecircumflexgrave</string>
+      <string>ecircumflexhookabove</string>
+      <string>ecircumflextilde</string>
       <string>edieresis</string>
+      <string>edotbelow</string>
       <string>egrave</string>
+      <string>ehookabove</string>
+      <string>etilde</string>
       <string>f</string>
       <string>g</string>
       <string>gbreve</string>
@@ -142,7 +215,10 @@
       <string>iacute</string>
       <string>icircumflex</string>
       <string>idieresis</string>
+      <string>idotbelow</string>
       <string>igrave</string>
+      <string>ihookabove</string>
+      <string>itilde</string>
       <string>j</string>
       <string>jdotless</string>
       <string>k</string>
@@ -153,8 +229,21 @@
       <string>o</string>
       <string>oacute</string>
       <string>ocircumflex</string>
+      <string>ocircumflexacute</string>
+      <string>ocircumflexdotbelow</string>
+      <string>ocircumflexgrave</string>
+      <string>ocircumflexhookabove</string>
+      <string>ocircumflextilde</string>
       <string>odieresis</string>
+      <string>odotbelow</string>
       <string>ograve</string>
+      <string>ohookabove</string>
+      <string>ohorn</string>
+      <string>ohornacute</string>
+      <string>ohorndotbelow</string>
+      <string>ohorngrave</string>
+      <string>ohornhookabove</string>
+      <string>ohorntilde</string>
       <string>oslash</string>
       <string>otilde</string>
       <string>oe</string>
@@ -170,13 +259,26 @@
       <string>uacute</string>
       <string>ucircumflex</string>
       <string>udieresis</string>
+      <string>udotbelow</string>
       <string>ugrave</string>
+      <string>uhookabove</string>
+      <string>uhorn</string>
+      <string>uhornacute</string>
+      <string>uhorndotbelow</string>
+      <string>uhorngrave</string>
+      <string>uhornhookabove</string>
+      <string>uhorntilde</string>
+      <string>utilde</string>
       <string>v</string>
       <string>w</string>
       <string>x</string>
       <string>y</string>
       <string>yacute</string>
       <string>ydieresis</string>
+      <string>ydotbelow</string>
+      <string>ygrave</string>
+      <string>yhookabove</string>
+      <string>ytilde</string>
       <string>z</string>
       <string>zcaron</string>
       <string>zero</string>
@@ -436,6 +538,9 @@
       <string>brevecomb</string>
       <string>ringcomb</string>
       <string>tildecomb</string>
+      <string>hookabovecomb</string>
+      <string>horncomb</string>
+      <string>dotbelowcomb</string>
       <string>cedillacomb</string>
       <string>dieresiscomb.case</string>
       <string>dotaccentcomb.case</string>
@@ -446,11 +551,142 @@
       <string>brevecomb.case</string>
       <string>ringcomb.case</string>
       <string>tildecomb.case</string>
+      <string>hookabovecomb.case</string>
+      <string>horncomb.case</string>
+      <string>dotbelowcomb.case</string>
       <string>cedillacomb.case</string>
       <string>grave</string>
+      <string>breveacutecomb</string>
+      <string>brevegravecomb</string>
+      <string>brevehookabovecomb</string>
+      <string>brevetildecomb</string>
+      <string>circumflexacutecomb</string>
+      <string>circumflexgravecomb</string>
+      <string>circumflexhookabovecomb</string>
+      <string>circumflextildecomb</string>
+      <string>breveacutecomb.case</string>
+      <string>brevegravecomb.case</string>
+      <string>brevehookabovecomb.case</string>
+      <string>brevetildecomb.case</string>
+      <string>circumflexacutecomb.case</string>
+      <string>circumflexgravecomb.case</string>
+      <string>circumflexhookabovecomb.case</string>
+      <string>circumflextildecomb.case</string>
     </array>
     <key>public.postscriptNames</key>
     <dict>
+      <key>Abreveacute</key>
+      <string>uni1EAE</string>
+      <key>Abrevedotbelow</key>
+      <string>uni1EB6</string>
+      <key>Abrevegrave</key>
+      <string>uni1EB0</string>
+      <key>Abrevehookabove</key>
+      <string>uni1EB2</string>
+      <key>Abrevetilde</key>
+      <string>uni1EB4</string>
+      <key>Acircumflexacute</key>
+      <string>uni1EA4</string>
+      <key>Acircumflexdotbelow</key>
+      <string>uni1EAC</string>
+      <key>Acircumflexgrave</key>
+      <string>uni1EA6</string>
+      <key>Acircumflexhookabove</key>
+      <string>uni1EA8</string>
+      <key>Acircumflextilde</key>
+      <string>uni1EAA</string>
+      <key>Adotbelow</key>
+      <string>uni1EA0</string>
+      <key>Ahookabove</key>
+      <string>uni1EA2</string>
+      <key>Ecircumflexacute</key>
+      <string>uni1EBE</string>
+      <key>Ecircumflexdotbelow</key>
+      <string>uni1EC6</string>
+      <key>Ecircumflexgrave</key>
+      <string>uni1EC0</string>
+      <key>Ecircumflexhookabove</key>
+      <string>uni1EC2</string>
+      <key>Ecircumflextilde</key>
+      <string>uni1EC4</string>
+      <key>Edotbelow</key>
+      <string>uni1EB8</string>
+      <key>Ehookabove</key>
+      <string>uni1EBA</string>
+      <key>Etilde</key>
+      <string>uni1EBC</string>
+      <key>Idotbelow</key>
+      <string>uni1ECA</string>
+      <key>Ihookabove</key>
+      <string>uni1EC8</string>
+      <key>Ocircumflexacute</key>
+      <string>uni1ED0</string>
+      <key>Ocircumflexdotbelow</key>
+      <string>uni1ED8</string>
+      <key>Ocircumflexgrave</key>
+      <string>uni1ED2</string>
+      <key>Ocircumflexhookabove</key>
+      <string>uni1ED4</string>
+      <key>Ocircumflextilde</key>
+      <string>uni1ED6</string>
+      <key>Odotbelow</key>
+      <string>uni1ECC</string>
+      <key>Ohookabove</key>
+      <string>uni1ECE</string>
+      <key>Ohornacute</key>
+      <string>uni1EDA</string>
+      <key>Ohorndotbelow</key>
+      <string>uni1EE2</string>
+      <key>Ohorngrave</key>
+      <string>uni1EDC</string>
+      <key>Ohornhookabove</key>
+      <string>uni1EDE</string>
+      <key>Ohorntilde</key>
+      <string>uni1EE0</string>
+      <key>Udotbelow</key>
+      <string>uni1EE4</string>
+      <key>Uhookabove</key>
+      <string>uni1EE6</string>
+      <key>Uhornacute</key>
+      <string>uni1EE8</string>
+      <key>Uhorndotbelow</key>
+      <string>uni1EF0</string>
+      <key>Uhorngrave</key>
+      <string>uni1EEA</string>
+      <key>Uhornhookabove</key>
+      <string>uni1EEC</string>
+      <key>Uhorntilde</key>
+      <string>uni1EEE</string>
+      <key>Ydotbelow</key>
+      <string>uni1EF4</string>
+      <key>Yhookabove</key>
+      <string>uni1EF6</string>
+      <key>Ytilde</key>
+      <string>uni1EF8</string>
+      <key>abreveacute</key>
+      <string>uni1EAF</string>
+      <key>abrevedotbelow</key>
+      <string>uni1EB7</string>
+      <key>abrevegrave</key>
+      <string>uni1EB1</string>
+      <key>abrevehookabove</key>
+      <string>uni1EB3</string>
+      <key>abrevetilde</key>
+      <string>uni1EB5</string>
+      <key>acircumflexacute</key>
+      <string>uni1EA5</string>
+      <key>acircumflexdotbelow</key>
+      <string>uni1EAD</string>
+      <key>acircumflexgrave</key>
+      <string>uni1EA7</string>
+      <key>acircumflexhookabove</key>
+      <string>uni1EA9</string>
+      <key>acircumflextilde</key>
+      <string>uni1EAB</string>
+      <key>adotbelow</key>
+      <string>uni1EA1</string>
+      <key>ahookabove</key>
+      <string>uni1EA3</string>
       <key>boxDoubleDownAndHorizontal</key>
       <string>uni2566</string>
       <key>boxDoubleDownAndLeft</key>
@@ -731,14 +967,82 @@
       <string>uni0307</string>
       <key>dotaccentcomb.case</key>
       <string>uni0307.case</string>
+      <key>ecircumflexacute</key>
+      <string>uni1EBF</string>
+      <key>ecircumflexdotbelow</key>
+      <string>uni1EC7</string>
+      <key>ecircumflexgrave</key>
+      <string>uni1EC1</string>
+      <key>ecircumflexhookabove</key>
+      <string>uni1EC3</string>
+      <key>ecircumflextilde</key>
+      <string>uni1EC5</string>
+      <key>edotbelow</key>
+      <string>uni1EB9</string>
+      <key>ehookabove</key>
+      <string>uni1EBB</string>
+      <key>etilde</key>
+      <string>uni1EBD</string>
+      <key>horncomb</key>
+      <string>uni031B</string>
+      <key>horncomb.case</key>
+      <string>uni031B.case</string>
+      <key>idotbelow</key>
+      <string>uni1ECB</string>
       <key>idotless</key>
       <string>dotlessi</string>
+      <key>ihookabove</key>
+      <string>uni1EC9</string>
       <key>jdotless</key>
       <string>uni0237</string>
+      <key>ocircumflexacute</key>
+      <string>uni1ED1</string>
+      <key>ocircumflexdotbelow</key>
+      <string>uni1ED9</string>
+      <key>ocircumflexgrave</key>
+      <string>uni1ED3</string>
+      <key>ocircumflexhookabove</key>
+      <string>uni1ED5</string>
+      <key>ocircumflextilde</key>
+      <string>uni1ED7</string>
+      <key>odotbelow</key>
+      <string>uni1ECD</string>
+      <key>ohookabove</key>
+      <string>uni1ECF</string>
+      <key>ohornacute</key>
+      <string>uni1EDB</string>
+      <key>ohorndotbelow</key>
+      <string>uni1EE3</string>
+      <key>ohorngrave</key>
+      <string>uni1EDD</string>
+      <key>ohornhookabove</key>
+      <string>uni1EDF</string>
+      <key>ohorntilde</key>
+      <string>uni1EE1</string>
       <key>ringcomb</key>
       <string>uni030A</string>
       <key>ringcomb.case</key>
       <string>uni030A.case</string>
+      <key>udotbelow</key>
+      <string>uni1EE5</string>
+      <key>uhookabove</key>
+      <string>uni1EE7</string>
+      <key>uhornacute</key>
+      <string>uni1EE9</string>
+      <key>uhorndotbelow</key>
+      <string>uni1EF1</string>
+      <key>uhorngrave</key>
+      <string>uni1EEB</string>
+      <key>uhornhookabove</key>
+      <string>uni1EED</string>
+      <key>uhorntilde</key>
+      <string>uni1EEF</string>
+      <key>ydotbelow</key>
+      <string>uni1EF5</string>
+      <key>yhookabove</key>
+      <string>uni1EF7</string>
+      <key>ytilde</key>
+      <string>uni1EF9</string>
     </dict>
   </dict>
 </plist>

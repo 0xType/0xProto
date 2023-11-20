@@ -2,8 +2,8 @@
 <glyph name="jdotless" format="2">
   <advance width="620"/>
   <unicode hex="0237"/>
-  <anchor x="343" y="-200" name="bottom"/>
-  <anchor x="343" y="550" name="top"/>
+  <anchor x="340" y="-200" name="bottom"/>
+  <anchor x="340" y="550" name="top"/>
   <outline>
     <contour>
       <point x="141" y="513" type="line"/>

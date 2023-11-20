@@ -1,0 +1,16 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="brevegravecomb" format="2">
+  <advance width="620"/>
+  <anchor x="310" y="550" name="_top"/>
+  <anchor x="310" y="906" name="top"/>
+  <outline>
+    <contour>
+      <point x="292" y="906" type="line"/>
+      <point x="195" y="906" type="line"/>
+      <point x="195" y="900" type="line"/>
+      <point x="277" y="788" type="line"/>
+      <point x="347" y="788" type="line"/>
+    </contour>
+    <component base="brevecomb"/>
+  </outline>
+</glyph>

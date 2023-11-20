@@ -5,6 +5,8 @@
   <anchor x="310" y="0" name="bottom"/>
   <anchor x="310" y="355" name="center"/>
   <anchor x="310" y="908" name="top"/>
+  <anchor x="40" y="710" name="topleft"/>
+  <anchor x="463" y="679" name="topright"/>
   <outline>
     <component base="O"/>
     <component base="dieresiscomb.case"/>

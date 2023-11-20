@@ -12,11 +12,37 @@
       <integer>0</integer>
       <key>com.schriftgestaltung.layerOrderInGlyph.Aacute</key>
       <integer>0</integer>
+      <key>com.schriftgestaltung.layerOrderInGlyph.Abreve</key>
+      <integer>0</integer>
+      <key>com.schriftgestaltung.layerOrderInGlyph.Abreveacute</key>
+      <integer>0</integer>
+      <key>com.schriftgestaltung.layerOrderInGlyph.Abrevedotbelow</key>
+      <integer>0</integer>
+      <key>com.schriftgestaltung.layerOrderInGlyph.Abrevegrave</key>
+      <integer>0</integer>
+      <key>com.schriftgestaltung.layerOrderInGlyph.Abrevehookabove</key>
+      <integer>0</integer>
+      <key>com.schriftgestaltung.layerOrderInGlyph.Abrevetilde</key>
+      <integer>0</integer>
       <key>com.schriftgestaltung.layerOrderInGlyph.Acircumflex</key>
+      <integer>0</integer>
+      <key>com.schriftgestaltung.layerOrderInGlyph.Acircumflexacute</key>
+      <integer>0</integer>
+      <key>com.schriftgestaltung.layerOrderInGlyph.Acircumflexdotbelow</key>
+      <integer>0</integer>
+      <key>com.schriftgestaltung.layerOrderInGlyph.Acircumflexgrave</key>
+      <integer>0</integer>
+      <key>com.schriftgestaltung.layerOrderInGlyph.Acircumflexhookabove</key>
+      <integer>0</integer>
+      <key>com.schriftgestaltung.layerOrderInGlyph.Acircumflextilde</key>
       <integer>0</integer>
       <key>com.schriftgestaltung.layerOrderInGlyph.Adieresis</key>
       <integer>0</integer>
+      <key>com.schriftgestaltung.layerOrderInGlyph.Adotbelow</key>
+      <integer>0</integer>
       <key>com.schriftgestaltung.layerOrderInGlyph.Agrave</key>
+      <integer>0</integer>
+      <key>com.schriftgestaltung.layerOrderInGlyph.Ahookabove</key>
       <integer>0</integer>
       <key>com.schriftgestaltung.layerOrderInGlyph.Aring</key>
       <integer>0</integer>
@@ -30,17 +56,35 @@
       <integer>0</integer>
       <key>com.schriftgestaltung.layerOrderInGlyph.D</key>
       <integer>0</integer>
+      <key>com.schriftgestaltung.layerOrderInGlyph.Dcroat</key>
+      <integer>0</integer>
       <key>com.schriftgestaltung.layerOrderInGlyph.E</key>
       <integer>0</integer>
       <key>com.schriftgestaltung.layerOrderInGlyph.Eacute</key>
       <integer>0</integer>
       <key>com.schriftgestaltung.layerOrderInGlyph.Ecircumflex</key>
       <integer>0</integer>
+      <key>com.schriftgestaltung.layerOrderInGlyph.Ecircumflexacute</key>
+      <integer>0</integer>
+      <key>com.schriftgestaltung.layerOrderInGlyph.Ecircumflexdotbelow</key>
+      <integer>0</integer>
+      <key>com.schriftgestaltung.layerOrderInGlyph.Ecircumflexgrave</key>
+      <integer>0</integer>
+      <key>com.schriftgestaltung.layerOrderInGlyph.Ecircumflexhookabove</key>
+      <integer>0</integer>
+      <key>com.schriftgestaltung.layerOrderInGlyph.Ecircumflextilde</key>
+      <integer>0</integer>
       <key>com.schriftgestaltung.layerOrderInGlyph.Edieresis</key>
+      <integer>0</integer>
+      <key>com.schriftgestaltung.layerOrderInGlyph.Edotbelow</key>
       <integer>0</integer>
       <key>com.schriftgestaltung.layerOrderInGlyph.Egrave</key>
       <integer>0</integer>
+      <key>com.schriftgestaltung.layerOrderInGlyph.Ehookabove</key>
+      <integer>0</integer>
       <key>com.schriftgestaltung.layerOrderInGlyph.Eth</key>
+      <integer>0</integer>
+      <key>com.schriftgestaltung.layerOrderInGlyph.Etilde</key>
       <integer>0</integer>
       <key>com.schriftgestaltung.layerOrderInGlyph.F</key>
       <integer>0</integer>
@@ -60,7 +104,13 @@
       <integer>0</integer>
       <key>com.schriftgestaltung.layerOrderInGlyph.Idotaccent</key>
       <integer>0</integer>
+      <key>com.schriftgestaltung.layerOrderInGlyph.Idotbelow</key>
+      <integer>0</integer>
       <key>com.schriftgestaltung.layerOrderInGlyph.Igrave</key>
+      <integer>0</integer>
+      <key>com.schriftgestaltung.layerOrderInGlyph.Ihookabove</key>
+      <integer>0</integer>
+      <key>com.schriftgestaltung.layerOrderInGlyph.Itilde</key>
       <integer>0</integer>
       <key>com.schriftgestaltung.layerOrderInGlyph.J</key>
       <integer>0</integer>
@@ -82,9 +132,35 @@
       <integer>0</integer>
       <key>com.schriftgestaltung.layerOrderInGlyph.Ocircumflex</key>
       <integer>0</integer>
+      <key>com.schriftgestaltung.layerOrderInGlyph.Ocircumflexacute</key>
+      <integer>0</integer>
+      <key>com.schriftgestaltung.layerOrderInGlyph.Ocircumflexdotbelow</key>
+      <integer>0</integer>
+      <key>com.schriftgestaltung.layerOrderInGlyph.Ocircumflexgrave</key>
+      <integer>0</integer>
+      <key>com.schriftgestaltung.layerOrderInGlyph.Ocircumflexhookabove</key>
+      <integer>0</integer>
+      <key>com.schriftgestaltung.layerOrderInGlyph.Ocircumflextilde</key>
+      <integer>0</integer>
       <key>com.schriftgestaltung.layerOrderInGlyph.Odieresis</key>
       <integer>0</integer>
+      <key>com.schriftgestaltung.layerOrderInGlyph.Odotbelow</key>
+      <integer>0</integer>
       <key>com.schriftgestaltung.layerOrderInGlyph.Ograve</key>
+      <integer>0</integer>
+      <key>com.schriftgestaltung.layerOrderInGlyph.Ohookabove</key>
+      <integer>0</integer>
+      <key>com.schriftgestaltung.layerOrderInGlyph.Ohorn</key>
+      <integer>0</integer>
+      <key>com.schriftgestaltung.layerOrderInGlyph.Ohornacute</key>
+      <integer>0</integer>
+      <key>com.schriftgestaltung.layerOrderInGlyph.Ohorndotbelow</key>
+      <integer>0</integer>
+      <key>com.schriftgestaltung.layerOrderInGlyph.Ohorngrave</key>
+      <integer>0</integer>
+      <key>com.schriftgestaltung.layerOrderInGlyph.Ohornhookabove</key>
+      <integer>0</integer>
+      <key>com.schriftgestaltung.layerOrderInGlyph.Ohorntilde</key>
       <integer>0</integer>
       <key>com.schriftgestaltung.layerOrderInGlyph.Oslash</key>
       <integer>0</integer>
@@ -112,7 +188,25 @@
       <integer>0</integer>
       <key>com.schriftgestaltung.layerOrderInGlyph.Udieresis</key>
       <integer>0</integer>
+      <key>com.schriftgestaltung.layerOrderInGlyph.Udotbelow</key>
+      <integer>0</integer>
       <key>com.schriftgestaltung.layerOrderInGlyph.Ugrave</key>
+      <integer>0</integer>
+      <key>com.schriftgestaltung.layerOrderInGlyph.Uhookabove</key>
+      <integer>0</integer>
+      <key>com.schriftgestaltung.layerOrderInGlyph.Uhorn</key>
+      <integer>0</integer>
+      <key>com.schriftgestaltung.layerOrderInGlyph.Uhornacute</key>
+      <integer>0</integer>
+      <key>com.schriftgestaltung.layerOrderInGlyph.Uhorndotbelow</key>
+      <integer>0</integer>
+      <key>com.schriftgestaltung.layerOrderInGlyph.Uhorngrave</key>
+      <integer>0</integer>
+      <key>com.schriftgestaltung.layerOrderInGlyph.Uhornhookabove</key>
+      <integer>0</integer>
+      <key>com.schriftgestaltung.layerOrderInGlyph.Uhorntilde</key>
+      <integer>0</integer>
+      <key>com.schriftgestaltung.layerOrderInGlyph.Utilde</key>
       <integer>0</integer>
       <key>com.schriftgestaltung.layerOrderInGlyph.V</key>
       <integer>0</integer>
@@ -126,6 +220,14 @@
       <integer>0</integer>
       <key>com.schriftgestaltung.layerOrderInGlyph.Ydieresis</key>
       <integer>0</integer>
+      <key>com.schriftgestaltung.layerOrderInGlyph.Ydotbelow</key>
+      <integer>0</integer>
+      <key>com.schriftgestaltung.layerOrderInGlyph.Ygrave</key>
+      <integer>0</integer>
+      <key>com.schriftgestaltung.layerOrderInGlyph.Yhookabove</key>
+      <integer>0</integer>
+      <key>com.schriftgestaltung.layerOrderInGlyph.Ytilde</key>
+      <integer>0</integer>
       <key>com.schriftgestaltung.layerOrderInGlyph.Z</key>
       <integer>0</integer>
       <key>com.schriftgestaltung.layerOrderInGlyph.Zcaron</key>
@@ -134,7 +236,29 @@
       <integer>0</integer>
       <key>com.schriftgestaltung.layerOrderInGlyph.aacute</key>
       <integer>0</integer>
+      <key>com.schriftgestaltung.layerOrderInGlyph.abreve</key>
+      <integer>0</integer>
+      <key>com.schriftgestaltung.layerOrderInGlyph.abreveacute</key>
+      <integer>0</integer>
+      <key>com.schriftgestaltung.layerOrderInGlyph.abrevedotbelow</key>
+      <integer>0</integer>
+      <key>com.schriftgestaltung.layerOrderInGlyph.abrevegrave</key>
+      <integer>0</integer>
+      <key>com.schriftgestaltung.layerOrderInGlyph.abrevehookabove</key>
+      <integer>0</integer>
+      <key>com.schriftgestaltung.layerOrderInGlyph.abrevetilde</key>
+      <integer>0</integer>
       <key>com.schriftgestaltung.layerOrderInGlyph.acircumflex</key>
+      <integer>0</integer>
+      <key>com.schriftgestaltung.layerOrderInGlyph.acircumflexacute</key>
+      <integer>0</integer>
+      <key>com.schriftgestaltung.layerOrderInGlyph.acircumflexdotbelow</key>
+      <integer>0</integer>
+      <key>com.schriftgestaltung.layerOrderInGlyph.acircumflexgrave</key>
+      <integer>0</integer>
+      <key>com.schriftgestaltung.layerOrderInGlyph.acircumflexhookabove</key>
+      <integer>0</integer>
+      <key>com.schriftgestaltung.layerOrderInGlyph.acircumflextilde</key>
       <integer>0</integer>
       <key>com.schriftgestaltung.layerOrderInGlyph.acutecomb</key>
       <integer>0</integer>
@@ -142,9 +266,13 @@
       <integer>0</integer>
       <key>com.schriftgestaltung.layerOrderInGlyph.adieresis</key>
       <integer>0</integer>
+      <key>com.schriftgestaltung.layerOrderInGlyph.adotbelow</key>
+      <integer>0</integer>
       <key>com.schriftgestaltung.layerOrderInGlyph.ae</key>
       <integer>0</integer>
       <key>com.schriftgestaltung.layerOrderInGlyph.agrave</key>
+      <integer>0</integer>
+      <key>com.schriftgestaltung.layerOrderInGlyph.ahookabove</key>
       <integer>0</integer>
       <key>com.schriftgestaltung.layerOrderInGlyph.ampersand</key>
       <integer>0</integer>
@@ -458,9 +586,25 @@
       <integer>0</integer>
       <key>com.schriftgestaltung.layerOrderInGlyph.bracketright</key>
       <integer>0</integer>
+      <key>com.schriftgestaltung.layerOrderInGlyph.breveacutecomb</key>
+      <integer>0</integer>
+      <key>com.schriftgestaltung.layerOrderInGlyph.breveacutecomb.case</key>
+      <integer>0</integer>
       <key>com.schriftgestaltung.layerOrderInGlyph.brevecomb</key>
       <integer>0</integer>
       <key>com.schriftgestaltung.layerOrderInGlyph.brevecomb.case</key>
+      <integer>0</integer>
+      <key>com.schriftgestaltung.layerOrderInGlyph.brevegravecomb</key>
+      <integer>0</integer>
+      <key>com.schriftgestaltung.layerOrderInGlyph.brevegravecomb.case</key>
+      <integer>0</integer>
+      <key>com.schriftgestaltung.layerOrderInGlyph.brevehookabovecomb</key>
+      <integer>0</integer>
+      <key>com.schriftgestaltung.layerOrderInGlyph.brevehookabovecomb.case</key>
+      <integer>0</integer>
+      <key>com.schriftgestaltung.layerOrderInGlyph.brevetildecomb</key>
+      <integer>3</integer>
+      <key>com.schriftgestaltung.layerOrderInGlyph.brevetildecomb.case</key>
       <integer>0</integer>
       <key>com.schriftgestaltung.layerOrderInGlyph.c</key>
       <integer>0</integer>
@@ -474,9 +618,25 @@
       <integer>0</integer>
       <key>com.schriftgestaltung.layerOrderInGlyph.cedillacomb.case</key>
       <integer>0</integer>
+      <key>com.schriftgestaltung.layerOrderInGlyph.circumflexacutecomb</key>
+      <integer>0</integer>
+      <key>com.schriftgestaltung.layerOrderInGlyph.circumflexacutecomb.case</key>
+      <integer>0</integer>
       <key>com.schriftgestaltung.layerOrderInGlyph.circumflexcomb</key>
       <integer>0</integer>
       <key>com.schriftgestaltung.layerOrderInGlyph.circumflexcomb.case</key>
+      <integer>0</integer>
+      <key>com.schriftgestaltung.layerOrderInGlyph.circumflexgravecomb</key>
+      <integer>0</integer>
+      <key>com.schriftgestaltung.layerOrderInGlyph.circumflexgravecomb.case</key>
+      <integer>0</integer>
+      <key>com.schriftgestaltung.layerOrderInGlyph.circumflexhookabovecomb</key>
+      <integer>0</integer>
+      <key>com.schriftgestaltung.layerOrderInGlyph.circumflexhookabovecomb.case</key>
+      <integer>0</integer>
+      <key>com.schriftgestaltung.layerOrderInGlyph.circumflextildecomb</key>
+      <integer>0</integer>
+      <key>com.schriftgestaltung.layerOrderInGlyph.circumflextildecomb.case</key>
       <integer>0</integer>
       <key>com.schriftgestaltung.layerOrderInGlyph.colon</key>
       <integer>0</integer>
@@ -496,6 +656,8 @@
       <integer>0</integer>
       <key>com.schriftgestaltung.layerOrderInGlyph.d</key>
       <integer>0</integer>
+      <key>com.schriftgestaltung.layerOrderInGlyph.dcroat</key>
+      <integer>0</integer>
       <key>com.schriftgestaltung.layerOrderInGlyph.dieresiscomb</key>
       <integer>0</integer>
       <key>com.schriftgestaltung.layerOrderInGlyph.dieresiscomb.case</key>
@@ -510,15 +672,33 @@
       <integer>0</integer>
       <key>com.schriftgestaltung.layerOrderInGlyph.dotaccentcomb.case</key>
       <integer>0</integer>
+      <key>com.schriftgestaltung.layerOrderInGlyph.dotbelowcomb</key>
+      <integer>0</integer>
+      <key>com.schriftgestaltung.layerOrderInGlyph.dotbelowcomb.case</key>
+      <integer>0</integer>
       <key>com.schriftgestaltung.layerOrderInGlyph.e</key>
       <integer>0</integer>
       <key>com.schriftgestaltung.layerOrderInGlyph.eacute</key>
       <integer>0</integer>
       <key>com.schriftgestaltung.layerOrderInGlyph.ecircumflex</key>
       <integer>0</integer>
+      <key>com.schriftgestaltung.layerOrderInGlyph.ecircumflexacute</key>
+      <integer>0</integer>
+      <key>com.schriftgestaltung.layerOrderInGlyph.ecircumflexdotbelow</key>
+      <integer>0</integer>
+      <key>com.schriftgestaltung.layerOrderInGlyph.ecircumflexgrave</key>
+      <integer>0</integer>
+      <key>com.schriftgestaltung.layerOrderInGlyph.ecircumflexhookabove</key>
+      <integer>0</integer>
+      <key>com.schriftgestaltung.layerOrderInGlyph.ecircumflextilde</key>
+      <integer>0</integer>
       <key>com.schriftgestaltung.layerOrderInGlyph.edieresis</key>
       <integer>0</integer>
+      <key>com.schriftgestaltung.layerOrderInGlyph.edotbelow</key>
+      <integer>0</integer>
       <key>com.schriftgestaltung.layerOrderInGlyph.egrave</key>
+      <integer>0</integer>
+      <key>com.schriftgestaltung.layerOrderInGlyph.ehookabove</key>
       <integer>0</integer>
       <key>com.schriftgestaltung.layerOrderInGlyph.eight</key>
       <integer>0</integer>
@@ -545,6 +725,8 @@
       <key>com.schriftgestaltung.layerOrderInGlyph.equal_less_less</key>
       <integer>0</integer>
       <key>com.schriftgestaltung.layerOrderInGlyph.eth</key>
+      <integer>0</integer>
+      <key>com.schriftgestaltung.layerOrderInGlyph.etilde</key>
       <integer>0</integer>
       <key>com.schriftgestaltung.layerOrderInGlyph.exclam</key>
       <integer>0</integer>
@@ -586,6 +768,14 @@
       <integer>0</integer>
       <key>com.schriftgestaltung.layerOrderInGlyph.h</key>
       <integer>0</integer>
+      <key>com.schriftgestaltung.layerOrderInGlyph.hookabovecomb</key>
+      <integer>0</integer>
+      <key>com.schriftgestaltung.layerOrderInGlyph.hookabovecomb.case</key>
+      <integer>0</integer>
+      <key>com.schriftgestaltung.layerOrderInGlyph.horncomb</key>
+      <integer>2</integer>
+      <key>com.schriftgestaltung.layerOrderInGlyph.horncomb.case</key>
+      <integer>0</integer>
       <key>com.schriftgestaltung.layerOrderInGlyph.hyphen</key>
       <integer>0</integer>
       <key>com.schriftgestaltung.layerOrderInGlyph.hyphen.spacer</key>
@@ -600,9 +790,15 @@
       <integer>0</integer>
       <key>com.schriftgestaltung.layerOrderInGlyph.idieresis</key>
       <integer>0</integer>
+      <key>com.schriftgestaltung.layerOrderInGlyph.idotbelow</key>
+      <integer>0</integer>
       <key>com.schriftgestaltung.layerOrderInGlyph.idotless</key>
       <integer>0</integer>
       <key>com.schriftgestaltung.layerOrderInGlyph.igrave</key>
+      <integer>0</integer>
+      <key>com.schriftgestaltung.layerOrderInGlyph.ihookabove</key>
+      <integer>0</integer>
+      <key>com.schriftgestaltung.layerOrderInGlyph.itilde</key>
       <integer>0</integer>
       <key>com.schriftgestaltung.layerOrderInGlyph.j</key>
       <integer>0</integer>
@@ -670,11 +866,37 @@
       <integer>0</integer>
       <key>com.schriftgestaltung.layerOrderInGlyph.ocircumflex</key>
       <integer>0</integer>
+      <key>com.schriftgestaltung.layerOrderInGlyph.ocircumflexacute</key>
+      <integer>0</integer>
+      <key>com.schriftgestaltung.layerOrderInGlyph.ocircumflexdotbelow</key>
+      <integer>0</integer>
+      <key>com.schriftgestaltung.layerOrderInGlyph.ocircumflexgrave</key>
+      <integer>0</integer>
+      <key>com.schriftgestaltung.layerOrderInGlyph.ocircumflexhookabove</key>
+      <integer>0</integer>
+      <key>com.schriftgestaltung.layerOrderInGlyph.ocircumflextilde</key>
+      <integer>0</integer>
       <key>com.schriftgestaltung.layerOrderInGlyph.odieresis</key>
+      <integer>0</integer>
+      <key>com.schriftgestaltung.layerOrderInGlyph.odotbelow</key>
       <integer>0</integer>
       <key>com.schriftgestaltung.layerOrderInGlyph.oe</key>
       <integer>0</integer>
       <key>com.schriftgestaltung.layerOrderInGlyph.ograve</key>
+      <integer>0</integer>
+      <key>com.schriftgestaltung.layerOrderInGlyph.ohookabove</key>
+      <integer>0</integer>
+      <key>com.schriftgestaltung.layerOrderInGlyph.ohorn</key>
+      <integer>0</integer>
+      <key>com.schriftgestaltung.layerOrderInGlyph.ohornacute</key>
+      <integer>0</integer>
+      <key>com.schriftgestaltung.layerOrderInGlyph.ohorndotbelow</key>
+      <integer>0</integer>
+      <key>com.schriftgestaltung.layerOrderInGlyph.ohorngrave</key>
+      <integer>0</integer>
+      <key>com.schriftgestaltung.layerOrderInGlyph.ohornhookabove</key>
+      <integer>0</integer>
+      <key>com.schriftgestaltung.layerOrderInGlyph.ohorntilde</key>
       <integer>0</integer>
       <key>com.schriftgestaltung.layerOrderInGlyph.one</key>
       <integer>0</integer>
@@ -774,9 +996,27 @@
       <integer>0</integer>
       <key>com.schriftgestaltung.layerOrderInGlyph.udieresis</key>
       <integer>0</integer>
+      <key>com.schriftgestaltung.layerOrderInGlyph.udotbelow</key>
+      <integer>0</integer>
       <key>com.schriftgestaltung.layerOrderInGlyph.ugrave</key>
       <integer>0</integer>
+      <key>com.schriftgestaltung.layerOrderInGlyph.uhookabove</key>
+      <integer>0</integer>
+      <key>com.schriftgestaltung.layerOrderInGlyph.uhorn</key>
+      <integer>0</integer>
+      <key>com.schriftgestaltung.layerOrderInGlyph.uhornacute</key>
+      <integer>0</integer>
+      <key>com.schriftgestaltung.layerOrderInGlyph.uhorndotbelow</key>
+      <integer>0</integer>
+      <key>com.schriftgestaltung.layerOrderInGlyph.uhorngrave</key>
+      <integer>0</integer>
+      <key>com.schriftgestaltung.layerOrderInGlyph.uhornhookabove</key>
+      <integer>0</integer>
+      <key>com.schriftgestaltung.layerOrderInGlyph.uhorntilde</key>
+      <integer>0</integer>
       <key>com.schriftgestaltung.layerOrderInGlyph.underscore</key>
+      <integer>0</integer>
+      <key>com.schriftgestaltung.layerOrderInGlyph.utilde</key>
       <integer>0</integer>
       <key>com.schriftgestaltung.layerOrderInGlyph.v</key>
       <integer>0</integer>
@@ -789,6 +1029,14 @@
       <key>com.schriftgestaltung.layerOrderInGlyph.yacute</key>
       <integer>0</integer>
       <key>com.schriftgestaltung.layerOrderInGlyph.ydieresis</key>
+      <integer>0</integer>
+      <key>com.schriftgestaltung.layerOrderInGlyph.ydotbelow</key>
+      <integer>0</integer>
+      <key>com.schriftgestaltung.layerOrderInGlyph.ygrave</key>
+      <integer>0</integer>
+      <key>com.schriftgestaltung.layerOrderInGlyph.yhookabove</key>
+      <integer>0</integer>
+      <key>com.schriftgestaltung.layerOrderInGlyph.ytilde</key>
       <integer>0</integer>
       <key>com.schriftgestaltung.layerOrderInGlyph.z</key>
       <integer>0</integer>
