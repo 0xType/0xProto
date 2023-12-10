@@ -29,6 +29,11 @@ Software engineers often work with fonts in small print on their preferred text 
 
 ![Legibility in small font size](./images/legibility.png)
 
+Additionally, there's a feature called [Texture Healing](https://github.com/githubnext/monaspace/blob/main/docs/Texture%20Healing.md) that enhances the legibility of naturally wide characters like `m`.
+This feature slightly widens characters like `m` to improve legibility when they're next to narrower characters like `i` and `l`, or symbols like periods, colons, and spaces, while still keeping them within their monospace width. GitHub incorporates this feature in '[monaspace](https://github.com/githubnext/monaspace)'.
+
+![Texture Healing](./images/texture-healing.gif)
+
 ### 3. More whitespace
 
 Compared to regular typefaces, monospaced fonts often exhibit uneven distribution of dark and light spaces. 0xProto effectively mitigates this issue by employing unique letter shapes to maintain visual balance.
