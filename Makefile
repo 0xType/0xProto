@@ -40,3 +40,23 @@ clean:
 	if [ -e $(OUTPUT_DIR) ]; then rm -rf $(OUTPUT_DIR); fi
 	if [ -e $(UFO_DIR) ]; then rm -rf $(UFO_DIR); fi
 	if [ -e $(FONT_NAME).designspace ]; then rm $(FONT_NAME).designspace; fi
+
+install-otf-font: $(OUTPUT_DIR)/$(FONT_NAME)-$(MAIN_WEIGHT).otf
+	cp $(OUTPUT_DIR)/$(FONT_NAME)-$(MAIN_WEIGHT).otf $(HOME)/Library/Fonts
+
+install-latest:
+	$(MAKE) build
+	$(MAKE) install-otf-font
+
+close-vscode:
+	@osascript -e 'if application "Visual Studio Code" is running then' \
+	           -e 'tell application "Visual Studio Code" to quit' \
+	           -e 'end if'
+
+debug:
+	$(MAKE) close-vscode
+	$(MAKE) clean
+	$(MAKE) ufo
+	$(MAKE) compile-otf
+	$(MAKE) install-otf-font
+	code .
