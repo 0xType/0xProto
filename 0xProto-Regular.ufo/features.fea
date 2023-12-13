@@ -2,6 +2,14 @@
 @Uppercase = [ A Aacute Abreve Abreveacute Abrevedotbelow Abrevegrave Abrevehookabove Abrevetilde Acircumflex Acircumflexacute Acircumflexdotbelow Acircumflexgrave Acircumflexhookabove Acircumflextilde Adieresis Adotbelow Agrave Ahookabove Aring Atilde AE B C Ccedilla D Dcroat Eth E Eacute Ecircumflex Ecircumflexacute Ecircumflexdotbelow Ecircumflexgrave Ecircumflexhookabove Ecircumflextilde Edieresis Edotbelow Egrave Ehookabove Etilde F G Gbreve H I Iacute Icircumflex Idieresis Idotaccent Idotbelow Igrave Ihookabove Itilde J K L M N Ntilde O Oacute Ocircumflex Ocircumflexacute Ocircumflexdotbelow Ocircumflexgrave Ocircumflexhookabove Ocircumflextilde Odieresis Odotbelow Ograve Ohookabove Ohorn Ohornacute Ohorndotbelow Ohorngrave Ohornhookabove Ohorntilde Oslash Otilde OE P Q R S Scaron Scedilla T U Uacute Ucircumflex Udieresis Udotbelow Ugrave Uhookabove Uhorn Uhornacute Uhorndotbelow Uhorngrave Uhornhookabove Uhorntilde Utilde V W X Y Yacute Ydieresis Ydotbelow Ygrave Yhookabove Ytilde Z Zcaron
 ];
 
+# automatic
+@AllLetters = [ A Aacute Abreve Abreveacute Abrevedotbelow Abrevegrave Abrevehookabove Abrevetilde Acircumflex Acircumflexacute Acircumflexdotbelow Acircumflexgrave Acircumflexhookabove Acircumflextilde Adieresis Adotbelow Agrave Ahookabove Aring Atilde AE B C Ccedilla D Dcroat Eth E Eacute Ecircumflex Ecircumflexacute Ecircumflexdotbelow Ecircumflexgrave Ecircumflexhookabove Ecircumflextilde Edieresis Edotbelow Egrave Ehookabove Etilde F G Gbreve H I Iacute Icircumflex Idieresis Idotaccent Idotbelow Igrave Ihookabove Itilde J K L M N Ntilde O Oacute Ocircumflex Ocircumflexacute Ocircumflexdotbelow Ocircumflexgrave Ocircumflexhookabove Ocircumflextilde Odieresis Odotbelow Ograve Ohookabove Ohorn Ohornacute Ohorndotbelow Ohorngrave Ohornhookabove Ohorntilde Oslash Otilde OE P Q R S Scaron Scedilla T U Uacute Ucircumflex Udieresis Udotbelow Ugrave Uhookabove Uhorn Uhornacute Uhorndotbelow Uhorngrave Uhornhookabove Uhorntilde Utilde V W X Y Yacute Ydieresis Ydotbelow Ygrave Yhookabove Ytilde Z Zcaron a aacute abreve abreveacute abrevedotbelow abrevegrave abrevehookabove abrevetilde acircumflex acircumflexacute acircumflexdotbelow acircumflexgrave acircumflexhookabove acircumflextilde adieresis adotbelow agrave ahookabove aring atilde ae b c ccedilla d dcroat eth e eacute ecircumflex ecircumflexacute ecircumflexdotbelow ecircumflexgrave ecircumflexhookabove ecircumflextilde edieresis edotbelow egrave ehookabove etilde f g gbreve h i idotless iacute icircumflex idieresis idotbelow igrave ihookabove itilde j jdotless k l m n ntilde o oacute ocircumflex ocircumflexacute ocircumflexdotbelow ocircumflexgrave ocircumflexhookabove ocircumflextilde odieresis odotbelow ograve ohookabove ohorn ohornacute ohorndotbelow ohorngrave ohornhookabove ohorntilde oslash otilde oe p q r s scaron scedilla germandbls t u uacute ucircumflex udieresis udotbelow ugrave uhookabove uhorn uhornacute uhorndotbelow uhorngrave uhornhookabove uhorntilde utilde v w x y yacute ydieresis ydotbelow ygrave yhookabove ytilde z zcaron i.both l.both m.both t.both i.left l.left m.left t.left i.right l.right m.right t.right
+];
+
+# automatic
+@All = [ A Aacute Abreve Abreveacute Abrevedotbelow Abrevegrave Abrevehookabove Abrevetilde Acircumflex Acircumflexacute Acircumflexdotbelow Acircumflexgrave Acircumflexhookabove Acircumflextilde Adieresis Adotbelow Agrave Ahookabove Aring Atilde AE B C Ccedilla D Dcroat Eth E Eacute Ecircumflex Ecircumflexacute Ecircumflexdotbelow Ecircumflexgrave Ecircumflexhookabove Ecircumflextilde Edieresis Edotbelow Egrave Ehookabove Etilde F G Gbreve H I Iacute Icircumflex Idieresis Idotaccent Idotbelow Igrave Ihookabove Itilde J K L M N Ntilde O Oacute Ocircumflex Ocircumflexacute Ocircumflexdotbelow Ocircumflexgrave Ocircumflexhookabove Ocircumflextilde Odieresis Odotbelow Ograve Ohookabove Ohorn Ohornacute Ohorndotbelow Ohorngrave Ohornhookabove Ohorntilde Oslash Otilde OE P Q R S Scaron Scedilla T U Uacute Ucircumflex Udieresis Udotbelow Ugrave Uhookabove Uhorn Uhornacute Uhorndotbelow Uhorngrave Uhornhookabove Uhorntilde Utilde V W X Y Yacute Ydieresis Ydotbelow Ygrave Yhookabove Ytilde Z Zcaron a aacute abreve abreveacute abrevedotbelow abrevegrave abrevehookabove abrevetilde acircumflex acircumflexacute acircumflexdotbelow acircumflexgrave acircumflexhookabove acircumflextilde adieresis adotbelow agrave ahookabove aring atilde ae b c ccedilla d dcroat eth e eacute ecircumflex ecircumflexacute ecircumflexdotbelow ecircumflexgrave ecircumflexhookabove ecircumflextilde edieresis edotbelow egrave ehookabove etilde f g gbreve h i idotless iacute icircumflex idieresis idotbelow igrave ihookabove itilde j jdotless k l m n ntilde o oacute ocircumflex ocircumflexacute ocircumflexdotbelow ocircumflexgrave ocircumflexhookabove ocircumflextilde odieresis odotbelow ograve ohookabove ohorn ohornacute ohorndotbelow ohorngrave ohornhookabove ohorntilde oslash otilde oe p q r s scaron scedilla germandbls t u uacute ucircumflex udieresis udotbelow ugrave uhookabove uhorn uhornacute uhorndotbelow uhorngrave uhornhookabove uhorntilde utilde v w x y yacute ydieresis ydotbelow ygrave yhookabove ytilde z zcaron i.both l.both m.both t.both i.left l.left m.left t.left i.right l.right m.right t.right zero one two three four five six seven eight nine space hyphen_greater bracketleft_bar period_equal colon_colon colon_colon_colon colon_equal colon_greater_colon colon_less_colon exclam_equal exclam_equal_equal question_question asterisk_asterisk asterisk_asterisk_asterisk asterisk_greater numbersign_equal slash_slash slash_slash_slash period comma colon semicolon exclam exclamdown question questiondown asterisk numbersign slash backslash period.spacer colon.spacer exclam.spacer question.spacer asterisk.spacer numbersign.spacer slash.spacer hyphen underscore hyphen.spacer parenleft parenright braceleft braceright bracketleft bracketright bracketleft.spacer quotedblleft quotedblright quoteleft quoteright quotedbl quotesingle ampersand_ampersand bar_bracketright bar_bar bar_bar_bar_greater bar_bar_greater bar_greater dollar_greater plus_greater equal_colon_equal equal_exclam_equal equal_equal equal_equal_equal equal_greater equal_greater_equal equal_greater_greater equal_less_equal equal_less_less greater_equal_greater greater_greater greater_greater_greater less_hyphen less_asterisk less_asterisk_greater less_bar less_bar_bar less_bar_bar_bar less_bar_greater less_dollar less_dollar_greater less_plus less_plus_greater less_equal_greater less_equal_less less_greater less_less less_less_less percent_percent at ampersand bar ampersand.spacer bar.spacer dollar dollar.spacer plus minus equal greater less asciitilde asciicircum percent plus.spacer equal.spacer greater.spacer less.spacer percent.spacer boxDoubleDownAndHorizontal boxDoubleDownAndLeft boxDoubleDownAndRight boxDoubleHorizontal boxDoubleUpAndHorizontal boxDoubleUpAndLeft boxDoubleUpAndRight boxDoubleVertical boxDoubleVerticalAndHorizontal boxDoubleVerticalAndLeft boxDoubleVerticalAndRight boxDownDoubleAndHorizontalSingle boxDownDoubleAndLeftSingle boxDownDoubleAndRightSingle boxDownHeavyAndHorizontalLight boxDownHeavyAndLeftLight boxDownHeavyAndLeftUpLight boxDownHeavyAndRightLight boxDownHeavyAndRightUpLight boxDownHeavyAndUpHorizontalLight boxDownLightAndHorizontalHeavy boxDownLightAndLeftHeavy boxDownLightAndLeftUpHeavy boxDownLightAndRightHeavy boxDownLightAndRightUpHeavy boxDownLightAndUpHorizontalHeavy boxDownSingleAndHorizontalDouble boxDownSingleAndLeftDouble boxDownSingleAndRightDouble boxHeavyDoubleDashHorizontal boxHeavyDoubleDashVertical boxHeavyDown boxHeavyDownAndHorizontal boxHeavyDownAndLeft boxHeavyDownAndRight boxHeavyHorizontal boxHeavyLeft boxHeavyLeftAndLightRight boxHeavyQuadrupleDashHorizontal boxHeavyQuadrupleDashVertical boxHeavyRight boxHeavyTripleDashHorizontal boxHeavyTripleDashVertical boxHeavyUp boxHeavyUpAndHorizontal boxHeavyUpAndLeft boxHeavyUpAndLightDown boxHeavyUpAndRight boxHeavyVertical boxHeavyVerticalAndHorizontal boxHeavyVerticalAndLeft boxHeavyVerticalAndRight boxLeftDownHeavyAndRightUpLight boxLeftHeavyAndRightDownLight boxLeftHeavyAndRightUpLight boxLeftHeavyAndRightVerticalLight boxLeftLightAndRightDownHeavy boxLeftLightAndRightUpHeavy boxLeftLightAndRightVerticalHeavy boxLeftUpHeavyAndRightDownLight boxLightArcDownAndLeft boxLightArcDownAndRight boxLightArcUpAndLeft boxLightArcUpAndRight boxLightDiagonalCross boxLightDiagonalUpperLeftToLowerRight boxLightDiagonalUpperRightToLowerLeft boxLightDoubleDashHorizontal boxLightDoubleDashVertical boxLightDown boxLightDownAndHorizontal boxLightDownAndLeft boxLightDownAndRight boxLightHorizontal boxLightLeft boxLightLeftAndHeavyRight boxLightQuadrupleDashHorizontal boxLightQuadrupleDashVertical boxLightRight boxLightTripleDashHorizontal boxLightTripleDashVertical boxLightUp boxLightUpAndHeavyDown boxLightUpAndLeft boxLightUpAndRight boxLightVertical boxLightVerticalAndHorizontal boxLightVerticalAndLeft boxLightVerticalAndRight boxRightDownHeavyAndLeftUpLight boxRightHeavyAndLeftDownLight boxRightHeavyAndLeftUpLight boxRightHeavyAndLeftVerticalLight boxRightLightAndLeftDownHeavy boxRightLightAndLeftUpHeavy boxRightLightAndLeftVerticalHeavy boxRightUpHeavyAndLeftDownLight boxUpDoubleAndHorizontalSingle boxUpDoubleAndLeftSingle boxUpDoubleAndRightSingle boxUpHeavyAndDownHorizontalLight boxUpHeavyAndHorizontalLight boxUpHeavyAndLeftDownLight boxUpHeavyAndLeftLight boxUpHeavyAndRightDownLight boxUpHeavyAndRightLight boxUpLightAndDownHorizontalHeavy boxUpLightAndHorizontalHeavy boxUpLightAndLeftDownHeavy boxUpLightAndLeftHeavy boxUpLightAndRightDownHeavy boxUpLightAndRightHeavy boxUpSingleAndHorizontalDouble boxUpSingleAndLeftDouble boxUpSingleAndRightDouble boxVerticalDoubleAndHorizontalSingle boxVerticalDoubleAndLeftSingle boxVerticalDoubleAndRightSingle boxVerticalHeavyAndHorizontalLight boxVerticalHeavyAndLeftLight boxVerticalHeavyAndRightLight boxVerticalLightAndHorizontalHeavy boxVerticalLightAndLeftHeavy boxVerticalLightAndRightHeavy boxVerticalSingleAndHorizontalDouble boxVerticalSingleAndLeftDouble boxVerticalSingleAndRightDouble boxLeftDownHeavyAndRightUpLight.001 dieresiscomb dotaccentcomb gravecomb acutecomb circumflexcomb caroncomb brevecomb ringcomb tildecomb hookabovecomb horncomb dotbelowcomb cedillacomb dieresiscomb.case dotaccentcomb.case gravecomb.case acutecomb.case circumflexcomb.case caroncomb.case brevecomb.case ringcomb.case tildecomb.case hookabovecomb.case horncomb.case dotbelowcomb.case cedillacomb.case grave breveacutecomb brevegravecomb brevehookabovecomb brevetildecomb circumflexacutecomb circumflexgravecomb circumflexhookabovecomb circumflextildecomb breveacutecomb.case brevegravecomb.case brevehookabovecomb.case brevetildecomb.case circumflexacutecomb.case circumflexgravecomb.case circumflexhookabovecomb.case circumflextildecomb.case
+];
+
 # Prefix: Languagesystems
 # automatic
 languagesystem DFLT dflt;
@@ -10,10 +18,122 @@ languagesystem DFLT dflt;
 feature aalt {
 # automatic
 feature calt;
+feature case;
 
 } aalt;
 
 feature calt {
+### texture healing
+
+@defaults_expand = [m];
+@defaults_shrink = [i l t];
+
+@expanded_to_both = [m.both];
+@expanded_to_left = [m.left];
+@expanded_to_right = [m.right];
+
+@shrinked_to_both = [i.both l.both t.both];
+@shrinked_to_left = [i.left l.left t.left];
+@shrinked_to_right = [i.right l.right t.right];
+
+@can_give_space_without_substitute = [period comma colon semicolon parenleft parenright braceleft braceright bracketleft bracketright quotesingle quotedbl grave space];
+
+lookup expandRight_shrinkBoth_expandLeft {
+  # m i m => m.right i.both m.left
+  sub @defaults_expand' @defaults_shrink @defaults_expand by @expanded_to_right;
+  sub @expanded_to_right @defaults_shrink' @defaults_expand by @shrinked_to_both;
+  sub @expanded_to_right @shrinked_to_both @defaults_expand' by @expanded_to_left;
+} expandRight_shrinkBoth_expandLeft;
+
+lookup shrinkLeft_expandBoth_shrinkRight {
+  # i m i => i.left m.both i.right
+  sub @defaults_shrink' @defaults_expand @defaults_shrink by @shrinked_to_left;
+  sub @shrinked_to_left @defaults_expand' @defaults_shrink by @expanded_to_both;
+  sub @shrinked_to_left @expanded_to_both @defaults_shrink' by @shrinked_to_right;
+} shrinkLeft_expandBoth_shrinkRight;
+
+lookup canGiveSpaceWithoutSubstitute_expandBoth_shrinkRight {
+  # period m i => period m.both i.right
+  sub @can_give_space_without_substitute @defaults_expand' @defaults_shrink by @expanded_to_both;
+  sub @can_give_space_without_substitute @expanded_to_both @defaults_shrink' by @shrinked_to_right;
+} canGiveSpaceWithoutSubstitute_expandBoth_shrinkRight;
+
+lookup shrinkLeft_expandBoth_canGiveSpaceWithoutSubstitute {
+  # i m period => i.left m.both period
+  sub @defaults_shrink' @defaults_expand @can_give_space_without_substitute by @shrinked_to_left;
+  sub @shrinked_to_left @defaults_expand' @can_give_space_without_substitute by @expanded_to_both;
+} shrinkLeft_expandBoth_canGiveSpaceWithoutSubstitute;
+
+lookup canGiveSpaceWithoutSubstitute_expandBoth_canGiveSpaceWithoutSubstitute {
+  # period m period => period m.both period
+  sub @can_give_space_without_substitute @defaults_expand' @can_give_space_without_substitute by @expanded_to_both;
+} canGiveSpaceWithoutSubstitute_expandBoth_canGiveSpaceWithoutSubstitute;
+
+lookup shrinkLeft_expandLeft {
+  # i m => i.left m.left
+  ignore sub @defaults_shrink @defaults_expand @defaults_shrink';
+  ignore sub @defaults_shrink @defaults_expand' @defaults_shrink;
+  ignore sub @defaults_shrink' @defaults_expand @defaults_shrink;
+  ignore sub @defaults_shrink @defaults_expand @can_give_space_without_substitute';
+  ignore sub @defaults_shrink @defaults_expand' @can_give_space_without_substitute;
+  ignore sub @defaults_shrink' @defaults_expand @can_give_space_without_substitute;
+  sub @defaults_shrink' @defaults_expand by @shrinked_to_left;
+  sub @shrinked_to_left @defaults_expand' by @expanded_to_left;
+} shrinkLeft_expandLeft;
+
+lookup expandRight_shrinkRight {
+  # m i => m.right i.right
+  ignore sub @defaults_shrink @defaults_expand' @defaults_shrink;
+  ignore sub @defaults_shrink' @defaults_expand @defaults_shrink;
+  ignore sub @defaults_expand @defaults_shrink' @defaults_expand;
+  ignore sub @defaults_expand' @defaults_shrink @defaults_expand;
+  ignore sub @can_give_space_without_substitute @defaults_expand @defaults_shrink';
+  ignore sub @can_give_space_without_substitute @defaults_expand' @defaults_shrink;
+  sub @defaults_expand' @defaults_shrink by @expanded_to_right;
+  sub @expanded_to_right @defaults_shrink' by @shrinked_to_right;
+} expandRight_shrinkRight;
+
+lookup canGiveSpaceWithoutSubstitute_expandLeft {
+  # period m => period m.left
+  ignore sub @can_give_space_without_substitute @defaults_expand' @defaults_shrink;
+  sub @can_give_space_without_substitute @defaults_expand' by @expanded_to_left;
+} canGiveSpaceWithoutSubstitute_expandLeft;
+
+lookup expandRight_canGiveSpaceWithoutSubstitute {
+  # m period => m.right period
+  ignore sub @can_give_space_without_substitute @defaults_expand' @can_give_space_without_substitute;
+  ignore sub @defaults_shrink @defaults_expand' @can_give_space_without_substitute;
+  sub @defaults_expand' @can_give_space_without_substitute by @expanded_to_right;
+} expandRight_canGiveSpaceWithoutSubstitute;
+
+lookup allLetters_expandRight_EOL {
+  # a m EOL => a m.right EOL
+  ignore sub @defaults_expand' @All;
+  sub @defaults_expand' by @expanded_to_right;
+} allLetters_expandRight_EOL;
+
+lookup shrinkLeft_expandBoth_EOL {
+  # i m EOL => i.left m.both EOL
+  ignore sub @defaults_shrink @defaults_expand' @AllLetters;
+  ignore sub @defaults_shrink @defaults_expand' space @All;
+  ignore sub @shrinked_to_left @expanded_to_left' @All;
+  sub @defaults_shrink' @defaults_expand by @shrinked_to_left;
+  sub @shrinked_to_left @defaults_expand' by @expanded_to_both;
+  sub @shrinked_to_left @expanded_to_left' by @expanded_to_both;
+} shrinkLeft_expandBoth_EOL;
+
+lookup canGiveSpaceWithoutSubstitute_expandBoth_EOL {
+  # period m EOL => period m.both EOL
+  ignore sub @can_give_space_without_substitute @defaults_expand' @AllLetters;
+  ignore sub @can_give_space_without_substitute @defaults_expand' space @All;
+  ignore sub @can_give_space_without_substitute @expanded_to_left' @All;
+  sub @can_give_space_without_substitute @defaults_expand' by @expanded_to_both;
+  sub @can_give_space_without_substitute @expanded_to_left' by @expanded_to_both;
+} canGiveSpaceWithoutSubstitute_expandBoth_EOL;
+
+
+### programming ligatures
+
 # ***
 lookup asterisk_asterisk_asterisk {
   ignore sub asterisk asterisk' asterisk asterisk;
@@ -479,3 +599,89 @@ lookup ccmp_Other_3 {
 } ccmp_Other_3;
 
 } ccmp;
+
+feature case {
+# automatic
+sub dieresiscomb by dieresiscomb.case;
+sub dotaccentcomb by dotaccentcomb.case;
+sub gravecomb by gravecomb.case;
+sub acutecomb by acutecomb.case;
+sub circumflexcomb by circumflexcomb.case;
+sub caroncomb by caroncomb.case;
+sub brevecomb by brevecomb.case;
+sub ringcomb by ringcomb.case;
+sub tildecomb by tildecomb.case;
+sub hookabovecomb by hookabovecomb.case;
+sub horncomb by horncomb.case;
+sub dotbelowcomb by dotbelowcomb.case;
+sub cedillacomb by cedillacomb.case;
+sub breveacutecomb by breveacutecomb.case;
+sub brevegravecomb by brevegravecomb.case;
+sub brevehookabovecomb by brevehookabovecomb.case;
+sub brevetildecomb by brevetildecomb.case;
+sub circumflexacutecomb by circumflexacutecomb.case;
+sub circumflexgravecomb by circumflexgravecomb.case;
+sub circumflexhookabovecomb by circumflexhookabovecomb.case;
+sub circumflextildecomb by circumflextildecomb.case;
+
+} case;
+
+feature dlig {
+# automatic
+lookupflag IgnoreMarks;
+sub bar bar bar greater by bar_bar_bar_greater;
+sub less bar bar bar by less_bar_bar_bar;
+sub asterisk asterisk asterisk by asterisk_asterisk_asterisk;
+sub bar bar greater by bar_bar_greater;
+sub colon colon colon by colon_colon_colon;
+sub colon greater colon by colon_greater_colon;
+sub colon less colon by colon_less_colon;
+sub equal colon equal by equal_colon_equal;
+sub equal equal equal by equal_equal_equal;
+sub equal exclam equal by equal_exclam_equal;
+sub equal greater equal by equal_greater_equal;
+sub equal greater greater by equal_greater_greater;
+sub equal less equal by equal_less_equal;
+sub equal less less by equal_less_less;
+sub exclam equal equal by exclam_equal_equal;
+sub greater equal greater by greater_equal_greater;
+sub greater greater greater by greater_greater_greater;
+sub less asterisk greater by less_asterisk_greater;
+sub less bar bar by less_bar_bar;
+sub less bar greater by less_bar_greater;
+sub less dollar greater by less_dollar_greater;
+sub less equal greater by less_equal_greater;
+sub less equal less by less_equal_less;
+sub less less less by less_less_less;
+sub less plus greater by less_plus_greater;
+sub slash slash slash by slash_slash_slash;
+sub ampersand ampersand by ampersand_ampersand;
+sub asterisk asterisk by asterisk_asterisk;
+sub asterisk greater by asterisk_greater;
+sub bar bar by bar_bar;
+sub bar bracketright by bar_bracketright;
+sub bar greater by bar_greater;
+sub bracketleft bar by bracketleft_bar;
+sub colon colon by colon_colon;
+sub colon equal by colon_equal;
+sub dollar greater by dollar_greater;
+sub equal equal by equal_equal;
+sub equal greater by equal_greater;
+sub exclam equal by exclam_equal;
+sub greater greater by greater_greater;
+sub hyphen greater by hyphen_greater;
+sub less asterisk by less_asterisk;
+sub less bar by less_bar;
+sub less dollar by less_dollar;
+sub less greater by less_greater;
+sub less hyphen by less_hyphen;
+sub less less by less_less;
+sub less plus by less_plus;
+sub numbersign equal by numbersign_equal;
+sub percent percent by percent_percent;
+sub period equal by period_equal;
+sub plus greater by plus_greater;
+sub question question by question_question;
+sub slash slash by slash_slash;
+
+} dlig;

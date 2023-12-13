@@ -784,6 +784,12 @@
       <integer>0</integer>
       <key>com.schriftgestaltung.layerOrderInGlyph.i</key>
       <integer>0</integer>
+      <key>com.schriftgestaltung.layerOrderInGlyph.i.both</key>
+      <integer>0</integer>
+      <key>com.schriftgestaltung.layerOrderInGlyph.i.left</key>
+      <integer>0</integer>
+      <key>com.schriftgestaltung.layerOrderInGlyph.i.right</key>
+      <integer>0</integer>
       <key>com.schriftgestaltung.layerOrderInGlyph.iacute</key>
       <integer>0</integer>
       <key>com.schriftgestaltung.layerOrderInGlyph.icircumflex</key>
@@ -807,6 +813,12 @@
       <key>com.schriftgestaltung.layerOrderInGlyph.k</key>
       <integer>0</integer>
       <key>com.schriftgestaltung.layerOrderInGlyph.l</key>
+      <integer>0</integer>
+      <key>com.schriftgestaltung.layerOrderInGlyph.l.both</key>
+      <integer>0</integer>
+      <key>com.schriftgestaltung.layerOrderInGlyph.l.left</key>
+      <integer>0</integer>
+      <key>com.schriftgestaltung.layerOrderInGlyph.l.right</key>
       <integer>0</integer>
       <key>com.schriftgestaltung.layerOrderInGlyph.less</key>
       <integer>0</integer>
@@ -845,6 +857,12 @@
       <key>com.schriftgestaltung.layerOrderInGlyph.less_plus_greater</key>
       <integer>0</integer>
       <key>com.schriftgestaltung.layerOrderInGlyph.m</key>
+      <integer>1</integer>
+      <key>com.schriftgestaltung.layerOrderInGlyph.m.both</key>
+      <integer>2</integer>
+      <key>com.schriftgestaltung.layerOrderInGlyph.m.left</key>
+      <integer>2</integer>
+      <key>com.schriftgestaltung.layerOrderInGlyph.m.right</key>
       <integer>0</integer>
       <key>com.schriftgestaltung.layerOrderInGlyph.minus</key>
       <integer>0</integer>
@@ -979,6 +997,12 @@
       <key>com.schriftgestaltung.layerOrderInGlyph.space</key>
       <integer>0</integer>
       <key>com.schriftgestaltung.layerOrderInGlyph.t</key>
+      <integer>0</integer>
+      <key>com.schriftgestaltung.layerOrderInGlyph.t.both</key>
+      <integer>0</integer>
+      <key>com.schriftgestaltung.layerOrderInGlyph.t.left</key>
+      <integer>0</integer>
+      <key>com.schriftgestaltung.layerOrderInGlyph.t.right</key>
       <integer>0</integer>
       <key>com.schriftgestaltung.layerOrderInGlyph.three</key>
       <integer>0</integer>

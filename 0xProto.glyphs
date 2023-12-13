@@ -6,6 +6,16 @@ classes = (
 automatic = 1;
 code = "A Aacute Abreve Abreveacute Abrevedotbelow Abrevegrave Abrevehookabove Abrevetilde Acircumflex Acircumflexacute Acircumflexdotbelow Acircumflexgrave Acircumflexhookabove Acircumflextilde Adieresis Adotbelow Agrave Ahookabove Aring Atilde AE B C Ccedilla D Dcroat Eth E Eacute Ecircumflex Ecircumflexacute Ecircumflexdotbelow Ecircumflexgrave Ecircumflexhookabove Ecircumflextilde Edieresis Edotbelow Egrave Ehookabove Etilde F G Gbreve H I Iacute Icircumflex Idieresis Idotaccent Idotbelow Igrave Ihookabove Itilde J K L M N Ntilde O Oacute Ocircumflex Ocircumflexacute Ocircumflexdotbelow Ocircumflexgrave Ocircumflexhookabove Ocircumflextilde Odieresis Odotbelow Ograve Ohookabove Ohorn Ohornacute Ohorndotbelow Ohorngrave Ohornhookabove Ohorntilde Oslash Otilde OE P Q R S Scaron Scedilla T U Uacute Ucircumflex Udieresis Udotbelow Ugrave Uhookabove Uhorn Uhornacute Uhorndotbelow Uhorngrave Uhornhookabove Uhorntilde Utilde V W X Y Yacute Ydieresis Ydotbelow Ygrave Yhookabove Ytilde Z Zcaron";
 name = Uppercase;
+},
+{
+automatic = 1;
+code = "A Aacute Abreve Abreveacute Abrevedotbelow Abrevegrave Abrevehookabove Abrevetilde Acircumflex Acircumflexacute Acircumflexdotbelow Acircumflexgrave Acircumflexhookabove Acircumflextilde Adieresis Adotbelow Agrave Ahookabove Aring Atilde AE B C Ccedilla D Dcroat Eth E Eacute Ecircumflex Ecircumflexacute Ecircumflexdotbelow Ecircumflexgrave Ecircumflexhookabove Ecircumflextilde Edieresis Edotbelow Egrave Ehookabove Etilde F G Gbreve H I Iacute Icircumflex Idieresis Idotaccent Idotbelow Igrave Ihookabove Itilde J K L M N Ntilde O Oacute Ocircumflex Ocircumflexacute Ocircumflexdotbelow Ocircumflexgrave Ocircumflexhookabove Ocircumflextilde Odieresis Odotbelow Ograve Ohookabove Ohorn Ohornacute Ohorndotbelow Ohorngrave Ohornhookabove Ohorntilde Oslash Otilde OE P Q R S Scaron Scedilla T U Uacute Ucircumflex Udieresis Udotbelow Ugrave Uhookabove Uhorn Uhornacute Uhorndotbelow Uhorngrave Uhornhookabove Uhorntilde Utilde V W X Y Yacute Ydieresis Ydotbelow Ygrave Yhookabove Ytilde Z Zcaron a aacute abreve abreveacute abrevedotbelow abrevegrave abrevehookabove abrevetilde acircumflex acircumflexacute acircumflexdotbelow acircumflexgrave acircumflexhookabove acircumflextilde adieresis adotbelow agrave ahookabove aring atilde ae b c ccedilla d dcroat eth e eacute ecircumflex ecircumflexacute ecircumflexdotbelow ecircumflexgrave ecircumflexhookabove ecircumflextilde edieresis edotbelow egrave ehookabove etilde f g gbreve h i idotless iacute icircumflex idieresis idotbelow igrave ihookabove itilde j jdotless k l m n ntilde o oacute ocircumflex ocircumflexacute ocircumflexdotbelow ocircumflexgrave ocircumflexhookabove ocircumflextilde odieresis odotbelow ograve ohookabove ohorn ohornacute ohorndotbelow ohorngrave ohornhookabove ohorntilde oslash otilde oe p q r s scaron scedilla germandbls t u uacute ucircumflex udieresis udotbelow ugrave uhookabove uhorn uhornacute uhorndotbelow uhorngrave uhornhookabove uhorntilde utilde v w x y yacute ydieresis ydotbelow ygrave yhookabove ytilde z zcaron i.both l.both m.both t.both i.left l.left m.left t.left i.right l.right m.right t.right";
+name = AllLetters;
+},
+{
+automatic = 1;
+code = "A Aacute Abreve Abreveacute Abrevedotbelow Abrevegrave Abrevehookabove Abrevetilde Acircumflex Acircumflexacute Acircumflexdotbelow Acircumflexgrave Acircumflexhookabove Acircumflextilde Adieresis Adotbelow Agrave Ahookabove Aring Atilde AE B C Ccedilla D Dcroat Eth E Eacute Ecircumflex Ecircumflexacute Ecircumflexdotbelow Ecircumflexgrave Ecircumflexhookabove Ecircumflextilde Edieresis Edotbelow Egrave Ehookabove Etilde F G Gbreve H I Iacute Icircumflex Idieresis Idotaccent Idotbelow Igrave Ihookabove Itilde J K L M N Ntilde O Oacute Ocircumflex Ocircumflexacute Ocircumflexdotbelow Ocircumflexgrave Ocircumflexhookabove Ocircumflextilde Odieresis Odotbelow Ograve Ohookabove Ohorn Ohornacute Ohorndotbelow Ohorngrave Ohornhookabove Ohorntilde Oslash Otilde OE P Q R S Scaron Scedilla T U Uacute Ucircumflex Udieresis Udotbelow Ugrave Uhookabove Uhorn Uhornacute Uhorndotbelow Uhorngrave Uhornhookabove Uhorntilde Utilde V W X Y Yacute Ydieresis Ydotbelow Ygrave Yhookabove Ytilde Z Zcaron a aacute abreve abreveacute abrevedotbelow abrevegrave abrevehookabove abrevetilde acircumflex acircumflexacute acircumflexdotbelow acircumflexgrave acircumflexhookabove acircumflextilde adieresis adotbelow agrave ahookabove aring atilde ae b c ccedilla d dcroat eth e eacute ecircumflex ecircumflexacute ecircumflexdotbelow ecircumflexgrave ecircumflexhookabove ecircumflextilde edieresis edotbelow egrave ehookabove etilde f g gbreve h i idotless iacute icircumflex idieresis idotbelow igrave ihookabove itilde j jdotless k l m n ntilde o oacute ocircumflex ocircumflexacute ocircumflexdotbelow ocircumflexgrave ocircumflexhookabove ocircumflextilde odieresis odotbelow ograve ohookabove ohorn ohornacute ohorndotbelow ohorngrave ohornhookabove ohorntilde oslash otilde oe p q r s scaron scedilla germandbls t u uacute ucircumflex udieresis udotbelow ugrave uhookabove uhorn uhornacute uhorndotbelow uhorngrave uhornhookabove uhorntilde utilde v w x y yacute ydieresis ydotbelow ygrave yhookabove ytilde z zcaron i.both l.both m.both t.both i.left l.left m.left t.left i.right l.right m.right t.right zero one two three four five six seven eight nine space hyphen_greater bracketleft_bar period_equal colon_colon colon_colon_colon colon_equal colon_greater_colon colon_less_colon exclam_equal exclam_equal_equal question_question asterisk_asterisk asterisk_asterisk_asterisk asterisk_greater numbersign_equal slash_slash slash_slash_slash period comma colon semicolon exclam exclamdown question questiondown asterisk numbersign slash backslash period.spacer colon.spacer exclam.spacer question.spacer asterisk.spacer numbersign.spacer slash.spacer hyphen underscore hyphen.spacer parenleft parenright braceleft braceright bracketleft bracketright bracketleft.spacer quotedblleft quotedblright quoteleft quoteright quotedbl quotesingle ampersand_ampersand bar_bracketright bar_bar bar_bar_bar_greater bar_bar_greater bar_greater dollar_greater plus_greater equal_colon_equal equal_exclam_equal equal_equal equal_equal_equal equal_greater equal_greater_equal equal_greater_greater equal_less_equal equal_less_less greater_equal_greater greater_greater greater_greater_greater less_hyphen less_asterisk less_asterisk_greater less_bar less_bar_bar less_bar_bar_bar less_bar_greater less_dollar less_dollar_greater less_plus less_plus_greater less_equal_greater less_equal_less less_greater less_less less_less_less percent_percent at ampersand bar ampersand.spacer bar.spacer dollar dollar.spacer plus minus equal greater less asciitilde asciicircum percent plus.spacer equal.spacer greater.spacer less.spacer percent.spacer boxDoubleDownAndHorizontal boxDoubleDownAndLeft boxDoubleDownAndRight boxDoubleHorizontal boxDoubleUpAndHorizontal boxDoubleUpAndLeft boxDoubleUpAndRight boxDoubleVertical boxDoubleVerticalAndHorizontal boxDoubleVerticalAndLeft boxDoubleVerticalAndRight boxDownDoubleAndHorizontalSingle boxDownDoubleAndLeftSingle boxDownDoubleAndRightSingle boxDownHeavyAndHorizontalLight boxDownHeavyAndLeftLight boxDownHeavyAndLeftUpLight boxDownHeavyAndRightLight boxDownHeavyAndRightUpLight boxDownHeavyAndUpHorizontalLight boxDownLightAndHorizontalHeavy boxDownLightAndLeftHeavy boxDownLightAndLeftUpHeavy boxDownLightAndRightHeavy boxDownLightAndRightUpHeavy boxDownLightAndUpHorizontalHeavy boxDownSingleAndHorizontalDouble boxDownSingleAndLeftDouble boxDownSingleAndRightDouble boxHeavyDoubleDashHorizontal boxHeavyDoubleDashVertical boxHeavyDown boxHeavyDownAndHorizontal boxHeavyDownAndLeft boxHeavyDownAndRight boxHeavyHorizontal boxHeavyLeft boxHeavyLeftAndLightRight boxHeavyQuadrupleDashHorizontal boxHeavyQuadrupleDashVertical boxHeavyRight boxHeavyTripleDashHorizontal boxHeavyTripleDashVertical boxHeavyUp boxHeavyUpAndHorizontal boxHeavyUpAndLeft boxHeavyUpAndLightDown boxHeavyUpAndRight boxHeavyVertical boxHeavyVerticalAndHorizontal boxHeavyVerticalAndLeft boxHeavyVerticalAndRight boxLeftDownHeavyAndRightUpLight boxLeftHeavyAndRightDownLight boxLeftHeavyAndRightUpLight boxLeftHeavyAndRightVerticalLight boxLeftLightAndRightDownHeavy boxLeftLightAndRightUpHeavy boxLeftLightAndRightVerticalHeavy boxLeftUpHeavyAndRightDownLight boxLightArcDownAndLeft boxLightArcDownAndRight boxLightArcUpAndLeft boxLightArcUpAndRight boxLightDiagonalCross boxLightDiagonalUpperLeftToLowerRight boxLightDiagonalUpperRightToLowerLeft boxLightDoubleDashHorizontal boxLightDoubleDashVertical boxLightDown boxLightDownAndHorizontal boxLightDownAndLeft boxLightDownAndRight boxLightHorizontal boxLightLeft boxLightLeftAndHeavyRight boxLightQuadrupleDashHorizontal boxLightQuadrupleDashVertical boxLightRight boxLightTripleDashHorizontal boxLightTripleDashVertical boxLightUp boxLightUpAndHeavyDown boxLightUpAndLeft boxLightUpAndRight boxLightVertical boxLightVerticalAndHorizontal boxLightVerticalAndLeft boxLightVerticalAndRight boxRightDownHeavyAndLeftUpLight boxRightHeavyAndLeftDownLight boxRightHeavyAndLeftUpLight boxRightHeavyAndLeftVerticalLight boxRightLightAndLeftDownHeavy boxRightLightAndLeftUpHeavy boxRightLightAndLeftVerticalHeavy boxRightUpHeavyAndLeftDownLight boxUpDoubleAndHorizontalSingle boxUpDoubleAndLeftSingle boxUpDoubleAndRightSingle boxUpHeavyAndDownHorizontalLight boxUpHeavyAndHorizontalLight boxUpHeavyAndLeftDownLight boxUpHeavyAndLeftLight boxUpHeavyAndRightDownLight boxUpHeavyAndRightLight boxUpLightAndDownHorizontalHeavy boxUpLightAndHorizontalHeavy boxUpLightAndLeftDownHeavy boxUpLightAndLeftHeavy boxUpLightAndRightDownHeavy boxUpLightAndRightHeavy boxUpSingleAndHorizontalDouble boxUpSingleAndLeftDouble boxUpSingleAndRightDouble boxVerticalDoubleAndHorizontalSingle boxVerticalDoubleAndLeftSingle boxVerticalDoubleAndRightSingle boxVerticalHeavyAndHorizontalLight boxVerticalHeavyAndLeftLight boxVerticalHeavyAndRightLight boxVerticalLightAndHorizontalHeavy boxVerticalLightAndLeftHeavy boxVerticalLightAndRightHeavy boxVerticalSingleAndHorizontalDouble boxVerticalSingleAndLeftDouble boxVerticalSingleAndRightDouble boxLeftDownHeavyAndRightUpLight.001 dieresiscomb dotaccentcomb gravecomb acutecomb circumflexcomb caroncomb brevecomb ringcomb tildecomb hookabovecomb horncomb dotbelowcomb cedillacomb dieresiscomb.case dotaccentcomb.case gravecomb.case acutecomb.case circumflexcomb.case caroncomb.case brevecomb.case ringcomb.case tildecomb.case hookabovecomb.case horncomb.case dotbelowcomb.case cedillacomb.case grave breveacutecomb brevegravecomb brevehookabovecomb brevetildecomb circumflexacutecomb circumflexgravecomb circumflexhookabovecomb circumflextildecomb breveacutecomb.case brevegravecomb.case brevehookabovecomb.case brevetildecomb.case circumflexacutecomb.case circumflexgravecomb.case circumflexhookabovecomb.case circumflextildecomb.case";
+name = All;
 }
 );
 customParameters = (
@@ -47,11 +57,123 @@ features = (
 {
 automatic = 1;
 code = "feature calt;
+feature case;
 ";
 tag = aalt;
 },
 {
-code = "# ***
+code = "### texture healing
+
+@defaults_expand = [m];
+@defaults_shrink = [i l t];
+
+@expanded_to_both = [m.both];
+@expanded_to_left = [m.left];
+@expanded_to_right = [m.right];
+
+@shrinked_to_both = [i.both l.both t.both];
+@shrinked_to_left = [i.left l.left t.left];
+@shrinked_to_right = [i.right l.right t.right];
+
+@can_give_space_without_substitute = [period comma colon semicolon parenleft parenright braceleft braceright bracketleft bracketright quotesingle quotedbl grave space];
+
+lookup expandRight_shrinkBoth_expandLeft {
+  # m i m => m.right i.both m.left
+  sub @defaults_expand' @defaults_shrink @defaults_expand by @expanded_to_right;
+  sub @expanded_to_right @defaults_shrink' @defaults_expand by @shrinked_to_both;
+  sub @expanded_to_right @shrinked_to_both @defaults_expand' by @expanded_to_left;
+} expandRight_shrinkBoth_expandLeft;
+
+lookup shrinkLeft_expandBoth_shrinkRight {
+  # i m i => i.left m.both i.right
+  sub @defaults_shrink' @defaults_expand @defaults_shrink by @shrinked_to_left;
+  sub @shrinked_to_left @defaults_expand' @defaults_shrink by @expanded_to_both;
+  sub @shrinked_to_left @expanded_to_both @defaults_shrink' by @shrinked_to_right;
+} shrinkLeft_expandBoth_shrinkRight;
+
+lookup canGiveSpaceWithoutSubstitute_expandBoth_shrinkRight {
+  # period m i => period m.both i.right
+  sub @can_give_space_without_substitute @defaults_expand' @defaults_shrink by @expanded_to_both;
+  sub @can_give_space_without_substitute @expanded_to_both @defaults_shrink' by @shrinked_to_right;
+} canGiveSpaceWithoutSubstitute_expandBoth_shrinkRight;
+
+lookup shrinkLeft_expandBoth_canGiveSpaceWithoutSubstitute {
+  # i m period => i.left m.both period
+  sub @defaults_shrink' @defaults_expand @can_give_space_without_substitute by @shrinked_to_left;
+  sub @shrinked_to_left @defaults_expand' @can_give_space_without_substitute by @expanded_to_both;
+} shrinkLeft_expandBoth_canGiveSpaceWithoutSubstitute;
+
+lookup canGiveSpaceWithoutSubstitute_expandBoth_canGiveSpaceWithoutSubstitute {
+  # period m period => period m.both period
+  sub @can_give_space_without_substitute @defaults_expand' @can_give_space_without_substitute by @expanded_to_both;
+} canGiveSpaceWithoutSubstitute_expandBoth_canGiveSpaceWithoutSubstitute;
+
+lookup shrinkLeft_expandLeft {
+  # i m => i.left m.left
+  ignore sub @defaults_shrink @defaults_expand @defaults_shrink';
+  ignore sub @defaults_shrink @defaults_expand' @defaults_shrink;
+  ignore sub @defaults_shrink' @defaults_expand @defaults_shrink;
+  ignore sub @defaults_shrink @defaults_expand @can_give_space_without_substitute';
+  ignore sub @defaults_shrink @defaults_expand' @can_give_space_without_substitute;
+  ignore sub @defaults_shrink' @defaults_expand @can_give_space_without_substitute;
+  sub @defaults_shrink' @defaults_expand by @shrinked_to_left;
+  sub @shrinked_to_left @defaults_expand' by @expanded_to_left;
+} shrinkLeft_expandLeft;
+
+lookup expandRight_shrinkRight {
+  # m i => m.right i.right
+  ignore sub @defaults_shrink @defaults_expand' @defaults_shrink;
+  ignore sub @defaults_shrink' @defaults_expand @defaults_shrink;
+  ignore sub @defaults_expand @defaults_shrink' @defaults_expand;
+  ignore sub @defaults_expand' @defaults_shrink @defaults_expand;
+  ignore sub @can_give_space_without_substitute @defaults_expand @defaults_shrink';
+  ignore sub @can_give_space_without_substitute @defaults_expand' @defaults_shrink;
+  sub @defaults_expand' @defaults_shrink by @expanded_to_right;
+  sub @expanded_to_right @defaults_shrink' by @shrinked_to_right;
+} expandRight_shrinkRight;
+
+lookup canGiveSpaceWithoutSubstitute_expandLeft {
+  # period m => period m.left
+  ignore sub @can_give_space_without_substitute @defaults_expand' @defaults_shrink;
+  sub @can_give_space_without_substitute @defaults_expand' by @expanded_to_left;
+} canGiveSpaceWithoutSubstitute_expandLeft;
+
+lookup expandRight_canGiveSpaceWithoutSubstitute {
+  # m period => m.right period
+  ignore sub @can_give_space_without_substitute @defaults_expand' @can_give_space_without_substitute;
+  ignore sub @defaults_shrink @defaults_expand' @can_give_space_without_substitute;
+  sub @defaults_expand' @can_give_space_without_substitute by @expanded_to_right;
+} expandRight_canGiveSpaceWithoutSubstitute;
+
+lookup allLetters_expandRight_EOL {
+  # a m EOL => a m.right EOL
+  ignore sub @defaults_expand' @All;
+  sub @defaults_expand' by @expanded_to_right;
+} allLetters_expandRight_EOL;
+
+lookup shrinkLeft_expandBoth_EOL {
+  # i m EOL => i.left m.both EOL
+  ignore sub @defaults_shrink @defaults_expand' @AllLetters;
+  ignore sub @defaults_shrink @defaults_expand' space @All;
+  ignore sub @shrinked_to_left @expanded_to_left' @All;
+  sub @defaults_shrink' @defaults_expand by @shrinked_to_left;
+  sub @shrinked_to_left @defaults_expand' by @expanded_to_both;
+  sub @shrinked_to_left @expanded_to_left' by @expanded_to_both;
+} shrinkLeft_expandBoth_EOL;
+
+lookup canGiveSpaceWithoutSubstitute_expandBoth_EOL {
+  # period m EOL => period m.both EOL
+  ignore sub @can_give_space_without_substitute @defaults_expand' @AllLetters;
+  ignore sub @can_give_space_without_substitute @defaults_expand' space @All;
+  ignore sub @can_give_space_without_substitute @expanded_to_left' @All;
+  sub @can_give_space_without_substitute @defaults_expand' by @expanded_to_both;
+  sub @can_give_space_without_substitute @expanded_to_left' by @expanded_to_both;
+} canGiveSpaceWithoutSubstitute_expandBoth_EOL;
+
+
+### programming ligatures
+
+# ***
 lookup asterisk_asterisk_asterisk {
   ignore sub asterisk asterisk' asterisk asterisk;
   ignore sub asterisk' asterisk asterisk asterisk;
@@ -517,6 +639,92 @@ lookup ccmp_Other_3 {
 } ccmp_Other_3;
 ";
 tag = ccmp;
+},
+{
+automatic = 1;
+code = "sub dieresiscomb by dieresiscomb.case;
+sub dotaccentcomb by dotaccentcomb.case;
+sub gravecomb by gravecomb.case;
+sub acutecomb by acutecomb.case;
+sub circumflexcomb by circumflexcomb.case;
+sub caroncomb by caroncomb.case;
+sub brevecomb by brevecomb.case;
+sub ringcomb by ringcomb.case;
+sub tildecomb by tildecomb.case;
+sub hookabovecomb by hookabovecomb.case;
+sub horncomb by horncomb.case;
+sub dotbelowcomb by dotbelowcomb.case;
+sub cedillacomb by cedillacomb.case;
+sub breveacutecomb by breveacutecomb.case;
+sub brevegravecomb by brevegravecomb.case;
+sub brevehookabovecomb by brevehookabovecomb.case;
+sub brevetildecomb by brevetildecomb.case;
+sub circumflexacutecomb by circumflexacutecomb.case;
+sub circumflexgravecomb by circumflexgravecomb.case;
+sub circumflexhookabovecomb by circumflexhookabovecomb.case;
+sub circumflextildecomb by circumflextildecomb.case;
+";
+tag = case;
+},
+{
+automatic = 1;
+code = "lookupflag IgnoreMarks;
+sub bar bar bar greater by bar_bar_bar_greater;
+sub less bar bar bar by less_bar_bar_bar;
+sub asterisk asterisk asterisk by asterisk_asterisk_asterisk;
+sub bar bar greater by bar_bar_greater;
+sub colon colon colon by colon_colon_colon;
+sub colon greater colon by colon_greater_colon;
+sub colon less colon by colon_less_colon;
+sub equal colon equal by equal_colon_equal;
+sub equal equal equal by equal_equal_equal;
+sub equal exclam equal by equal_exclam_equal;
+sub equal greater equal by equal_greater_equal;
+sub equal greater greater by equal_greater_greater;
+sub equal less equal by equal_less_equal;
+sub equal less less by equal_less_less;
+sub exclam equal equal by exclam_equal_equal;
+sub greater equal greater by greater_equal_greater;
+sub greater greater greater by greater_greater_greater;
+sub less asterisk greater by less_asterisk_greater;
+sub less bar bar by less_bar_bar;
+sub less bar greater by less_bar_greater;
+sub less dollar greater by less_dollar_greater;
+sub less equal greater by less_equal_greater;
+sub less equal less by less_equal_less;
+sub less less less by less_less_less;
+sub less plus greater by less_plus_greater;
+sub slash slash slash by slash_slash_slash;
+sub ampersand ampersand by ampersand_ampersand;
+sub asterisk asterisk by asterisk_asterisk;
+sub asterisk greater by asterisk_greater;
+sub bar bar by bar_bar;
+sub bar bracketright by bar_bracketright;
+sub bar greater by bar_greater;
+sub bracketleft bar by bracketleft_bar;
+sub colon colon by colon_colon;
+sub colon equal by colon_equal;
+sub dollar greater by dollar_greater;
+sub equal equal by equal_equal;
+sub equal greater by equal_greater;
+sub exclam equal by exclam_equal;
+sub greater greater by greater_greater;
+sub hyphen greater by hyphen_greater;
+sub less asterisk by less_asterisk;
+sub less bar by less_bar;
+sub less dollar by less_dollar;
+sub less greater by less_greater;
+sub less hyphen by less_hyphen;
+sub less less by less_less;
+sub less plus by less_plus;
+sub numbersign equal by numbersign_equal;
+sub percent percent by percent_percent;
+sub period equal by period_equal;
+sub plus greater by plus_greater;
+sub question question by question_question;
+sub slash slash by slash_slash;
+";
+tag = dlig;
 }
 );
 fontMaster = (
@@ -549,7 +757,6 @@ name = Regular;
 userData = {
 GSCornerRadius = 218;
 };
-visible = 1;
 }
 );
 glyphs = (
@@ -6581,7 +6788,22 @@ shapes = (
 ref = idotless;
 },
 {
-pos = (-5,0);
+pos = (-15,0);
+ref = dotaccentcomb;
+}
+);
+width = 620;
+},
+{
+associatedMasterId = m01;
+layerId = "9F82D5BB-E4D4-4B8F-B467-8293525EE44A";
+name = "Nov 21, 23 at 19:56";
+shapes = (
+{
+ref = idotless;
+},
+{
+pos = (-15,0);
 ref = dotaccentcomb;
 }
 );
@@ -6597,93 +6819,45 @@ layers = (
 anchors = (
 {
 name = bottom;
-pos = (305,0);
+pos = (295,0);
 },
 {
 name = ogonek;
-pos = (543,0);
+pos = (533,0);
 },
 {
 name = top;
-pos = (305,550);
+pos = (295,550);
 }
 );
 layerId = m01;
+name = Regular;
 shapes = (
 {
 closed = 1;
 nodes = (
-(149,421,l),
-(382,421,l),
-(382,509,l),
-(149,509,l)
+(139,421,l),
+(372,421,l),
+(372,509,l),
+(139,509,l)
 );
 },
 {
 closed = 1;
 nodes = (
-(284,509,l),
-(284,0,l),
-(382,0,l),
-(382,509,l)
+(274,509,l),
+(274,0,l),
+(372,0,l),
+(372,509,l)
 );
 },
 {
 closed = 1;
 nodes = (
-(95,0,l),
-(543,0,l),
-(543,88,l),
-(95,88,l)
-);
-}
-);
-width = 620;
-},
-{
-anchors = (
-{
-name = bottom;
-pos = (305,0);
-},
-{
-name = ogonek;
-pos = (543,0);
-},
-{
-name = top;
-pos = (305,550);
-}
-);
-associatedMasterId = m01;
-layerId = "FA6A0427-FFAC-4E57-9B69-4CC7A8A18F94";
-name = "Nov 13, 23 at 15:58";
-shapes = (
-{
-closed = 1;
-nodes = (
-(149,421,l),
-(382,421,l),
-(382,509,l),
-(149,509,l)
-);
-},
-{
-closed = 1;
-nodes = (
-(284,509,l),
-(284,0,l),
-(382,0,l),
-(382,509,l)
-);
-},
-{
-closed = 1;
-nodes = (
-(95,0,l),
-(543,0,l),
-(543,88,l),
-(95,88,l)
+(85,0,l),
+(533,0,l),
+(533,88,l),
+(85,88,l)
 );
 }
 );
@@ -6702,7 +6876,7 @@ shapes = (
 ref = idotless;
 },
 {
-pos = (-5,0);
+pos = (-15,0);
 ref = acutecomb;
 }
 );
@@ -6721,7 +6895,7 @@ shapes = (
 ref = idotless;
 },
 {
-pos = (-5,0);
+pos = (-15,0);
 ref = circumflexcomb;
 }
 );
@@ -6740,7 +6914,7 @@ shapes = (
 ref = idotless;
 },
 {
-pos = (-5,0);
+pos = (-15,0);
 ref = dieresiscomb;
 }
 );
@@ -6759,7 +6933,7 @@ shapes = (
 ref = i;
 },
 {
-pos = (-5,0);
+pos = (-15,0);
 ref = dotbelowcomb;
 }
 );
@@ -6778,7 +6952,7 @@ shapes = (
 ref = idotless;
 },
 {
-pos = (-5,0);
+pos = (-15,0);
 ref = gravecomb;
 }
 );
@@ -6797,7 +6971,7 @@ shapes = (
 ref = idotless;
 },
 {
-pos = (-5,0);
+pos = (-15,0);
 ref = hookabovecomb;
 }
 );
@@ -6816,7 +6990,7 @@ shapes = (
 ref = idotless;
 },
 {
-pos = (-5,0);
+pos = (-15,0);
 ref = tildecomb;
 }
 );
@@ -6949,6 +7123,7 @@ pos = (300,750);
 }
 );
 layerId = m01;
+name = Regular;
 shapes = (
 {
 closed = 1;
@@ -6978,6 +7153,138 @@ nodes = (
 }
 );
 width = 620;
+},
+{
+anchors = (
+{
+name = bottom;
+pos = (300,0);
+},
+{
+name = top;
+pos = (300,750);
+}
+);
+associatedMasterId = m01;
+layerId = "961E1B1E-C1D6-44C2-949E-4B390BA0C986";
+name = "Nov 29, 23 at 10:52";
+shapes = (
+{
+closed = 1;
+nodes = (
+(212,177,ls),
+(212,87,o),
+(232,0,o),
+(342,0,cs),
+(405,0,l),
+(405,90,l),
+(391,90,ls),
+(318,90,o),
+(310,136,o),
+(310,177,cs),
+(310,750,l),
+(212,700,l)
+);
+},
+{
+closed = 1;
+nodes = (
+(93,693,l),
+(310,655,l),
+(310,750,l),
+(93,750,l)
+);
+}
+);
+width = 620;
+},
+{
+anchors = (
+{
+name = bottom;
+pos = (300,0);
+},
+{
+name = top;
+pos = (300,750);
+}
+);
+associatedMasterId = m01;
+layerId = "6C494861-9C6C-4D88-AD0C-F0A81631296B";
+name = "Nov 28, 23 at 4:57 PM";
+shapes = (
+{
+closed = 1;
+nodes = (
+(212,177,ls),
+(212,87,o),
+(232,0,o),
+(342,0,cs),
+(509,0,l),
+(509,90,l),
+(391,90,ls),
+(318,90,o),
+(310,136,o),
+(310,177,cs),
+(310,750,l),
+(212,700,l)
+);
+},
+{
+closed = 1;
+nodes = (
+(100,693,l),
+(310,655,l),
+(310,750,l),
+(100,750,l)
+);
+}
+);
+width = 620;
+},
+{
+anchors = (
+{
+name = bottom;
+pos = (300,0);
+},
+{
+name = top;
+pos = (300,750);
+}
+);
+associatedMasterId = m01;
+layerId = "0368107A-1456-44A1-B26F-69A05A4CE9B2";
+name = "Nov 28, 23 at 4:56 PM";
+shapes = (
+{
+closed = 1;
+nodes = (
+(212,177,ls),
+(212,87,o),
+(232,0,o),
+(342,0,cs),
+(408,0,l),
+(408,90,l),
+(391,90,ls),
+(318,90,o),
+(310,136,o),
+(310,177,cs),
+(310,750,l),
+(212,700,l)
+);
+},
+{
+closed = 1;
+nodes = (
+(100,693,l),
+(310,655,l),
+(310,750,l),
+(100,750,l)
+);
+}
+);
+width = 620;
 }
 );
 unicode = 108;
@@ -6996,7 +7303,9 @@ name = top;
 pos = (310,550);
 }
 );
-layerId = m01;
+associatedMasterId = m01;
+layerId = "A8448305-33B5-4E89-A9D1-EACE54140581";
+name = "Dec 3, 23 at 10:08";
 shapes = (
 {
 closed = 1;
@@ -7050,6 +7359,149 @@ nodes = (
 (423,566,o),
 (362,524,o),
 (327,474,c)
+);
+}
+);
+width = 620;
+},
+{
+anchors = (
+{
+name = bottom;
+pos = (310,0);
+},
+{
+name = top;
+pos = (310,550);
+}
+);
+layerId = m01;
+name = Regular;
+shapes = (
+{
+closed = 1;
+nodes = (
+(34,359,o),
+(37,164,o),
+(47,0,c),
+(140,0,l),
+(133,146,o),
+(127,297,o),
+(134,432,c),
+(160,468,o),
+(191,489,o),
+(216,489,cs),
+(249,489,o),
+(265,465,o),
+(265,422,cs),
+(264,0,l),
+(358,0,l),
+(357,448,ls),
+(357,515,o),
+(320,566,o),
+(253,566,cs),
+(211,566,o),
+(169,540,o),
+(133,502,c),
+(126,554,l),
+(44,554,l)
+);
+},
+{
+closed = 1;
+nodes = (
+(328,392,l),
+(352,435,o),
+(395,489,o),
+(436,489,cs),
+(475,489,o),
+(484,460,o),
+(486,418,cs),
+(492,305,o),
+(489,143,o),
+(482,0,c),
+(575,0,l),
+(584,152,o),
+(585,304,o),
+(577,450,cs),
+(573,522,o),
+(530,566,o),
+(465,566,cs),
+(415,566,o),
+(363,526,o),
+(328,476,c)
+);
+}
+);
+width = 620;
+},
+{
+anchors = (
+{
+name = bottom;
+pos = (310,0);
+},
+{
+name = top;
+pos = (310,550);
+}
+);
+associatedMasterId = m01;
+layerId = "CA120B53-3DCB-4C2D-82B3-C2678D5C035E";
+name = "Dec 3, 23 at 10:16";
+shapes = (
+{
+closed = 1;
+nodes = (
+(31,359,o),
+(34,164,o),
+(44,0,c),
+(138,0,l),
+(131,146,o),
+(124,297,o),
+(131,432,c),
+(157,468,o),
+(191,489,o),
+(216,489,cs),
+(249,489,o),
+(265,465,o),
+(265,422,cs),
+(263,0,l),
+(359,0,l),
+(357,448,ls),
+(357,515,o),
+(320,566,o),
+(253,566,cs),
+(211,566,o),
+(166,540,o),
+(130,502,c),
+(123,554,l),
+(41,554,l)
+);
+},
+{
+closed = 1;
+nodes = (
+(328,392,l),
+(352,435,o),
+(397,489,o),
+(439,489,cs),
+(478,489,o),
+(487,460,o),
+(489,418,cs),
+(495,305,o),
+(491,143,o),
+(484,0,c),
+(578,0,l),
+(587,152,o),
+(588,304,o),
+(580,450,cs),
+(576,522,o),
+(533,566,o),
+(468,566,cs),
+(418,566,o),
+(363,526,o),
+(328,476,c)
 );
 }
 );
@@ -8266,6 +8718,7 @@ pos = (310,550);
 }
 );
 layerId = m01;
+name = Regular;
 shapes = (
 {
 closed = 1;
@@ -9268,6 +9721,1072 @@ width = 620;
 }
 );
 unicode = 382;
+},
+{
+glyphname = i.both;
+layers = (
+{
+anchors = (
+{
+name = bottom;
+pos = (295,0);
+},
+{
+name = ogonek;
+pos = (462,0);
+},
+{
+name = top;
+pos = (295,766);
+}
+);
+layerId = m01;
+shapes = (
+{
+closed = 1;
+nodes = (
+(186,421,l),
+(372,421,l),
+(372,509,l),
+(186,509,l)
+);
+},
+{
+closed = 1;
+nodes = (
+(274,509,l),
+(274,0,l),
+(372,0,l),
+(372,509,l)
+);
+},
+{
+closed = 1;
+nodes = (
+(142,0,l),
+(462,0,l),
+(462,88,l),
+(142,88,l)
+);
+},
+{
+closed = 1;
+nodes = (
+(340,606,o),
+(375,641,o),
+(375,686,cs),
+(375,730,o),
+(340,766,o),
+(295,766,cs),
+(252,766,o),
+(215,730,o),
+(215,686,cs),
+(215,641,o),
+(252,606,o),
+(295,606,cs)
+);
+}
+);
+width = 620;
+}
+);
+},
+{
+glyphname = l.both;
+layers = (
+{
+anchors = (
+{
+name = bottom;
+pos = (300,0);
+},
+{
+name = top;
+pos = (300,750);
+}
+);
+layerId = m01;
+shapes = (
+{
+closed = 1;
+nodes = (
+(212,177,ls),
+(212,87,o),
+(232,0,o),
+(342,0,cs),
+(433,0,l),
+(433,90,l),
+(380,90,ls),
+(307,90,o),
+(310,136,o),
+(310,177,cs),
+(310,750,l),
+(212,700,l)
+);
+},
+{
+closed = 1;
+nodes = (
+(110,691,l),
+(310,655,l),
+(310,750,l),
+(110,750,l)
+);
+}
+);
+width = 620;
+}
+);
+},
+{
+glyphname = m.both;
+layers = (
+{
+associatedMasterId = m01;
+layerId = "7C0115E2-2487-4AEA-93DA-7E2E0335EDB5";
+name = "Nov 21, 23 at 14:02";
+shapes = (
+{
+closed = 1;
+nodes = (
+(-3,359,o),
+(0,164,o),
+(9,0,c),
+(108,0,l),
+(98,144,o),
+(92,297,o),
+(96,432,c),
+(122,468,o),
+(174,489,o),
+(199,489,cs),
+(233,489,o),
+(263,465,o),
+(263,422,cs),
+(263,0,l),
+(359,0,l),
+(357,448,ls),
+(357,518,o),
+(294,566,o),
+(233,566,cs),
+(191,566,o),
+(131,540,o),
+(95,502,c),
+(88,554,l),
+(6,554,l)
+);
+},
+{
+closed = 1;
+nodes = (
+(326,401,l),
+(351,437,o),
+(406,489,o),
+(456,489,cs),
+(498,489,o),
+(521,460,o),
+(522,418,cs),
+(526,303,o),
+(523,141,o),
+(516,0,c),
+(612,0,l),
+(621,152,o),
+(622,304,o),
+(614,450,cs),
+(610,523,o),
+(547,566,o),
+(485,566,cs),
+(434,566,o),
+(361,528,o),
+(326,478,c)
+);
+}
+);
+width = 620;
+},
+{
+associatedMasterId = m01;
+layerId = "FFA18B22-471C-4753-BD34-27F55135F8B9";
+name = "Nov 21, 23 at 14:04";
+shapes = (
+{
+closed = 1;
+nodes = (
+(-24,359,o),
+(-21,164,o),
+(-12,0,c),
+(83,0,l),
+(76,144,o),
+(69,292,o),
+(75,427,c),
+(100,460,o),
+(148,489,o),
+(194,489,cs),
+(240,489,o),
+(262,464,o),
+(262,407,cs),
+(261,0,l),
+(358,0,l),
+(357,448,ls),
+(357,518,o),
+(294,566,o),
+(226,566,cs),
+(166,566,o),
+(114,538,o),
+(74,502,c),
+(67,554,l),
+(-15,554,l)
+);
+},
+{
+closed = 1;
+nodes = (
+(326,389,l),
+(353,435,o),
+(415,489,o),
+(466,489,cs),
+(512,489,o),
+(540,460,o),
+(542,418,cs),
+(548,303,o),
+(543,141,o),
+(536,0,c),
+(633,0,l),
+(641,152,o),
+(642,304,o),
+(635,450,cs),
+(631,523,o),
+(577,566,o),
+(495,566,cs),
+(437,566,o),
+(368,528,o),
+(326,478,c)
+);
+}
+);
+width = 620;
+},
+{
+layerId = m01;
+name = Regular;
+shapes = (
+{
+closed = 1;
+nodes = (
+(-26,359,o),
+(-23,164,o),
+(-14,0,c),
+(81,0,l),
+(74,144,o),
+(67,287,o),
+(73,423,c),
+(100,456,o),
+(150,489,o),
+(193,489,cs),
+(234,489,o),
+(262,464,o),
+(262,413,cs),
+(261,0,l),
+(358,0,l),
+(357,427,l),
+(379,455,o),
+(432,489,o),
+(469,489,cs),
+(518,489,o),
+(542,459,o),
+(544,413,cs),
+(549,303,o),
+(545,141,o),
+(538,0,c),
+(635,0,l),
+(643,152,o),
+(645,304,o),
+(637,450,cs),
+(633,522,o),
+(578,566,o),
+(501,566,cs),
+(450,566,o),
+(385,537,o),
+(345,501,c),
+(324,541,o),
+(274,566,o),
+(224,566,cs),
+(164,566,o),
+(112,539,o),
+(72,501,c),
+(65,554,l),
+(-17,554,l)
+);
+}
+);
+width = 620;
+},
+{
+associatedMasterId = m01;
+layerId = "5C3A2F23-F22A-41C3-B4D7-CB17ADC05E6B";
+name = "Dec 3, 23 at 10:18";
+shapes = (
+{
+closed = 1;
+nodes = (
+(-24,359,o),
+(-21,164,o),
+(-12,0,c),
+(83,0,l),
+(76,144,o),
+(69,287,o),
+(75,423,c),
+(102,456,o),
+(152,489,o),
+(195,489,cs),
+(236,489,o),
+(262,464,o),
+(262,413,cs),
+(261,0,l),
+(358,0,l),
+(357,427,l),
+(380,455,o),
+(430,489,o),
+(466,489,cs),
+(515,489,o),
+(540,459,o),
+(542,413,cs),
+(547,303,o),
+(543,141,o),
+(536,0,c),
+(633,0,l),
+(641,152,o),
+(643,304,o),
+(635,450,cs),
+(631,522,o),
+(576,566,o),
+(499,566,cs),
+(448,566,o),
+(385,537,o),
+(345,501,c),
+(324,541,o),
+(276,566,o),
+(226,566,cs),
+(166,566,o),
+(114,539,o),
+(74,501,c),
+(67,554,l),
+(-15,554,l)
+);
+}
+);
+width = 620;
+}
+);
+},
+{
+glyphname = t.both;
+layers = (
+{
+layerId = m01;
+shapes = (
+{
+closed = 1;
+nodes = (
+(122,462,l),
+(466,462,l),
+(466,550,l),
+(122,550,l)
+);
+},
+{
+closed = 1;
+nodes = (
+(225,679,l),
+(225,177,ls),
+(225,87,o),
+(245,0,o),
+(353,0,cs),
+(463,0,l),
+(463,90,l),
+(404,90,ls),
+(331,90,o),
+(323,136,o),
+(323,177,cs),
+(323,679,l)
+);
+}
+);
+width = 620;
+}
+);
+},
+{
+glyphname = i.left;
+layers = (
+{
+anchors = (
+{
+name = bottom;
+pos = (295,0);
+},
+{
+name = ogonek;
+pos = (463,0);
+},
+{
+name = top;
+pos = (295,766);
+}
+);
+layerId = m01;
+shapes = (
+{
+closed = 1;
+nodes = (
+(139,421,l),
+(372,421,l),
+(372,509,l),
+(139,509,l)
+);
+},
+{
+closed = 1;
+nodes = (
+(274,509,l),
+(274,0,l),
+(372,0,l),
+(372,509,l)
+);
+},
+{
+closed = 1;
+nodes = (
+(85,0,l),
+(462,0,l),
+(462,88,l),
+(85,88,l)
+);
+},
+{
+closed = 1;
+nodes = (
+(340,606,o),
+(375,641,o),
+(375,686,cs),
+(375,730,o),
+(340,766,o),
+(295,766,cs),
+(252,766,o),
+(215,730,o),
+(215,686,cs),
+(215,641,o),
+(252,606,o),
+(295,606,cs)
+);
+}
+);
+width = 620;
+}
+);
+},
+{
+glyphname = l.left;
+layers = (
+{
+anchors = (
+{
+name = bottom;
+pos = (300,0);
+},
+{
+name = top;
+pos = (300,750);
+}
+);
+layerId = m01;
+shapes = (
+{
+closed = 1;
+nodes = (
+(212,177,ls),
+(212,87,o),
+(232,0,o),
+(342,0,cs),
+(433,0,l),
+(433,90,l),
+(391,90,ls),
+(318,90,o),
+(310,136,o),
+(310,177,cs),
+(310,750,l),
+(212,700,l)
+);
+},
+{
+closed = 1;
+nodes = (
+(93,693,l),
+(310,655,l),
+(310,750,l),
+(93,750,l)
+);
+}
+);
+width = 620;
+}
+);
+},
+{
+glyphname = m.left;
+layers = (
+{
+associatedMasterId = m01;
+layerId = "98F31FE7-AB28-49D5-B6FC-097DA63F3CB6";
+name = "Nov 21, 23 at 13:40";
+shapes = (
+{
+closed = 1;
+nodes = (
+(-3,359,o),
+(0,164,o),
+(10,0,c),
+(104,0,l),
+(97,144,o),
+(91,297,o),
+(97,432,c),
+(123,468,o),
+(163,489,o),
+(188,489,cs),
+(222,489,o),
+(247,465,o),
+(247,422,cs),
+(245,0,l),
+(342,0,l),
+(340,448,ls),
+(340,518,o),
+(283,566,o),
+(222,566,cs),
+(180,566,o),
+(132,540,o),
+(96,502,c),
+(89,554,l),
+(7,554,l)
+);
+},
+{
+closed = 1;
+nodes = (
+(309,401,l),
+(334,437,o),
+(381,489,o),
+(431,489,cs),
+(473,489,o),
+(486,460,o),
+(488,418,cs),
+(494,303,o),
+(489,141,o),
+(482,0,c),
+(578,0,l),
+(587,152,o),
+(588,304,o),
+(580,450,cs),
+(576,523,o),
+(522,566,o),
+(460,566,cs),
+(409,566,o),
+(344,528,o),
+(309,478,c)
+);
+}
+);
+width = 620;
+},
+{
+associatedMasterId = m01;
+layerId = "434F5512-5ACC-4129-8C70-7CA27C3E2A9E";
+name = "Nov 21, 23 at 14:17";
+shapes = (
+{
+closed = 1;
+nodes = (
+(-24,359,o),
+(-21,164,o),
+(-11,0,c),
+(83,0,l),
+(76,144,o),
+(70,291,o),
+(76,426,c),
+(102,462,o),
+(141,487,o),
+(166,487,cs),
+(200,487,o),
+(236,463,o),
+(236,420,cs),
+(234,0,l),
+(331,0,l),
+(329,448,ls),
+(329,518,o),
+(261,566,o),
+(200,566,cs),
+(158,566,o),
+(111,543,o),
+(75,505,c),
+(68,554,l),
+(-14,554,l)
+);
+},
+{
+closed = 1;
+nodes = (
+(299,397,l),
+(324,433,o),
+(371,489,o),
+(421,489,cs),
+(463,489,o),
+(486,460,o),
+(488,418,cs),
+(494,303,o),
+(484,141,o),
+(477,0,c),
+(578,0,l),
+(587,152,o),
+(588,304,o),
+(580,450,cs),
+(576,523,o),
+(512,566,o),
+(450,566,cs),
+(399,566,o),
+(334,531,o),
+(299,481,c)
+);
+}
+);
+width = 620;
+},
+{
+layerId = m01;
+name = Regular;
+shapes = (
+{
+closed = 1;
+nodes = (
+(-26,359,o),
+(-23,164,o),
+(-14,0,c),
+(81,0,l),
+(74,144,o),
+(67,288,o),
+(73,427,c),
+(91,453,o),
+(135,488,o),
+(170,488,cs),
+(211,488,o),
+(232,458,o),
+(232,410,cs),
+(231,0,l),
+(327,0,l),
+(326,427,l),
+(344,451,o),
+(381,488,o),
+(419,488,cs),
+(465,488,o),
+(481,459,o),
+(483,410,cs),
+(487,300,o),
+(484,141,o),
+(477,0,c),
+(574,0,l),
+(582,152,o),
+(585,304,o),
+(576,450,cs),
+(572,518,o),
+(521,566,o),
+(453,566,cs),
+(405,566,o),
+(352,536,o),
+(312,500,c),
+(292,539,o),
+(253,566,o),
+(204,566,cs),
+(150,566,o),
+(103,531,o),
+(72,501,c),
+(65,554,l),
+(-17,554,l)
+);
+}
+);
+width = 620;
+}
+);
+},
+{
+glyphname = t.left;
+layers = (
+{
+layerId = m01;
+shapes = (
+{
+closed = 1;
+nodes = (
+(71,462,l),
+(466,462,l),
+(466,550,l),
+(71,550,l)
+);
+},
+{
+closed = 1;
+nodes = (
+(225,679,l),
+(225,177,ls),
+(225,87,o),
+(245,0,o),
+(353,0,cs),
+(463,0,l),
+(463,90,l),
+(404,90,ls),
+(331,90,o),
+(323,136,o),
+(323,177,cs),
+(323,679,l)
+);
+}
+);
+width = 620;
+}
+);
+},
+{
+glyphname = i.right;
+layers = (
+{
+anchors = (
+{
+name = bottom;
+pos = (295,0);
+},
+{
+name = ogonek;
+pos = (533,0);
+},
+{
+name = top;
+pos = (295,766);
+}
+);
+layerId = m01;
+shapes = (
+{
+closed = 1;
+nodes = (
+(186,421,l),
+(372,421,l),
+(372,509,l),
+(186,509,l)
+);
+},
+{
+closed = 1;
+nodes = (
+(274,509,l),
+(274,0,l),
+(372,0,l),
+(372,509,l)
+);
+},
+{
+closed = 1;
+nodes = (
+(142,0,l),
+(533,0,l),
+(533,88,l),
+(142,88,l)
+);
+},
+{
+closed = 1;
+nodes = (
+(340,606,o),
+(375,641,o),
+(375,686,cs),
+(375,730,o),
+(340,766,o),
+(295,766,cs),
+(252,766,o),
+(215,730,o),
+(215,686,cs),
+(215,641,o),
+(252,606,o),
+(295,606,cs)
+);
+}
+);
+width = 620;
+}
+);
+},
+{
+glyphname = l.right;
+layers = (
+{
+anchors = (
+{
+name = bottom;
+pos = (300,0);
+},
+{
+name = top;
+pos = (300,750);
+}
+);
+layerId = m01;
+shapes = (
+{
+closed = 1;
+nodes = (
+(212,177,ls),
+(212,87,o),
+(232,0,o),
+(342,0,cs),
+(509,0,l),
+(509,90,l),
+(391,90,ls),
+(318,90,o),
+(310,136,o),
+(310,177,cs),
+(310,750,l),
+(212,700,l)
+);
+},
+{
+closed = 1;
+nodes = (
+(110,691,l),
+(310,655,l),
+(310,750,l),
+(110,750,l)
+);
+}
+);
+width = 620;
+}
+);
+},
+{
+glyphname = m.right;
+layers = (
+{
+layerId = m01;
+shapes = (
+{
+closed = 1;
+nodes = (
+(34,359,o),
+(37,164,o),
+(46,0,c),
+(141,0,l),
+(134,144,o),
+(127,288,o),
+(133,427,c),
+(151,453,o),
+(195,488,o),
+(230,488,cs),
+(271,488,o),
+(292,458,o),
+(292,410,cs),
+(291,0,l),
+(387,0,l),
+(386,427,l),
+(404,451,o),
+(441,488,o),
+(479,488,cs),
+(525,488,o),
+(541,459,o),
+(543,410,cs),
+(547,300,o),
+(544,141,o),
+(537,0,c),
+(634,0,l),
+(642,152,o),
+(645,304,o),
+(636,450,cs),
+(632,518,o),
+(581,566,o),
+(513,566,cs),
+(465,566,o),
+(412,536,o),
+(372,500,c),
+(352,539,o),
+(313,566,o),
+(264,566,cs),
+(210,566,o),
+(163,531,o),
+(132,501,c),
+(125,554,l),
+(43,554,l)
+);
+}
+);
+width = 620;
+},
+{
+associatedMasterId = m01;
+layerId = "B81155D1-6F2F-47C7-887B-6B441F874A34";
+name = "Nov 21, 23 at 13:40";
+shapes = (
+{
+closed = 1;
+nodes = (
+(31,359,o),
+(34,164,o),
+(44,0,c),
+(138,0,l),
+(131,144,o),
+(125,297,o),
+(131,432,c),
+(157,468,o),
+(197,489,o),
+(222,489,cs),
+(256,489,o),
+(281,465,o),
+(281,422,cs),
+(279,0,l),
+(376,0,l),
+(374,448,ls),
+(374,518,o),
+(317,566,o),
+(256,566,cs),
+(214,566,o),
+(166,540,o),
+(130,502,c),
+(123,554,l),
+(41,554,l)
+);
+},
+{
+closed = 1;
+nodes = (
+(343,401,l),
+(368,437,o),
+(415,489,o),
+(465,489,cs),
+(507,489,o),
+(520,460,o),
+(522,418,cs),
+(528,303,o),
+(523,141,o),
+(516,0,c),
+(612,0,l),
+(621,152,o),
+(622,304,o),
+(614,450,cs),
+(610,523,o),
+(556,566,o),
+(494,566,cs),
+(443,566,o),
+(378,528,o),
+(343,478,c)
+);
+}
+);
+width = 620;
+},
+{
+associatedMasterId = m01;
+layerId = "1F81AFAB-B38D-4DAF-8012-59FB1D4B0527";
+name = "Nov 21, 23 at 14:18";
+shapes = (
+{
+closed = 1;
+nodes = (
+(31,359,o),
+(34,164,o),
+(44,0,c),
+(138,0,l),
+(131,144,o),
+(125,291,o),
+(131,426,c),
+(157,462,o),
+(201,487,o),
+(226,487,cs),
+(260,487,o),
+(291,463,o),
+(291,420,cs),
+(289,0,l),
+(386,0,l),
+(384,448,ls),
+(384,518,o),
+(321,566,o),
+(260,566,cs),
+(223,566,o),
+(166,543,o),
+(130,505,c),
+(123,554,l),
+(41,554,l)
+);
+},
+{
+closed = 1;
+nodes = (
+(354,395,l),
+(379,431,o),
+(431,487,o),
+(481,487,cs),
+(523,487,o),
+(541,458,o),
+(543,416,cs),
+(549,301,o),
+(544,141,o),
+(537,0,c),
+(633,0,l),
+(642,152,o),
+(643,304,o),
+(635,450,cs),
+(631,523,o),
+(572,566,o),
+(510,566,cs),
+(459,566,o),
+(389,531,o),
+(354,481,c)
+);
+}
+);
+width = 620;
+}
+);
+},
+{
+glyphname = t.right;
+layers = (
+{
+layerId = m01;
+shapes = (
+{
+closed = 1;
+nodes = (
+(122,462,l),
+(529,462,l),
+(529,550,l),
+(122,550,l)
+);
+},
+{
+closed = 1;
+nodes = (
+(225,679,l),
+(225,177,ls),
+(225,87,o),
+(245,0,o),
+(353,0,cs),
+(526,0,l),
+(526,90,l),
+(404,90,ls),
+(331,90,o),
+(323,136,o),
+(323,177,cs),
+(323,679,l)
+);
+}
+);
+width = 620;
+}
+);
 },
 {
 glyphname = zero;
@@ -12208,10 +13727,10 @@ shapes = (
 {
 closed = 1;
 nodes = (
-(90,350,l),
-(90,264,l),
-(530,264,l),
-(530,350,l)
+(105,350,l),
+(105,264,l),
+(515,264,l),
+(515,350,l)
 );
 }
 );

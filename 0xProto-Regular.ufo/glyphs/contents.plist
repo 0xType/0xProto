@@ -780,6 +780,12 @@
     <string>hyphen_greater.glif</string>
     <key>i</key>
     <string>i.glif</string>
+    <key>i.both</key>
+    <string>i.both.glif</string>
+    <key>i.left</key>
+    <string>i.left.glif</string>
+    <key>i.right</key>
+    <string>i.right.glif</string>
     <key>iacute</key>
     <string>iacute.glif</string>
     <key>icircumflex</key>
@@ -804,6 +810,12 @@
     <string>k.glif</string>
     <key>l</key>
     <string>l.glif</string>
+    <key>l.both</key>
+    <string>l.both.glif</string>
+    <key>l.left</key>
+    <string>l.left.glif</string>
+    <key>l.right</key>
+    <string>l.right.glif</string>
     <key>less</key>
     <string>less.glif</string>
     <key>less.spacer</key>
@@ -842,6 +854,12 @@
     <string>less_plus_greater.glif</string>
     <key>m</key>
     <string>m.glif</string>
+    <key>m.both</key>
+    <string>m.both.glif</string>
+    <key>m.left</key>
+    <string>m.left.glif</string>
+    <key>m.right</key>
+    <string>m.right.glif</string>
     <key>minus</key>
     <string>minus.glif</string>
     <key>n</key>
@@ -976,6 +994,12 @@
     <string>space.glif</string>
     <key>t</key>
     <string>t.glif</string>
+    <key>t.both</key>
+    <string>t.both.glif</string>
+    <key>t.left</key>
+    <string>t.left.glif</string>
+    <key>t.right</key>
+    <string>t.right.glif</string>
     <key>three</key>
     <string>three.glif</string>
     <key>tildecomb</key>

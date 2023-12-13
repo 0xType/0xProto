@@ -281,6 +281,18 @@
       <string>ytilde</string>
       <string>z</string>
       <string>zcaron</string>
+      <string>i.both</string>
+      <string>l.both</string>
+      <string>m.both</string>
+      <string>t.both</string>
+      <string>i.left</string>
+      <string>l.left</string>
+      <string>m.left</string>
+      <string>t.left</string>
+      <string>i.right</string>
+      <string>l.right</string>
+      <string>m.right</string>
+      <string>t.right</string>
       <string>zero</string>
       <string>one</string>
       <string>two</string>

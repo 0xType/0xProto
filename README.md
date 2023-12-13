@@ -1,4 +1,8 @@
-# 0xProto: an opinionated font for software engineers 💻
+# 0xProto
+
+[0xProto](https://github.com/0xType/0xProto) is a programming font focused on source code **legibility**.
+
+Ensuring code **readability** is your own responsibility ;)
 
 ![0xProto](./images/examples.png)
 
@@ -28,6 +32,11 @@ Maintaining clarity in coding is critical as it minimizes ambiguity and helps pr
 Software engineers often work with fonts in small print on their preferred text editor or terminal software. Thus, we've adjusted the font to ensure that the interior of each character is sufficiently wide to be easily visible, even at smaller font sizes.
 
 ![Legibility in small font size](./images/legibility.png)
+
+Additionally, there's a feature called [Texture Healing](https://github.com/githubnext/monaspace/blob/main/docs/Texture%20Healing.md) that enhances the legibility of naturally wide characters like `m`.
+This feature slightly widens characters like `m` to improve legibility when they're next to narrower characters like `i` and `l`, or symbols like periods, colons, and spaces, while still keeping them within their monospace width. GitHub incorporates this feature in '[monaspace](https://github.com/githubnext/monaspace)'.
+
+![Texture Healing](./images/texture-healing.gif)
 
 ### 3. More whitespace
 
