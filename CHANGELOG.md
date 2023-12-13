@@ -1,5 +1,9 @@
 All notable changes to this project will be documented in this file.
 
+## 1.500
+
+- Introduce Texture Healing https://github.com/0xType/0xProto/pull/49
+
 ## 1.403
 
 - Support Vietnamese characters https://github.com/0xType/0xProto/pull/47
