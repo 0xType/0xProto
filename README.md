@@ -1,4 +1,8 @@
-# 0xProto: an opinionated font for software engineers 💻
+# 0xProto
+
+[0xProto](https://github.com/0xType/0xProto) is a programming font focused on source code **legibility**.
+
+Ensuring code **readability** is your own responsibility ;)
 
 ![0xProto](./images/examples.png)
 
