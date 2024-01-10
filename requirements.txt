@@ -6,7 +6,7 @@ compreffor==0.5.3
 cu2qu==1.6.7.post2
 fontmake==3.5.1
 fontMath==0.9.3
-fonttools==4.39.4
+fonttools==4.43.0
 fs==2.4.16
 glyphsLib==6.2.2
 lxml==4.9.2
