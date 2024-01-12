@@ -3,8 +3,8 @@
   <advance width="620"/>
   <unicode hex="1EBD"/>
   <anchor x="310" y="0" name="bottom"/>
-  <anchor x="558" y="10" name="ogonek"/>
-  <anchor x="310" y="776" name="top"/>
+  <anchor x="447" y="0" name="ogonek"/>
+  <anchor x="310" y="550" name="top"/>
   <outline>
     <component base="e"/>
     <component base="tildecomb"/>

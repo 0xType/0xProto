@@ -2,11 +2,24 @@
 <glyph name="i" format="2">
   <advance width="620"/>
   <unicode hex="0069"/>
-  <anchor x="295" y="0" name="bottom"/>
+  <anchor x="308" y="0" name="bottom"/>
   <anchor x="533" y="0" name="ogonek"/>
-  <anchor x="295" y="766" name="top"/>
+  <anchor x="300" y="550" name="top"/>
   <outline>
+    <contour>
+      <point x="310" y="606" type="curve" smooth="yes"/>
+      <point x="355" y="606"/>
+      <point x="390" y="641"/>
+      <point x="390" y="686" type="curve" smooth="yes"/>
+      <point x="390" y="730"/>
+      <point x="355" y="766"/>
+      <point x="310" y="766" type="curve" smooth="yes"/>
+      <point x="267" y="766"/>
+      <point x="230" y="730"/>
+      <point x="230" y="686" type="curve" smooth="yes"/>
+      <point x="230" y="641"/>
+      <point x="267" y="606"/>
+    </contour>
     <component base="idotless"/>
-    <component base="dotaccentcomb" xOffset="-15"/>
   </outline>
 </glyph>

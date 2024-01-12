@@ -2,7 +2,7 @@
 <glyph name="Gbreve" format="2">
   <advance width="620"/>
   <unicode hex="011E"/>
-  <anchor x="330" y="0" name="bottom"/>
+  <anchor x="342" y="0" name="bottom"/>
   <anchor x="330" y="934" name="top"/>
   <outline>
     <component base="G"/>

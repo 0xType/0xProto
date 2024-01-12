@@ -2,7 +2,7 @@
 <glyph name="adotbelow" format="2">
   <advance width="620"/>
   <unicode hex="1EA1"/>
-  <anchor x="310" y="-200" name="bottom"/>
+  <anchor x="310" y="0" name="bottom"/>
   <anchor x="563" y="-8" name="ogonek"/>
   <anchor x="310" y="550" name="top"/>
   <outline>

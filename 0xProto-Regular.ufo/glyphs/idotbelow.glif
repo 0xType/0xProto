@@ -2,11 +2,11 @@
 <glyph name="idotbelow" format="2">
   <advance width="620"/>
   <unicode hex="1ECB"/>
-  <anchor x="295" y="-200" name="bottom"/>
+  <anchor x="308" y="0" name="bottom"/>
   <anchor x="533" y="0" name="ogonek"/>
-  <anchor x="295" y="766" name="top"/>
+  <anchor x="300" y="550" name="top"/>
   <outline>
     <component base="i"/>
-    <component base="dotbelowcomb" xOffset="-15"/>
+    <component base="dotbelowcomb" xOffset="-2"/>
   </outline>
 </glyph>

@@ -4,9 +4,9 @@
   <unicode hex="1EAA"/>
   <anchor x="310" y="0" name="bottom"/>
   <anchor x="582" y="0" name="ogonek"/>
-  <anchor x="310" y="1079" name="top"/>
+  <anchor x="310" y="934" name="top"/>
   <outline>
     <component base="A"/>
-    <component base="circumflextildecomb.case"/>
+    <component base="circumflexcomb_tildecomb.case"/>
   </outline>
 </glyph>
