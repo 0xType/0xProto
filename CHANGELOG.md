@@ -1,5 +1,9 @@
 All notable changes to this project will be documented in this file.
 
+## 1.601
+
+- Ignore substitute when `question question question` https://github.com/0xType/0xProto/pull/57
+
 ## 1.600
 
 - Support up to 344 languages https://github.com/0xType/0xProto/pull/55
