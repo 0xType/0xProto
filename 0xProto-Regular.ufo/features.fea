@@ -506,6 +506,8 @@ lookup ampersand_ampersand {
 
 # ??
 lookup question_question {
+  ignore sub question' question question;
+  ignore sub question question' question;
   sub question.spacer question' by question_question;
   sub question' question by question.spacer;
 } question_question;

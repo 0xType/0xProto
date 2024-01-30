@@ -10,10 +10,4 @@
     <component base="O"/>
     <component base="ogonekcomb.case" xOffset="-11" yOffset="-3"/>
   </outline>
-  <lib>
-    <dict>
-      <key>public.markColor</key>
-      <string>0.67,0.95,0.38,1</string>
-    </dict>
-  </lib>
 </glyph>
