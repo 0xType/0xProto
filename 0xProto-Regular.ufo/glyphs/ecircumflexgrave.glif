@@ -3,10 +3,10 @@
   <advance width="620"/>
   <unicode hex="1EC1"/>
   <anchor x="310" y="0" name="bottom"/>
-  <anchor x="558" y="10" name="ogonek"/>
-  <anchor x="310" y="868" name="top"/>
+  <anchor x="447" y="0" name="ogonek"/>
+  <anchor x="310" y="786" name="top"/>
   <outline>
     <component base="e"/>
-    <component base="circumflexgravecomb"/>
+    <component base="circumflexcomb_gravecomb"/>
   </outline>
 </glyph>

@@ -2,23 +2,22 @@
 <glyph name="tildecomb" format="2">
   <unicode hex="0303"/>
   <anchor x="310" y="550" name="_top"/>
-  <anchor x="310" y="776" name="top"/>
   <outline>
     <contour>
-      <point x="330" y="727" type="curve" smooth="yes"/>
-      <point x="262" y="783"/>
-      <point x="232" y="814"/>
-      <point x="125" y="689" type="curve"/>
-      <point x="177" y="647" type="line"/>
-      <point x="243" y="721"/>
-      <point x="246" y="715"/>
-      <point x="308" y="666" type="curve" smooth="yes"/>
-      <point x="380" y="610"/>
-      <point x="399" y="606"/>
-      <point x="495" y="721" type="curve"/>
-      <point x="444" y="760" type="line"/>
-      <point x="386" y="694"/>
-      <point x="381" y="685"/>
+      <point x="494" y="717" type="curve"/>
+      <point x="442" y="761" type="line"/>
+      <point x="381" y="692"/>
+      <point x="384" y="691"/>
+      <point x="332" y="730" type="curve" smooth="yes"/>
+      <point x="252" y="790"/>
+      <point x="233" y="802"/>
+      <point x="126" y="689" type="curve"/>
+      <point x="178" y="643" type="line"/>
+      <point x="247" y="711"/>
+      <point x="241" y="714"/>
+      <point x="307" y="666" type="curve" smooth="yes"/>
+      <point x="380" y="613"/>
+      <point x="401" y="607"/>
     </contour>
   </outline>
   <lib>

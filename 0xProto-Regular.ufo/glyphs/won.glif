@@ -1,0 +1,63 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="won" format="2">
+  <advance width="620"/>
+  <unicode hex="20A9"/>
+  <outline>
+    <contour>
+      <point x="53" y="700" type="line"/>
+      <point x="49" y="388"/>
+      <point x="80" y="169"/>
+      <point x="123" y="10" type="curve"/>
+      <point x="199" y="10" type="line"/>
+      <point x="162" y="169"/>
+      <point x="133" y="388"/>
+      <point x="140" y="700" type="curve"/>
+    </contour>
+    <contour>
+      <point x="346" y="473" type="line"/>
+      <point x="274" y="473" type="line"/>
+      <point x="150" y="10" type="line"/>
+      <point x="230" y="10" type="line"/>
+    </contour>
+    <contour>
+      <point x="274" y="473" type="line"/>
+      <point x="390" y="10" type="line"/>
+      <point x="470" y="10" type="line"/>
+      <point x="346" y="473" type="line"/>
+    </contour>
+    <contour>
+      <point x="567" y="700" type="curve"/>
+      <point x="480" y="700" type="line"/>
+      <point x="484" y="388"/>
+      <point x="458" y="169"/>
+      <point x="421" y="10" type="curve"/>
+      <point x="497" y="10" type="line"/>
+      <point x="540" y="169"/>
+      <point x="568" y="388"/>
+    </contour>
+    <contour>
+      <point x="598" y="387" type="line"/>
+      <point x="598" y="442" type="line"/>
+      <point x="22" y="442" type="line"/>
+      <point x="22" y="387" type="line"/>
+    </contour>
+    <contour>
+      <point x="258" y="268" type="line"/>
+      <point x="258" y="323" type="line"/>
+      <point x="22" y="323" type="line"/>
+      <point x="22" y="268" type="line"/>
+    </contour>
+    <contour>
+      <point x="598" y="268" type="line"/>
+      <point x="598" y="323" type="line"/>
+      <point x="362" y="323" type="line"/>
+      <point x="362" y="268" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>public.markColor</key>
+      <string>0.97,1,0,1</string>
+    </dict>
+  </lib>
+</glyph>

@@ -1,9 +1,9 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <glyph name="dieresiscomb.case" format="2">
   <anchor x="310" y="710" name="_top"/>
-  <anchor x="310" y="908" name="top"/>
+  <anchor x="310" y="900" name="top"/>
   <outline>
-    <component base="dieresiscomb" yOffset="148"/>
+    <component base="dieresiscomb" yOffset="160"/>
   </outline>
   <lib>
     <dict>
