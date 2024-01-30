@@ -1,5 +1,9 @@
 All notable changes to this project will be documented in this file.
 
+## 1.600
+
+- Support up to 344 languages https://github.com/0xType/0xProto/pull/55
+
 ## 1.500
 
 - Introduce Texture Healing https://github.com/0xType/0xProto/pull/49
