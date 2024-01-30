@@ -11,10 +11,4 @@
     <component base="dotbelowcomb" xOffset="-10"/>
     <component base="macroncomb" xOffset="-28" yOffset="200"/>
   </outline>
-  <lib>
-    <dict>
-      <key>public.markColor</key>
-      <string>0.67,0.95,0.38,1</string>
-    </dict>
-  </lib>
 </glyph>
