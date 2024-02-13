@@ -16954,7 +16954,7 @@ glyphname = nbspace;
 layers = (
 {
 layerId = m01;
-width = 600;
+width = 620;
 }
 );
 unicode = 160;
