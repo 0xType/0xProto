@@ -1,5 +1,9 @@
 All notable changes to this project will be documented in this file.
 
+## 1.602
+
+- Set the width of `nbspace` to the same as the others https://github.com/0xType/0xProto/pull/60
+
 ## 1.601
 
 - Ignore substitute when `question question question` https://github.com/0xType/0xProto/pull/57

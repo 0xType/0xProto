@@ -15,7 +15,7 @@
     <key>italicAngle</key>
     <integer>0</integer>
     <key>openTypeHeadCreated</key>
-    <string>2024/01/30 11:20:07</string>
+    <string>2024/02/13 06:24:56</string>
     <key>openTypeNameManufacturerURL</key>
     <string>https://0xtype.dev/</string>
     <key>openTypeOS2Panose</key>
@@ -68,7 +68,7 @@
     <key>versionMajor</key>
     <integer>1</integer>
     <key>versionMinor</key>
-    <integer>601</integer>
+    <integer>602</integer>
     <key>xHeight</key>
     <integer>550</integer>
   </dict>
