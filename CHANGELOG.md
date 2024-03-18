@@ -1,5 +1,9 @@
 All notable changes to this project will be documented in this file.
 
+## 1.603
+
+- Add more Unicode spaces https://github.com/0xType/0xProto/pull/63
+
 ## 1.602
 
 - Set the width of `nbspace` to the same as the others https://github.com/0xType/0xProto/pull/60
