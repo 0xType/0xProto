@@ -58,6 +58,8 @@
     <string>B_macronbelow.glif</string>
     <key>C</key>
     <string>C_.glif</string>
+    <key>CR</key>
+    <string>C_R_.glif</string>
     <key>Cacute</key>
     <string>C_acute.glif</string>
     <key>Ccaron</key>
@@ -1074,6 +1076,8 @@
     <string>exclamdown.glif</string>
     <key>f</key>
     <string>f.glif</string>
+    <key>figurespace</key>
+    <string>figurespace.glif</string>
     <key>five</key>
     <string>five.glif</string>
     <key>four</key>
@@ -1444,6 +1448,8 @@
     <string>primemod.glif</string>
     <key>published</key>
     <string>published.glif</string>
+    <key>punctuationspace</key>
+    <string>punctuationspace.glif</string>
     <key>q</key>
     <string>q.glif</string>
     <key>question</key>
@@ -1648,6 +1654,8 @@
     <string>wgrave.glif</string>
     <key>won</key>
     <string>won.glif</string>
+    <key>wordjoiner</key>
+    <string>wordjoiner.glif</string>
     <key>x</key>
     <string>x.glif</string>
     <key>xdieresis</key>
@@ -1688,6 +1696,10 @@
     <string>zdotbelow.glif</string>
     <key>zero</key>
     <string>zero.glif</string>
+    <key>zeroWidthNoBreakSpace</key>
+    <string>zeroW_idthN_oB_reakS_pace.glif</string>
+    <key>zerowidthspace</key>
+    <string>zerowidthspace.glif</string>
     <key>zmacronbelow</key>
     <string>zmacronbelow.glif</string>
   </dict>
