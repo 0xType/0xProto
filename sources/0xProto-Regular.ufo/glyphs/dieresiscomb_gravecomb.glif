@@ -1,0 +1,20 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="dieresiscomb_gravecomb" format="2">
+  <anchor x="310" y="550" name="_top"/>
+  <outline>
+    <contour>
+      <point x="292" y="906" type="line"/>
+      <point x="195" y="906" type="line"/>
+      <point x="195" y="900" type="line"/>
+      <point x="277" y="788" type="line"/>
+      <point x="347" y="788" type="line"/>
+    </contour>
+    <component base="dieresiscomb"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.originalWidth</key>
+      <integer>620</integer>
+    </dict>
+  </lib>
+</glyph>

@@ -1,0 +1,27 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="bar_greater" format="2">
+  <advance width="620"/>
+  <outline>
+    <contour>
+      <point x="-138" y="632" type="line"/>
+      <point x="-224" y="632" type="line"/>
+      <point x="-328" y="-24" type="line"/>
+      <point x="-242" y="-24" type="line"/>
+    </contour>
+    <contour>
+      <point x="-74" y="632" type="line"/>
+      <point x="-90" y="535" type="line"/>
+      <point x="281" y="291" type="line"/>
+      <point x="319" y="255" type="line"/>
+      <point x="335" y="358" type="line"/>
+      <point x="-64" y="632" type="line"/>
+    </contour>
+    <contour>
+      <point x="-178" y="-24" type="line"/>
+      <point x="-168" y="-24" type="line"/>
+      <point x="319" y="255" type="line"/>
+      <point x="320" y="355" type="line"/>
+      <point x="-161" y="90" type="line"/>
+    </contour>
+  </outline>
+</glyph>

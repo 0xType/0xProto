@@ -1,0 +1,19 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="numbersign_equal" format="2">
+  <advance width="620"/>
+  <outline>
+    <contour>
+      <point x="455" y="247" type="line"/>
+      <point x="90" y="247" type="line"/>
+      <point x="76" y="159" type="line"/>
+      <point x="441" y="159" type="line"/>
+    </contour>
+    <contour>
+      <point x="487" y="447" type="line"/>
+      <point x="122" y="447" type="line"/>
+      <point x="108" y="359" type="line"/>
+      <point x="473" y="359" type="line"/>
+    </contour>
+    <component base="numbersign" xOffset="-521"/>
+  </outline>
+</glyph>

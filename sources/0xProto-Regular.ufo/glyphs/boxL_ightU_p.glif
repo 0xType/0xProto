@@ -1,0 +1,13 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="boxLightUp" format="2">
+  <advance width="620"/>
+  <unicode hex="2575"/>
+  <outline>
+    <contour>
+      <point x="344" y="382" type="line"/>
+      <point x="344" y="1130" type="line"/>
+      <point x="276" y="1130" type="line"/>
+      <point x="276" y="382" type="line"/>
+    </contour>
+  </outline>
+</glyph>

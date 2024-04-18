@@ -1,0 +1,31 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="Uhorn" format="2">
+  <advance width="620"/>
+  <unicode hex="01AF"/>
+  <anchor x="277" y="-15" name="bottom"/>
+  <anchor x="277" y="710" name="top"/>
+  <anchor x="469" y="710" name="topright"/>
+  <outline>
+    <contour>
+      <point x="490" y="710" type="line"/>
+      <point x="490" y="277" type="line"/>
+      <point x="490" y="139"/>
+      <point x="426" y="82"/>
+      <point x="352" y="82" type="curve"/>
+      <point x="278" y="82"/>
+      <point x="215" y="139"/>
+      <point x="215" y="277" type="curve"/>
+      <point x="215" y="710" type="line"/>
+      <point x="115" y="710" type="line"/>
+      <point x="115" y="277" type="line" smooth="yes"/>
+      <point x="115" y="55"/>
+      <point x="243" y="-15"/>
+      <point x="352" y="-15" type="curve"/>
+      <point x="461" y="-15"/>
+      <point x="590" y="55"/>
+      <point x="590" y="277" type="curve" smooth="yes"/>
+      <point x="590" y="710" type="line"/>
+    </contour>
+    <component base="horncomb.case" xOffset="226" yOffset="-51"/>
+  </outline>
+</glyph>

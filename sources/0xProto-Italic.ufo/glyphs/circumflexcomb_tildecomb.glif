@@ -1,0 +1,29 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="circumflexcomb_tildecomb" format="2">
+  <anchor x="350" y="550" name="_top"/>
+  <outline>
+    <contour>
+      <point x="536" y="898" type="curve"/>
+      <point x="491" y="937" type="line"/>
+      <point x="435" y="880"/>
+      <point x="438" y="883"/>
+      <point x="391" y="915" type="curve" smooth="yes"/>
+      <point x="331" y="955"/>
+      <point x="320" y="960"/>
+      <point x="232" y="871" type="curve"/>
+      <point x="278" y="832" type="line"/>
+      <point x="331" y="887"/>
+      <point x="333" y="886"/>
+      <point x="383" y="851" type="curve" smooth="yes"/>
+      <point x="440" y="812"/>
+      <point x="457" y="812"/>
+    </contour>
+    <component base="circumflexcomb"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.originalWidth</key>
+      <integer>620</integer>
+    </dict>
+  </lib>
+</glyph>

@@ -1,0 +1,16 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="Hbar" format="2">
+  <advance width="620"/>
+  <unicode hex="0126"/>
+  <anchor x="265" y="0" name="bottom"/>
+  <anchor x="372" y="710" name="top"/>
+  <outline>
+    <contour>
+      <point x="66" y="604" type="line"/>
+      <point x="54" y="530" type="line"/>
+      <point x="646" y="530" type="line"/>
+      <point x="658" y="604" type="line"/>
+    </contour>
+    <component base="H"/>
+  </outline>
+</glyph>
