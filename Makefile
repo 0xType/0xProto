@@ -28,16 +28,16 @@ ufo:
 	glyphs2ufo $(ITALIC_GLYPHS_FILE)
 
 compile-otf-main: $(SOURCE_DIR)/$(FONT_NAME)-$(MAIN_WEIGHT).ufo
-	fontmake -u $(SOURCE_DIR)/$(FONT_NAME)-$(MAIN_WEIGHT).ufo -o otf --output-dir $(OUTPUT_DIR)
+	fontmake -a -u $(SOURCE_DIR)/$(FONT_NAME)-$(MAIN_WEIGHT).ufo -o otf --output-dir $(OUTPUT_DIR)
 
 compile-otf-italic: $(SOURCE_DIR)/$(FONT_NAME)-$(ITALIC).ufo
-	fontmake -u $(SOURCE_DIR)/$(FONT_NAME)-$(ITALIC).ufo -o otf --output-dir $(OUTPUT_DIR)
+	fontmake -a -u $(SOURCE_DIR)/$(FONT_NAME)-$(ITALIC).ufo -o otf --output-dir $(OUTPUT_DIR)
 
 compile-ttf-main: $(SOURCE_DIR)/$(FONT_NAME)-$(MAIN_WEIGHT).ufo
-	fontmake -u $(SOURCE_DIR)/$(FONT_NAME)-$(MAIN_WEIGHT).ufo -o ttf --output-dir $(OUTPUT_DIR)
+	fontmake -a -u $(SOURCE_DIR)/$(FONT_NAME)-$(MAIN_WEIGHT).ufo -o ttf --output-dir $(OUTPUT_DIR)
 
 compile-ttf-italic: $(SOURCE_DIR)/$(FONT_NAME)-$(ITALIC).ufo
-	fontmake -u $(SOURCE_DIR)/$(FONT_NAME)-$(ITALIC).ufo -o ttf --output-dir $(OUTPUT_DIR)
+	fontmake -a -u $(SOURCE_DIR)/$(FONT_NAME)-$(ITALIC).ufo -o ttf --output-dir $(OUTPUT_DIR)
 
 compile-woff2-main: $(OUTPUT_DIR)/$(FONT_NAME)-$(MAIN_WEIGHT).ttf
 	./woff2/woff2_compress $(OUTPUT_DIR)/$(FONT_NAME)-$(MAIN_WEIGHT).ttf
