@@ -7,9 +7,9 @@
       <key>com.schriftgestaltung.layerId</key>
       <string>414D5DB5-9547-4E56-87CA-095FBD95F3F0</string>
       <key>com.schriftgestaltung.layerOrderInGlyph.l.both</key>
-      <integer>3</integer>
+      <integer>2</integer>
       <key>com.schriftgestaltung.layerOrderInGlyph.l.left</key>
-      <integer>4</integer>
+      <integer>3</integer>
     </dict>
   </dict>
 </plist>

@@ -3,9 +3,9 @@
   <advance width="620"/>
   <unicode hex="015B"/>
   <anchor x="253" y="-32" name="bottom"/>
-  <anchor x="344" y="642" name="top"/>
+  <anchor x="363" y="576" name="top"/>
   <outline>
     <component base="s"/>
-    <component base="acutecomb" xOffset="-6" yOffset="92"/>
+    <component base="acutecomb" xOffset="13" yOffset="26"/>
   </outline>
 </glyph>

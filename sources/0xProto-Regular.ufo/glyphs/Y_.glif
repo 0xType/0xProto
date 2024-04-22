@@ -9,7 +9,7 @@
     <contour>
       <point x="39" y="710" type="line"/>
       <point x="39" y="700" type="line"/>
-      <point x="260" y="283" type="line"/>
+      <point x="261" y="283" type="line"/>
       <point x="359" y="283" type="line"/>
       <point x="148" y="710" type="line"/>
     </contour>
@@ -17,7 +17,7 @@
       <point x="581" y="710" type="line"/>
       <point x="472" y="710" type="line"/>
       <point x="261" y="283" type="line"/>
-      <point x="360" y="283" type="line"/>
+      <point x="359" y="283" type="line"/>
       <point x="581" y="700" type="line"/>
     </contour>
     <contour>

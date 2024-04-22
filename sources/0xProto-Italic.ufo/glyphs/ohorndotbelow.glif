@@ -2,13 +2,13 @@
 <glyph name="ohorndotbelow" format="2">
   <advance width="620"/>
   <unicode hex="1EE3"/>
-  <anchor x="251" y="0" name="bottom"/>
-  <anchor x="338" y="-8" name="ogonek"/>
+  <anchor x="248" y="0" name="bottom"/>
+  <anchor x="349" y="1" name="ogonek"/>
   <anchor x="338" y="550" name="top"/>
   <anchor x="454" y="523" name="topright"/>
   <outline>
     <component base="o"/>
     <component base="horncomb" xOffset="211" yOffset="-27"/>
-    <component base="dotbelowcomb" xOffset="1"/>
+    <component base="dotbelowcomb" xOffset="-2"/>
   </outline>
 </glyph>

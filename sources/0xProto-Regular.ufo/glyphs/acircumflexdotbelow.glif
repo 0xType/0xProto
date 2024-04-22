@@ -4,10 +4,10 @@
   <unicode hex="1EAD"/>
   <anchor x="310" y="0" name="bottom"/>
   <anchor x="563" y="-8" name="ogonek"/>
-  <anchor x="310" y="786" name="top"/>
+  <anchor x="313" y="786" name="top"/>
   <outline>
     <component base="a"/>
-    <component base="circumflexcomb"/>
+    <component base="circumflexcomb" xOffset="3"/>
     <component base="dotbelowcomb"/>
   </outline>
 </glyph>

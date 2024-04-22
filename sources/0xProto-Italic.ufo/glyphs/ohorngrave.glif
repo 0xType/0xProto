@@ -2,8 +2,8 @@
 <glyph name="ohorngrave" format="2">
   <advance width="620"/>
   <unicode hex="1EDD"/>
-  <anchor x="251" y="0" name="bottom"/>
-  <anchor x="338" y="-8" name="ogonek"/>
+  <anchor x="248" y="0" name="bottom"/>
+  <anchor x="349" y="1" name="ogonek"/>
   <anchor x="338" y="550" name="top"/>
   <anchor x="454" y="523" name="topright"/>
   <outline>
