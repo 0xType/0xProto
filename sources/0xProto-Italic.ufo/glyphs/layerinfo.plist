@@ -1210,12 +1210,6 @@
       <integer>0</integer>
       <key>com.schriftgestaltung.layerOrderInGlyph.l</key>
       <integer>12</integer>
-      <key>com.schriftgestaltung.layerOrderInGlyph.l.both</key>
-      <integer>7</integer>
-      <key>com.schriftgestaltung.layerOrderInGlyph.l.left</key>
-      <integer>6</integer>
-      <key>com.schriftgestaltung.layerOrderInGlyph.l.right</key>
-      <integer>2</integer>
       <key>com.schriftgestaltung.layerOrderInGlyph.lacute</key>
       <integer>0</integer>
       <key>com.schriftgestaltung.layerOrderInGlyph.lcaron</key>

@@ -1206,12 +1206,6 @@
     <string>kmacronbelow.glif</string>
     <key>l</key>
     <string>l.glif</string>
-    <key>l.both</key>
-    <string>l.both.glif</string>
-    <key>l.left</key>
-    <string>l.left.glif</string>
-    <key>l.right</key>
-    <string>l.right.glif</string>
     <key>lacute</key>
     <string>lacute.glif</string>
     <key>lcaron</key>

@@ -123,6 +123,10 @@
       <string>glyphs.D_ec 3, 23 at 10_16</string>
     </array>
     <array>
+      <string>latest</string>
+      <string>glyphs.latest</string>
+    </array>
+    <array>
       <string>Dec 10, 23 at 22:10</string>
       <string>glyphs.D_ec 10, 23 at 22_10</string>
     </array>
@@ -185,6 +189,10 @@
     <array>
       <string>Jan 4, 24 at 13:13</string>
       <string>glyphs.J_an 4, 24 at 13_13</string>
+    </array>
+    <array>
+      <string>Apr 23, 24 at 16:14</string>
+      <string>glyphs.A_pr 23, 24 at 16_14</string>
     </array>
     <array>
       <string>Jan 3, 24 at 20:34</string>

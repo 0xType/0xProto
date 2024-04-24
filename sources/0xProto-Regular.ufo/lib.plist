@@ -16,7 +16,14 @@
       </dict>
     </array>
     <key>com.schriftgestaltung.appVersion</key>
-    <string>3301</string>
+    <string>3302</string>
+    <key>com.schriftgestaltung.customParameter.GSFont.DisplayStrings</key>
+    <array>
+      <string>abcdefghijklmn
+opqrstuvwxyz
+
+modern</string>
+    </array>
     <key>com.schriftgestaltung.customParameter.GSFont.Write lastChange</key>
     <integer>0</integer>
     <key>com.schriftgestaltung.customParameter.GSFont.disablesAutomaticAlignment</key>

@@ -16,7 +16,7 @@
       </dict>
     </array>
     <key>com.schriftgestaltung.appVersion</key>
-    <string>3301</string>
+    <string>3302</string>
     <key>com.schriftgestaltung.customParameter.GSFont.Write lastChange</key>
     <integer>0</integer>
     <key>com.schriftgestaltung.customParameter.GSFont.disablesAutomaticAlignment</key>
@@ -500,15 +500,12 @@
       <string>zdotbelow</string>
       <string>zmacronbelow</string>
       <string>i.both</string>
-      <string>l.both</string>
       <string>m.both</string>
       <string>t.both</string>
       <string>i.left</string>
-      <string>l.left</string>
       <string>m.left</string>
       <string>t.left</string>
       <string>i.right</string>
-      <string>l.right</string>
       <string>m.right</string>
       <string>t.right</string>
       <string>ordfeminine</string>
