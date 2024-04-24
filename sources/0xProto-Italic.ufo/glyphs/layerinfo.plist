@@ -62,6 +62,8 @@
       <integer>0</integer>
       <key>com.schriftgestaltung.layerOrderInGlyph.C</key>
       <integer>0</integer>
+      <key>com.schriftgestaltung.layerOrderInGlyph.CR</key>
+      <integer>0</integer>
       <key>com.schriftgestaltung.layerOrderInGlyph.Cacute</key>
       <integer>0</integer>
       <key>com.schriftgestaltung.layerOrderInGlyph.Ccaron</key>
@@ -1078,6 +1080,8 @@
       <integer>0</integer>
       <key>com.schriftgestaltung.layerOrderInGlyph.f</key>
       <integer>7</integer>
+      <key>com.schriftgestaltung.layerOrderInGlyph.figurespace</key>
+      <integer>0</integer>
       <key>com.schriftgestaltung.layerOrderInGlyph.five</key>
       <integer>0</integer>
       <key>com.schriftgestaltung.layerOrderInGlyph.four</key>
@@ -1442,6 +1446,8 @@
       <integer>0</integer>
       <key>com.schriftgestaltung.layerOrderInGlyph.published</key>
       <integer>0</integer>
+      <key>com.schriftgestaltung.layerOrderInGlyph.punctuationspace</key>
+      <integer>0</integer>
       <key>com.schriftgestaltung.layerOrderInGlyph.q</key>
       <integer>3</integer>
       <key>com.schriftgestaltung.layerOrderInGlyph.question</key>
@@ -1646,6 +1652,8 @@
       <integer>0</integer>
       <key>com.schriftgestaltung.layerOrderInGlyph.won</key>
       <integer>0</integer>
+      <key>com.schriftgestaltung.layerOrderInGlyph.wordjoiner</key>
+      <integer>0</integer>
       <key>com.schriftgestaltung.layerOrderInGlyph.x</key>
       <integer>7</integer>
       <key>com.schriftgestaltung.layerOrderInGlyph.xdieresis</key>
@@ -1686,6 +1694,10 @@
       <integer>0</integer>
       <key>com.schriftgestaltung.layerOrderInGlyph.zero</key>
       <integer>5</integer>
+      <key>com.schriftgestaltung.layerOrderInGlyph.zeroWidthNoBreakSpace</key>
+      <integer>0</integer>
+      <key>com.schriftgestaltung.layerOrderInGlyph.zerowidthspace</key>
+      <integer>0</integer>
       <key>com.schriftgestaltung.layerOrderInGlyph.zmacronbelow</key>
       <integer>0</integer>
     </dict>

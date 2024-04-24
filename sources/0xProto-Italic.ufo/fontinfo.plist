@@ -31,6 +31,10 @@
       <integer>0</integer>
       <integer>0</integer>
     </array>
+    <key>openTypeOS2StrikeoutPosition</key>
+    <integer>330</integer>
+    <key>openTypeOS2StrikeoutSize</key>
+    <integer>50</integer>
     <key>openTypeOS2Type</key>
     <array>
       <integer>3</integer>
@@ -49,7 +53,7 @@
       <integer>766</integer>
     </array>
     <key>postscriptFontName</key>
-    <string>0xProto</string>
+    <string>0xProto Italic</string>
     <key>postscriptIsFixedPitch</key>
     <true/>
     <key>postscriptOtherBlues</key>

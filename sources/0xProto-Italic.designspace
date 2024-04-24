@@ -17,7 +17,7 @@
     </source>
   </sources>
   <instances>
-    <instance name="0xProto Italic" familyname="0xProto" stylename="Italic" filename="instance_ufos/0xProto-Italic.ufo" stylemapfamilyname="0xProto 0xProto" stylemapstylename="italic">
+    <instance name="0xProto Italic" familyname="0xProto" stylename="Italic" filename="instance_ufos/0xProto-Italic.ufo" stylemapfamilyname="0xProto" stylemapstylename="italic">
       <location>
         <dimension name="Weight" xvalue="100"/>
       </location>

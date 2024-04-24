@@ -775,6 +775,16 @@ tag = dlig;
 );
 fontMaster = (
 {
+customParameters = (
+{
+name = strikeoutPosition;
+value = 330;
+},
+{
+name = strikeoutSize;
+value = 50;
+}
+);
 id = m01;
 metricValues = (
 {
@@ -39107,6 +39117,66 @@ width = 620;
 unicode = 160;
 },
 {
+glyphname = figurespace;
+layers = (
+{
+layerId = m01;
+width = 620;
+}
+);
+unicode = 8199;
+},
+{
+glyphname = punctuationspace;
+layers = (
+{
+layerId = m01;
+width = 620;
+}
+);
+unicode = 8200;
+},
+{
+glyphname = zerowidthspace;
+layers = (
+{
+layerId = m01;
+width = 620;
+}
+);
+unicode = 8203;
+},
+{
+glyphname = zeroWidthNoBreakSpace;
+layers = (
+{
+layerId = m01;
+width = 620;
+}
+);
+unicode = 65279;
+},
+{
+glyphname = wordjoiner;
+layers = (
+{
+layerId = m01;
+width = 620;
+}
+);
+unicode = 8288;
+},
+{
+glyphname = CR;
+layers = (
+{
+layerId = m01;
+width = 620;
+}
+);
+unicode = 13;
+},
+{
 glyphname = hyphen_greater;
 layers = (
 {
@@ -67801,7 +67871,7 @@ instanceInterpolations = {
 m01 = 1;
 };
 isItalic = 1;
-linkStyle = 0xProto;
+linkStyle = Regular;
 name = Italic;
 }
 );
@@ -67842,7 +67912,16 @@ value = "https://0xtype.dev/";
 },
 {
 key = postscriptFontName;
-value = 0xProto;
+value = "0xProto Italic";
+},
+{
+key = postscriptFullNames;
+values = (
+{
+language = dflt;
+value = "0xProto Italic";
+}
+);
 },
 {
 key = vendorID;

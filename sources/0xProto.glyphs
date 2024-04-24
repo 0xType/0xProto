@@ -1,12 +1,6 @@
 {
 .appVersion = "3302";
 .formatVersion = 3;
-DisplayStrings = (
-"abcdefghijklmn
-opqrstuvwxyz
-
-modern"
-);
 classes = (
 {
 automatic = 1;
@@ -37276,6 +37270,14 @@ width = 620;
 unicode = 712;
 }
 );
+instances = (
+{
+instanceInterpolations = {
+m01 = 1;
+};
+name = Regular;
+}
+);
 metrics = (
 {
 type = ascender;
@@ -37310,7 +37312,16 @@ value = "https://0xtype.dev/";
 },
 {
 key = postscriptFontName;
-value = 0xProto;
+value = "0xProto Regular";
+},
+{
+key = postscriptFullNames;
+values = (
+{
+language = dflt;
+value = "0xProto Regular";
+}
+);
 },
 {
 key = vendorID;

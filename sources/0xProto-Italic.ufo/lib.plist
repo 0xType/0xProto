@@ -524,6 +524,12 @@
       <string>nine</string>
       <string>space</string>
       <string>nbspace</string>
+      <string>figurespace</string>
+      <string>punctuationspace</string>
+      <string>zerowidthspace</string>
+      <string>zeroWidthNoBreakSpace</string>
+      <string>wordjoiner</string>
+      <string>CR</string>
       <string>hyphen_greater</string>
       <string>bracketleft_bar</string>
       <string>period_equal</string>
@@ -1491,6 +1497,8 @@
       <string>uni1EBD</string>
       <key>euro</key>
       <string>Euro</string>
+      <key>figurespace</key>
+      <string>uni2007</string>
       <key>gcommaaccent</key>
       <string>uni0123</string>
       <key>gmacron</key>
@@ -1615,6 +1623,8 @@
       <string>uni02B9</string>
       <key>published</key>
       <string>uni2117</string>
+      <key>punctuationspace</key>
+      <string>uni2008</string>
       <key>rcommaaccent</key>
       <string>uni0157</string>
       <key>rdotaccent</key>
@@ -1683,6 +1693,8 @@
       <string>uni02C8</string>
       <key>won</key>
       <string>uni20A9</string>
+      <key>wordjoiner</key>
+      <string>uni2060</string>
       <key>xdieresis</key>
       <string>uni1E8D</string>
       <key>ydotaccent</key>
@@ -1699,6 +1711,10 @@
       <string>uni1E91</string>
       <key>zdotbelow</key>
       <string>uni1E93</string>
+      <key>zeroWidthNoBreakSpace</key>
+      <string>uniFEFF</string>
+      <key>zerowidthspace</key>
+      <string>uni200B</string>
     </dict>
   </dict>
 </plist>
