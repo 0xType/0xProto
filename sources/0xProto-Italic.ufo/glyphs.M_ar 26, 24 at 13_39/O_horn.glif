@@ -23,4 +23,10 @@
     <component base="O"/>
     <component base="horncomb.case" xOffset="235" yOffset="-35"/>
   </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.shapeOrder</key>
+      <string>CCP</string>
+    </dict>
+  </lib>
 </glyph>

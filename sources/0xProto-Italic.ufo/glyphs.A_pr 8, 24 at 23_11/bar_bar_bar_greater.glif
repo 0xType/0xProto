@@ -37,4 +37,10 @@
     </contour>
     <component base="greater" xOffset="-341" yOffset="-1"/>
   </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.shapeOrder</key>
+      <string>PPPPPC</string>
+    </dict>
+  </lib>
 </glyph>

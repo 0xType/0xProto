@@ -4,6 +4,27 @@
   <dict>
     <key>GSCornerRadius</key>
     <integer>218</integer>
+    <key>com.github.googlei18n.ufo2ft.featureWriters</key>
+    <array>
+      <dict>
+        <key>class</key>
+        <string>KernFeatureWriter</string>
+      </dict>
+      <dict>
+        <key>class</key>
+        <string>ContextualMarkFeatureWriter</string>
+        <key>module</key>
+        <string>glyphsLib.featureWriters.markFeatureWriter</string>
+      </dict>
+      <dict>
+        <key>class</key>
+        <string>GdefFeatureWriter</string>
+      </dict>
+      <dict>
+        <key>class</key>
+        <string>CursFeatureWriter</string>
+      </dict>
+    </array>
     <key>com.github.googlei18n.ufo2ft.filters</key>
     <array>
       <dict>
@@ -16,7 +37,7 @@
       </dict>
     </array>
     <key>com.schriftgestaltung.appVersion</key>
-    <string>3302</string>
+    <string>3303</string>
     <key>com.schriftgestaltung.customParameter.GSFont.Write lastChange</key>
     <integer>0</integer>
     <key>com.schriftgestaltung.customParameter.GSFont.disablesAutomaticAlignment</key>
@@ -934,10 +955,14 @@
       <string>uni1EA0</string>
       <key>Ahookabove</key>
       <string>uni1EA2</string>
+      <key>Bmacronbelow</key>
+      <string>uni1E06</string>
       <key>Dcircumflexbelow</key>
       <string>uni1E12</string>
       <key>Ddotbelow</key>
       <string>uni1E0C</string>
+      <key>Dmacronbelow</key>
+      <string>uni1E0E</string>
       <key>Ecircumflexacute</key>
       <string>uni1EBE</string>
       <key>Ecircumflexdotbelow</key>
@@ -976,6 +1001,8 @@
       <string>uni0136</string>
       <key>Kdotbelow</key>
       <string>uni1E32</string>
+      <key>Kmacronbelow</key>
+      <string>uni1E34</string>
       <key>Lcircumflexbelow</key>
       <string>uni1E3C</string>
       <key>Lcommaaccent</key>
@@ -984,6 +1011,8 @@
       <string>uni1E36</string>
       <key>Ldotbelowmacron</key>
       <string>uni1E38</string>
+      <key>Lmacronbelow</key>
+      <string>uni1E3A</string>
       <key>Macute</key>
       <string>uni1E3E</string>
       <key>Mdotaccent</key>
@@ -1000,6 +1029,8 @@
       <string>uni1E46</string>
       <key>Ngrave</key>
       <string>uni01F8</string>
+      <key>Nmacronbelow</key>
+      <string>uni1E48</string>
       <key>Ocaron</key>
       <string>uni01D1</string>
       <key>Ocircumflexacute</key>
@@ -1038,6 +1069,8 @@
       <string>uni1E5A</string>
       <key>Rdotbelowmacron</key>
       <string>uni1E5C</string>
+      <key>Rmacronbelow</key>
+      <string>uni1E5E</string>
       <key>Schwa</key>
       <string>uni018F</string>
       <key>Scommaaccent</key>
@@ -1052,6 +1085,8 @@
       <string>uni021A</string>
       <key>Tdotbelow</key>
       <string>uni1E6C</string>
+      <key>Tmacronbelow</key>
+      <string>uni1E6E</string>
       <key>Ucaron</key>
       <string>uni01D3</string>
       <key>Udieresisacute</key>
@@ -1094,6 +1129,8 @@
       <string>uni1E90</string>
       <key>Zdotbelow</key>
       <string>uni1E92</string>
+      <key>Zmacronbelow</key>
+      <string>uni1E94</string>
       <key>abreveacute</key>
       <string>uni1EAF</string>
       <key>abrevedotbelow</key>
@@ -1126,6 +1163,8 @@
       <string>uni02BC</string>
       <key>baht</key>
       <string>uni0E3F</string>
+      <key>bmacronbelow</key>
+      <string>uni1E07</string>
       <key>boxDoubleDownAndHorizontal</key>
       <string>uni2566</string>
       <key>boxDoubleDownAndLeft</key>
@@ -1476,6 +1515,8 @@
       <string>uni03080304</string>
       <key>dieresiscomb_macroncomb.case</key>
       <string>uni03080304.case</string>
+      <key>dmacronbelow</key>
+      <string>uni1E0F</string>
       <key>dotaccentcomb</key>
       <string>uni0307</string>
       <key>dotaccentcomb.case</key>
@@ -1516,6 +1557,8 @@
       <string>uni1E29</string>
       <key>hdotbelow</key>
       <string>uni1E25</string>
+      <key>hmacronbelow</key>
+      <string>uni1E96</string>
       <key>horncomb</key>
       <string>uni031B</string>
       <key>horncomb.case</key>
@@ -1542,6 +1585,8 @@
       <string>uni0137</string>
       <key>kdotbelow</key>
       <string>uni1E33</string>
+      <key>kmacronbelow</key>
+      <string>uni1E35</string>
       <key>lcircumflexbelow</key>
       <string>uni1E3D</string>
       <key>lcommaaccent</key>
@@ -1552,6 +1597,8 @@
       <string>uni1E39</string>
       <key>liraTurkish</key>
       <string>uni20BA</string>
+      <key>lmacronbelow</key>
+      <string>uni1E3B</string>
       <key>lowcircumflexmod</key>
       <string>uniA788</string>
       <key>macronbelowcomb</key>
@@ -1586,6 +1633,8 @@
       <string>uni1E47</string>
       <key>ngrave</key>
       <string>uni01F9</string>
+      <key>nmacronbelow</key>
+      <string>uni1E49</string>
       <key>ocaron</key>
       <string>uni01D2</string>
       <key>ocircumflexacute</key>
@@ -1644,6 +1693,8 @@
       <string>uni02BF</string>
       <key>ringhalfright</key>
       <string>uni02BE</string>
+      <key>rmacronbelow</key>
+      <string>uni1E5F</string>
       <key>ruble</key>
       <string>uni20BD</string>
       <key>rupeeIndian</key>
@@ -1664,6 +1715,8 @@
       <string>uni021B</string>
       <key>tdotbelow</key>
       <string>uni1E6D</string>
+      <key>tmacronbelow</key>
+      <string>uni1E6F</string>
       <key>ucaron</key>
       <string>uni01D4</string>
       <key>udieresisacute</key>
@@ -1718,6 +1771,8 @@
       <string>uniFEFF</string>
       <key>zerowidthspace</key>
       <string>uni200B</string>
+      <key>zmacronbelow</key>
+      <string>uni1E95</string>
     </dict>
   </dict>
 </plist>

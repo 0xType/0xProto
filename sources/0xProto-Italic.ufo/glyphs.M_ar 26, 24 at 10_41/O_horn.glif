@@ -38,4 +38,10 @@
     </contour>
     <component base="horncomb.case" xOffset="211" yOffset="-81"/>
   </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.shapeOrder</key>
+      <string>PPC</string>
+    </dict>
+  </lib>
 </glyph>

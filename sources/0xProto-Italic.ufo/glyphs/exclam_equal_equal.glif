@@ -28,4 +28,10 @@
     </contour>
     <component base="exclam" xOffset="-1149"/>
   </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.shapeOrder</key>
+      <string>PPCPP</string>
+    </dict>
+  </lib>
 </glyph>

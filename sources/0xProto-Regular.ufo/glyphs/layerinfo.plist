@@ -1281,7 +1281,7 @@
       <key>com.schriftgestaltung.layerOrderInGlyph.lslash</key>
       <integer>0</integer>
       <key>com.schriftgestaltung.layerOrderInGlyph.m</key>
-      <integer>1</integer>
+      <integer>5</integer>
       <key>com.schriftgestaltung.layerOrderInGlyph.m.both</key>
       <integer>2</integer>
       <key>com.schriftgestaltung.layerOrderInGlyph.m.left</key>

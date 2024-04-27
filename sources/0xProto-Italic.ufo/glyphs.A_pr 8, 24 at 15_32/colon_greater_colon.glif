@@ -34,4 +34,10 @@
     <component base="colon" xOffset="-1128" yOffset="30"/>
     <component base="greater" xOffset="-567"/>
   </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.shapeOrder</key>
+      <string>PPCCC</string>
+    </dict>
+  </lib>
 </glyph>

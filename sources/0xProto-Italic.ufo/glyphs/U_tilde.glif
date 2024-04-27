@@ -5,7 +5,7 @@
   <anchor x="264" y="0" name="bottom"/>
   <anchor x="370" y="0" name="ogonek"/>
   <anchor x="373" y="710" name="top"/>
-  <anchor x="623" y="710" name="topright"/>
+  <anchor x="622" y="710" name="topright"/>
   <outline>
     <component base="U"/>
     <component base="tildecomb.case" xOffset="3"/>

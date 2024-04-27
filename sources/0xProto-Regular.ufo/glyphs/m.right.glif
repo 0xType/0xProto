@@ -15,10 +15,10 @@
       <point x="210" y="486"/>
       <point x="245" y="486" type="curve" smooth="yes"/>
       <point x="281" y="486"/>
-      <point x="294" y="463"/>
+      <point x="293" y="463"/>
       <point x="294" y="418" type="curve" smooth="yes"/>
-      <point x="297" y="147" type="line"/>
-      <point x="384" y="147" type="line"/>
+      <point x="299" y="77" type="line"/>
+      <point x="382" y="77" type="line"/>
       <point x="387" y="445" type="line" smooth="yes"/>
       <point x="388" y="512"/>
       <point x="352" y="566"/>

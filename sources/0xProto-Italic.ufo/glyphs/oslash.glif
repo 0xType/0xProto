@@ -2,10 +2,10 @@
 <glyph name="oslash" format="2">
   <advance width="620"/>
   <unicode hex="00F8"/>
-  <anchor x="248" y="0" name="bottom"/>
-  <anchor x="348" y="1" name="ogonek"/>
-  <anchor x="338" y="550" name="top"/>
-  <anchor x="454" y="523" name="topright"/>
+  <anchor x="251" y="0" name="bottom"/>
+  <anchor x="351" y="1" name="ogonek"/>
+  <anchor x="355" y="550" name="top"/>
+  <anchor x="468" y="523" name="topright"/>
   <outline>
     <contour>
       <point x="-17" y="-86" type="line"/>
@@ -17,4 +17,10 @@
     </contour>
     <component base="o"/>
   </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.shapeOrder</key>
+      <string>CP</string>
+    </dict>
+  </lib>
 </glyph>

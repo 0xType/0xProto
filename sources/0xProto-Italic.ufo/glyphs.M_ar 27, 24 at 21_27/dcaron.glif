@@ -45,4 +45,10 @@
     </contour>
     <component base="caroncomb.alt"/>
   </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.shapeOrder</key>
+      <string>PCP</string>
+    </dict>
+  </lib>
 </glyph>

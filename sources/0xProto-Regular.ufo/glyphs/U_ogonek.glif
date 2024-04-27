@@ -29,4 +29,10 @@
     </contour>
     <component base="ogonekcomb.case"/>
   </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.shapeOrder</key>
+      <string>PC</string>
+    </dict>
+  </lib>
 </glyph>
