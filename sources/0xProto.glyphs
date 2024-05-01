@@ -793,15 +793,15 @@ over = 16;
 pos = 710;
 },
 {
-over = -16;
-},
-{
-over = -16;
-pos = -200;
-},
-{
 over = 16;
 pos = 550;
+},
+{
+over = -16;
+},
+{
+over = -16;
+pos = -250;
 }
 );
 name = Regular;
@@ -37531,14 +37531,14 @@ type = ascender;
 type = "cap height";
 },
 {
+name = "for monospace font";
+type = "x-height";
+},
+{
 type = baseline;
 },
 {
 type = descender;
-},
-{
-name = "for monospace font";
-type = "x-height";
 }
 );
 properties = (

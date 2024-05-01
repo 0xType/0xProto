@@ -790,18 +790,18 @@ over = 16;
 pos = 710;
 },
 {
+over = 16;
+pos = 550;
+},
+{
 over = -16;
 },
 {
 over = -16;
-pos = -200;
+pos = -250;
 },
 {
 pos = 9;
-},
-{
-over = 16;
-pos = 550;
 }
 );
 name = Italic;
@@ -68290,6 +68290,10 @@ type = ascender;
 type = "cap height";
 },
 {
+name = "for monospace font";
+type = "x-height";
+},
+{
 type = baseline;
 },
 {
@@ -68297,10 +68301,6 @@ type = descender;
 },
 {
 type = "italic angle";
-},
-{
-name = "for monospace font";
-type = "x-height";
 }
 );
 properties = (

@@ -9,7 +9,7 @@
     <key>copyright</key>
     <string>0xType Project Authors (https://github.com/0xType)</string>
     <key>descender</key>
-    <integer>-200</integer>
+    <integer>-250</integer>
     <key>familyName</key>
     <string>0xProto</string>
     <key>italicAngle</key>
@@ -58,8 +58,8 @@
     <true/>
     <key>postscriptOtherBlues</key>
     <array>
-      <integer>-216</integer>
-      <integer>-200</integer>
+      <integer>-266</integer>
+      <integer>-250</integer>
     </array>
     <key>postscriptUnderlinePosition</key>
     <integer>-100</integer>
