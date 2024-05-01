@@ -1,0 +1,28 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="gcircumflex" format="2">
+  <advance width="620"/>
+  <unicode hex="011D"/>
+  <outline>
+    <contour>
+      <point x="357" y="786" type="line"/>
+      <point x="263" y="786" type="line"/>
+      <point x="263" y="780" type="line"/>
+      <point x="394" y="628" type="line"/>
+      <point x="479" y="628" type="line"/>
+    </contour>
+    <contour>
+      <point x="263" y="786" type="line"/>
+      <point x="141" y="628" type="line"/>
+      <point x="226" y="628" type="line"/>
+      <point x="357" y="780" type="line"/>
+      <point x="357" y="786" type="line"/>
+    </contour>
+    <component base="g"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.shapeOrder</key>
+      <string>CPP</string>
+    </dict>
+  </lib>
+</glyph>

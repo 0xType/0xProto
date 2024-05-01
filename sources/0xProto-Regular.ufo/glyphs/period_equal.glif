@@ -1,0 +1,32 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="period_equal" format="2">
+  <advance width="620"/>
+  <outline>
+    <contour>
+      <point x="440" y="247" type="line"/>
+      <point x="-50" y="247" type="line"/>
+      <point x="-50" y="159" type="line"/>
+      <point x="440" y="159" type="line"/>
+    </contour>
+    <contour>
+      <point x="440" y="447" type="line"/>
+      <point x="-50" y="447" type="line"/>
+      <point x="-50" y="359" type="line"/>
+      <point x="440" y="359" type="line"/>
+    </contour>
+    <contour>
+      <point x="-306" y="-19" type="curve" smooth="yes"/>
+      <point x="-260" y="-19"/>
+      <point x="-223" y="18"/>
+      <point x="-223" y="64" type="curve" smooth="yes"/>
+      <point x="-223" y="110"/>
+      <point x="-260" y="147"/>
+      <point x="-306" y="147" type="curve" smooth="yes"/>
+      <point x="-352" y="147"/>
+      <point x="-389" y="110"/>
+      <point x="-389" y="64" type="curve" smooth="yes"/>
+      <point x="-389" y="18"/>
+      <point x="-352" y="-19"/>
+    </contour>
+  </outline>
+</glyph>

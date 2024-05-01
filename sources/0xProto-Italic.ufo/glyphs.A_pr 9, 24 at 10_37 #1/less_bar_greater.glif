@@ -1,0 +1,40 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="less_bar_greater" format="2">
+  <advance width="620"/>
+  <outline>
+    <contour>
+      <point x="-288" y="709" type="line"/>
+      <point x="-414" y="-98" type="line"/>
+      <point x="-318" y="-98" type="line"/>
+      <point x="-192" y="709" type="line"/>
+    </contour>
+    <contour>
+      <point x="-460" y="645" type="line"/>
+      <point x="-470" y="645" type="line"/>
+      <point x="-1004" y="362" type="line"/>
+      <point x="-1021" y="255" type="line"/>
+      <point x="-475" y="547" type="line"/>
+    </contour>
+    <contour>
+      <point x="-566" y="-34" type="line"/>
+      <point x="-551" y="64" type="line"/>
+      <point x="-1005" y="356" type="line"/>
+      <point x="-1022" y="249" type="line"/>
+      <point x="-576" y="-34" type="line"/>
+    </contour>
+    <contour>
+      <point x="-40" y="645" type="line"/>
+      <point x="-55" y="547" type="line"/>
+      <point x="399" y="255" type="line"/>
+      <point x="416" y="362" type="line"/>
+      <point x="-30" y="645" type="line"/>
+    </contour>
+    <contour>
+      <point x="-146" y="-34" type="line"/>
+      <point x="-136" y="-34" type="line"/>
+      <point x="398" y="249" type="line"/>
+      <point x="415" y="356" type="line"/>
+      <point x="-131" y="64" type="line"/>
+    </contour>
+  </outline>
+</glyph>
