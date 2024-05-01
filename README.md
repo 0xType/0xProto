@@ -53,7 +53,7 @@ However, many programming fonts, such as Fira Code, use ligatures, for example, 
 
 From a functional or usability standpoint, ligatures that transform the meaning of `≠` or other overly distorted ligatures make it challenging to anticipate their meaning if any part of the string is erased.
 
-![Ligatures that DON'T deform shape](./images/all_ligatures.png)
+![Ligatures that DON'T deform shape](./images/ligatures.png)
 
 For these reasons, 0xProto has made a conscious decision to abstain from using ligatures that modify both meaning and form.
 
@@ -84,4 +84,4 @@ To enable ligatures:
 
 The SIL Open Font License, Version 1.1
 
-Copyright (c) 2023 [0xType](https://0xtype.dev)
+Copyright (c) 2024 [0xType](https://0xtype.dev)
