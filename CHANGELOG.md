@@ -1,5 +1,17 @@
 All notable changes to this project will be documented in this file.
 
+## 2.000
+
+PR: Ready for v2.000 https://github.com/0xType/0xProto/pull/66
+
+- Introduce italic family: https://github.com/0xType/0xProto/issues/20
+- Build fonts with ttfautohint: https://github.com/0xType/0xProto/issues/67
+- Fixed bugs:
+  - https://github.com/0xType/0xProto/issues/69
+  - https://github.com/0xType/0xProto/issues/72
+- Fine-tuned some glyphs
+  - includes https://github.com/0xType/0xProto/issues/65
+
 ## 1.603
 
 - Add more Unicode spaces https://github.com/0xType/0xProto/pull/63
