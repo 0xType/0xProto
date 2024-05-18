@@ -1,5 +1,12 @@
 All notable changes to this project will be documented in this file.
 
+## 2.001
+
+- Ignore Ignore unexpected ligatures https://github.com/0xType/0xProto/pull/74
+  - `bar bar bar`
+  - `percent percent percent`
+  - `ampersand ampersand ampersand`
+
 ## 2.000
 
 PR: Ready for v2.000 https://github.com/0xType/0xProto/pull/66
