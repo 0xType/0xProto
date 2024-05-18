@@ -260,6 +260,8 @@ lookup less_bar {
 
 # ||
 lookup bar_bar {
+  ignore sub bar' bar bar;
+  ignore sub bar bar' bar;
   sub bar.spacer bar' by bar_bar;
   sub bar' bar by bar.spacer;
 } bar_bar;
@@ -488,12 +490,16 @@ lookup numbersign_equal {
 
 # %%
 lookup percent_percent {
+  ignore sub percent' percent percent;
+  ignore sub percent percent' percent;
   sub percent.spacer percent' by percent_percent;
   sub percent' percent by percent.spacer;
 } percent_percent;
 
 # &&
 lookup ampersand_ampersand {
+  ignore sub ampersand' ampersand ampersand;
+  ignore sub ampersand ampersand' ampersand;
   sub ampersand.spacer ampersand' by ampersand_ampersand;
   sub ampersand' ampersand by ampersand.spacer;
 } ampersand_ampersand;
