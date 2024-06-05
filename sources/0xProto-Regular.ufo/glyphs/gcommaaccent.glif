@@ -1,0 +1,11 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="gcommaaccent" format="2">
+  <advance width="620"/>
+  <unicode hex="0123"/>
+  <anchor x="310" y="-200" name="bottom"/>
+  <anchor x="310" y="550" name="top"/>
+  <outline>
+    <component base="g"/>
+    <component base="commaturnedabovecomb"/>
+  </outline>
+</glyph>

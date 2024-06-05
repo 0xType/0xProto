@@ -1,0 +1,33 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="less_bar_bar" format="2">
+  <advance width="620"/>
+  <outline>
+    <contour>
+      <point x="29" y="-24" type="line"/>
+      <point x="115" y="-24" type="line"/>
+      <point x="219" y="632" type="line"/>
+      <point x="133" y="632" type="line"/>
+    </contour>
+    <contour>
+      <point x="-376" y="-24" type="line"/>
+      <point x="-290" y="-24" type="line"/>
+      <point x="-186" y="632" type="line"/>
+      <point x="-272" y="632" type="line"/>
+    </contour>
+    <contour>
+      <point x="-440" y="-24" type="line"/>
+      <point x="-424" y="73" type="line"/>
+      <point x="-795" y="317" type="line"/>
+      <point x="-833" y="353" type="line"/>
+      <point x="-849" y="250" type="line"/>
+      <point x="-450" y="-24" type="line"/>
+    </contour>
+    <contour>
+      <point x="-336" y="632" type="line"/>
+      <point x="-346" y="632" type="line"/>
+      <point x="-833" y="353" type="line"/>
+      <point x="-834" y="253" type="line"/>
+      <point x="-353" y="518" type="line"/>
+    </contour>
+  </outline>
+</glyph>

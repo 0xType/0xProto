@@ -1,0 +1,8 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="bar_bar" format="2">
+  <advance width="620"/>
+  <outline>
+    <component base="bar" xOffset="-100"/>
+    <component base="bar" xOffset="-525"/>
+  </outline>
+</glyph>

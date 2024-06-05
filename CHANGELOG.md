@@ -1,5 +1,9 @@
 All notable changes to this project will be documented in this file.
 
+## 2.100
+
+- Add ss01 variants https://github.com/0xType/0xProto/pull/75
+
 ## 2.001
 
 - Ignore Ignore unexpected ligatures https://github.com/0xType/0xProto/pull/74

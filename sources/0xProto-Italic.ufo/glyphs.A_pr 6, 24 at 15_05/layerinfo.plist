@@ -1,0 +1,15 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+  <dict>
+    <key>lib</key>
+    <dict>
+      <key>com.schriftgestaltung.layerId</key>
+      <string>EB32E3CC-74EF-4AC4-A9C5-F8ABDB2D45FA</string>
+      <key>com.schriftgestaltung.layerOrderInGlyph.Hcedilla</key>
+      <integer>1</integer>
+      <key>com.schriftgestaltung.layerOrderInGlyph.hcedilla</key>
+      <integer>1</integer>
+    </dict>
+  </dict>
+</plist>

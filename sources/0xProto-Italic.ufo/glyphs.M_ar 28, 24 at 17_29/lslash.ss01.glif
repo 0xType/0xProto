@@ -1,0 +1,21 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="lslash.ss01" format="2">
+  <advance width="620"/>
+  <outline>
+    <contour>
+      <point x="456" y="540" type="line"/>
+      <point x="450" y="540" type="line"/>
+      <point x="72" y="317" type="line"/>
+      <point x="72" y="225" type="line"/>
+      <point x="78" y="225" type="line"/>
+      <point x="456" y="448" type="line"/>
+    </contour>
+    <component base="l.ss01"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.shapeOrder</key>
+      <string>CP</string>
+    </dict>
+  </lib>
+</glyph>

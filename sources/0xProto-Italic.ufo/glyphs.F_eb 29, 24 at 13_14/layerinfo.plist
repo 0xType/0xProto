@@ -1,0 +1,17 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+  <dict>
+    <key>lib</key>
+    <dict>
+      <key>com.schriftgestaltung.layerId</key>
+      <string>86B47A1C-F8AC-4ADF-A968-F58EBF8EE195</string>
+      <key>com.schriftgestaltung.layerOrderInGlyph.e</key>
+      <integer>2</integer>
+      <key>com.schriftgestaltung.layerOrderInGlyph.f.ss01</key>
+      <integer>6</integer>
+      <key>com.schriftgestaltung.layerOrderInGlyph.g</key>
+      <integer>4</integer>
+    </dict>
+  </dict>
+</plist>

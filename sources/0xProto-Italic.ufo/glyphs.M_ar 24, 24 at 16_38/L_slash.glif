@@ -1,0 +1,22 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="Lslash" format="2">
+  <advance width="620"/>
+  <unicode hex="0141"/>
+  <outline>
+    <contour>
+      <point x="406" y="540" type="line"/>
+      <point x="400" y="540" type="line"/>
+      <point x="22" y="317" type="line"/>
+      <point x="22" y="225" type="line"/>
+      <point x="28" y="225" type="line"/>
+      <point x="406" y="448" type="line"/>
+    </contour>
+    <component base="L"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.shapeOrder</key>
+      <string>CP</string>
+    </dict>
+  </lib>
+</glyph>

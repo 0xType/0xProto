@@ -1,0 +1,8 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="lowcircumflexmod" format="2">
+  <advance width="620"/>
+  <unicode hex="A788"/>
+  <outline>
+    <component base="circumflexbelowcomb"/>
+  </outline>
+</glyph>

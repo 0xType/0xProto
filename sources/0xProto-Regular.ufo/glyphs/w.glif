@@ -1,0 +1,41 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="w" format="2">
+  <advance width="620"/>
+  <unicode hex="0077"/>
+  <anchor x="310" y="0" name="bottom"/>
+  <anchor x="310" y="550" name="top"/>
+  <outline>
+    <contour>
+      <point x="41" y="550" type="line"/>
+      <point x="48" y="307"/>
+      <point x="72" y="123"/>
+      <point x="111" y="0" type="curve"/>
+      <point x="199" y="0" type="line"/>
+      <point x="162" y="123"/>
+      <point x="142" y="307"/>
+      <point x="137" y="550" type="curve"/>
+    </contour>
+    <contour>
+      <point x="343" y="377" type="line"/>
+      <point x="269" y="377" type="line"/>
+      <point x="145" y="0" type="line"/>
+      <point x="231" y="0" type="line"/>
+    </contour>
+    <contour>
+      <point x="277" y="377" type="line"/>
+      <point x="389" y="0" type="line"/>
+      <point x="475" y="0" type="line"/>
+      <point x="351" y="377" type="line"/>
+    </contour>
+    <contour>
+      <point x="579" y="550" type="curve"/>
+      <point x="483" y="550" type="line"/>
+      <point x="478" y="307"/>
+      <point x="458" y="123"/>
+      <point x="421" y="0" type="curve"/>
+      <point x="509" y="0" type="line"/>
+      <point x="548" y="123"/>
+      <point x="572" y="307"/>
+    </contour>
+  </outline>
+</glyph>

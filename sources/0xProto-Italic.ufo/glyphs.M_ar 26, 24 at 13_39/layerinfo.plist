@@ -1,0 +1,15 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+  <dict>
+    <key>lib</key>
+    <dict>
+      <key>com.schriftgestaltung.layerId</key>
+      <string>1FC4CE1B-F58B-45FE-96D7-263A2E0CF627</string>
+      <key>com.schriftgestaltung.layerOrderInGlyph.Ohorn</key>
+      <integer>2</integer>
+      <key>com.schriftgestaltung.layerOrderInGlyph.Ohorn.ss01</key>
+      <integer>2</integer>
+    </dict>
+  </dict>
+</plist>
