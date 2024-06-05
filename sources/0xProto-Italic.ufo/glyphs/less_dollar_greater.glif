@@ -1,9 +1,0 @@
-<?xml version='1.0' encoding='UTF-8'?>
-<glyph name="less_dollar_greater" format="2">
-  <advance width="620"/>
-  <outline>
-    <component base="dollar" xOffset="-619"/>
-    <component base="greater" xOffset="-88"/>
-    <component base="less" xOffset="-1147"/>
-  </outline>
-</glyph>

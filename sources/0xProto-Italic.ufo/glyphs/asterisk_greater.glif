@@ -1,8 +1,0 @@
-<?xml version='1.0' encoding='UTF-8'?>
-<glyph name="asterisk_greater" format="2">
-  <advance width="620"/>
-  <outline>
-    <component base="asterisk" xOffset="-534"/>
-    <component base="greater" xOffset="-56"/>
-  </outline>
-</glyph>
