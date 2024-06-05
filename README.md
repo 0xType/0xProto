@@ -59,6 +59,20 @@ For these reasons, 0xProto has made a conscious decision to abstain from using l
 
 If you prefer the programming ligature so far, I recommend Fira Code because it is very clean and useful!
 
+## OpenType features
+
+### Script Variant (`ss01`)
+
+In the Italic family of 0xProto, some characters can be changed to script.
+
+![Script Variant](./images/ss01.png)
+
+How to enable:
+
+- [Visual Stuio Code](https://github.com/microsoft/vscode/issues/84018)
+- [other tools](https://github.com/tonsky/FiraCode/wiki/How-to-enable-stylistic-sets)
+  - This is a Fira Code document; the Script Variant for 0xProto is `ss01`.
+
 ## Installation
 
 1. Download font files
