@@ -1,0 +1,52 @@
+{
+glyphname = caroncomb.alt;
+layers = (
+{
+anchors = (
+{
+name = _topright;
+pos = (387,750);
+}
+);
+layerId = m01;
+shapes = (
+{
+closed = 1;
+nodes = (
+(473,640,l),
+(540,640,l),
+(629,844,l),
+(629,850,l),
+(516,850,l)
+);
+}
+);
+width = 620;
+},
+{
+anchors = (
+{
+name = _topright;
+pos = (387,750);
+}
+);
+associatedMasterId = m01;
+layerId = "79BE7717-AB46-4E86-9D23-62AA67CC577E";
+name = "Mar 27, 24 at 21:28";
+shapes = (
+{
+closed = 1;
+nodes = (
+(495,635,l),
+(559,635,l),
+(620,844,l),
+(620,850,l),
+(512,850,l)
+);
+}
+);
+visible = 1;
+width = 620;
+}
+);
+}

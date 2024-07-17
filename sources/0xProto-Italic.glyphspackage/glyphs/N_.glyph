@@ -1,0 +1,95 @@
+{
+glyphname = N;
+layers = (
+{
+anchors = (
+{
+name = bottom;
+pos = (260,0);
+},
+{
+name = top;
+pos = (380,710);
+}
+);
+layerId = m01;
+name = Regular;
+shapes = (
+{
+closed = 1;
+nodes = (
+(243,710,l),
+(132,710,l),
+(410,0,l),
+(519,0,l)
+);
+},
+{
+closed = 1;
+nodes = (
+(10,0,l),
+(110,0,l),
+(223,710,l),
+(123,710,l)
+);
+},
+{
+closed = 1;
+nodes = (
+(422,0,l),
+(522,0,l),
+(635,710,l),
+(535,710,l)
+);
+}
+);
+width = 620;
+},
+{
+anchors = (
+{
+name = bottom;
+pos = (310,0);
+},
+{
+name = top;
+pos = (310,710);
+}
+);
+associatedMasterId = m01;
+layerId = "04F844D9-CFCA-4BEC-9AF1-C40A10F0AC32";
+name = "Mar 19, 24 at 17:29";
+shapes = (
+{
+closed = 1;
+nodes = (
+(177,710,l),
+(63,710,l),
+(447,0,l),
+(557,0,l)
+);
+},
+{
+closed = 1;
+nodes = (
+(56,0,l),
+(154,0,l),
+(154,710,l),
+(56,710,l)
+);
+},
+{
+closed = 1;
+nodes = (
+(466,0,l),
+(564,0,l),
+(564,710,l),
+(466,710,l)
+);
+}
+);
+width = 620;
+}
+);
+unicode = 78;
+}

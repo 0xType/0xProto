@@ -1,0 +1,72 @@
+{
+glyphname = hungarumlautcomb;
+layers = (
+{
+anchors = (
+{
+name = _top;
+pos = (350,550);
+}
+);
+layerId = m01;
+shapes = (
+{
+closed = 1;
+nodes = (
+(387,628,l),
+(458,628,l),
+(564,780,l),
+(564,786,l),
+(460,786,l)
+);
+},
+{
+closed = 1;
+nodes = (
+(249,628,l),
+(320,628,l),
+(426,780,l),
+(426,786,l),
+(322,786,l)
+);
+}
+);
+width = 620;
+},
+{
+anchors = (
+{
+name = _top;
+pos = (310,550);
+}
+);
+associatedMasterId = m01;
+layerId = "FC015D10-904F-4BBC-9195-A544BBFE888E";
+name = "Mar 26, 24 at 13:03";
+shapes = (
+{
+closed = 1;
+nodes = (
+(337,628,l),
+(401,628,l),
+(486,780,l),
+(486,786,l),
+(393,786,l)
+);
+},
+{
+closed = 1;
+nodes = (
+(201,628,l),
+(265,628,l),
+(350,780,l),
+(350,786,l),
+(257,786,l)
+);
+}
+);
+width = 620;
+}
+);
+unicode = 779;
+}

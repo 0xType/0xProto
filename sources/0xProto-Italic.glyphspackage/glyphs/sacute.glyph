@@ -1,0 +1,35 @@
+{
+glyphname = sacute;
+layers = (
+{
+layerId = m01;
+shapes = (
+{
+ref = s;
+},
+{
+pos = (-21,0);
+ref = acutecomb;
+}
+);
+width = 620;
+},
+{
+associatedMasterId = m01;
+layerId = "55082107-1520-45A6-8DDC-ADB72C1BD8E9";
+name = "Jun 3, 24 at 23:05";
+shapes = (
+{
+ref = s.ss01;
+},
+{
+pos = (13,26);
+ref = acutecomb;
+}
+);
+visible = 1;
+width = 620;
+}
+);
+unicode = 347;
+}

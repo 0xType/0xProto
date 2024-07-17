@@ -1,0 +1,23 @@
+{
+glyphname = abrevedotbelow;
+layers = (
+{
+layerId = m01;
+shapes = (
+{
+ref = a;
+},
+{
+pos = (-4,0);
+ref = brevecomb;
+},
+{
+pos = (11,0);
+ref = dotbelowcomb;
+}
+);
+width = 620;
+}
+);
+unicode = 7863;
+}

@@ -1,0 +1,38 @@
+{
+glyphname = verticallinelowmod;
+layers = (
+{
+layerId = m01;
+shapes = (
+{
+closed = 1;
+nodes = (
+(240,160,l),
+(184,-200,l),
+(286,-200,l),
+(342,160,l)
+);
+}
+);
+width = 620;
+},
+{
+associatedMasterId = m01;
+layerId = "845DB7D3-1944-4C5A-8095-4E9C2B512029";
+name = "Apr 6, 24 at 15:17";
+shapes = (
+{
+closed = 1;
+nodes = (
+(260,160,l),
+(260,-200,l),
+(360,-200,l),
+(360,160,l)
+);
+}
+);
+width = 620;
+}
+);
+unicode = 716;
+}

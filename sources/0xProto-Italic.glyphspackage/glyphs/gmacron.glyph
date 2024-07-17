@@ -1,0 +1,34 @@
+{
+glyphname = gmacron;
+layers = (
+{
+layerId = m01;
+shapes = (
+{
+ref = g;
+},
+{
+pos = (5,0);
+ref = macroncomb;
+}
+);
+width = 620;
+},
+{
+associatedMasterId = m01;
+layerId = "AB53237D-8B39-44CC-9AC4-CD953B6E456B";
+name = "Dec 18, 23 at 15:23";
+shapes = (
+{
+ref = g;
+},
+{
+pos = (5,0);
+ref = macroncomb;
+}
+);
+width = 620;
+}
+);
+unicode = 7713;
+}

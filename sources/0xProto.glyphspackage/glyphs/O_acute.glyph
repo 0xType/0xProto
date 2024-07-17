@@ -1,0 +1,18 @@
+{
+glyphname = Oacute;
+layers = (
+{
+layerId = m01;
+shapes = (
+{
+ref = O;
+},
+{
+ref = acutecomb.case;
+}
+);
+width = 620;
+}
+);
+unicode = 211;
+}

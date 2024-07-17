@@ -1,0 +1,30 @@
+{
+glyphname = dieresiscomb_acutecomb;
+layers = (
+{
+anchors = (
+{
+name = _top;
+pos = (350,550);
+}
+);
+layerId = m01;
+shapes = (
+{
+closed = 1;
+nodes = (
+(350,788,l),
+(419,788,l),
+(512,900,l),
+(512,906,l),
+(415,906,l)
+);
+},
+{
+ref = dieresiscomb;
+}
+);
+width = 620;
+}
+);
+}

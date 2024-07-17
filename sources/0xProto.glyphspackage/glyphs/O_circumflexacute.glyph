@@ -1,0 +1,18 @@
+{
+glyphname = Ocircumflexacute;
+layers = (
+{
+layerId = m01;
+shapes = (
+{
+ref = O;
+},
+{
+ref = circumflexcomb_acutecomb.case;
+}
+);
+width = 620;
+}
+);
+unicode = 7888;
+}

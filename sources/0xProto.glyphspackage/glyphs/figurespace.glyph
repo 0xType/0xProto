@@ -1,0 +1,10 @@
+{
+glyphname = figurespace;
+layers = (
+{
+layerId = m01;
+width = 620;
+}
+);
+unicode = 8199;
+}

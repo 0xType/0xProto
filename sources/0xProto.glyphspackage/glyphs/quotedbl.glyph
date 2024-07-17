@@ -1,0 +1,30 @@
+{
+glyphname = quotedbl;
+layers = (
+{
+layerId = m01;
+shapes = (
+{
+closed = 1;
+nodes = (
+(180,438,l),
+(232,438,l),
+(269,710,l),
+(143,710,l)
+);
+},
+{
+closed = 1;
+nodes = (
+(388,438,l),
+(440,438,l),
+(477,710,l),
+(351,710,l)
+);
+}
+);
+width = 620;
+}
+);
+unicode = 34;
+}

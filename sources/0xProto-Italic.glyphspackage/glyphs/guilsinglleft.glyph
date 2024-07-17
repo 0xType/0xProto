@@ -1,0 +1,82 @@
+{
+glyphname = guilsinglleft;
+layers = (
+{
+layerId = m01;
+shapes = (
+{
+closed = 1;
+nodes = (
+(379,32,l),
+(437,83,l),
+(232,326,l),
+(174,275,l)
+);
+},
+{
+closed = 1;
+nodes = (
+(223,217,l),
+(504,460,l),
+(455,518,l),
+(174,275,l)
+);
+}
+);
+width = 620;
+},
+{
+associatedMasterId = m01;
+layerId = "1F4DE711-7518-49B6-9A6F-FF5604FC21F0";
+name = "Apr 4, 24 at 14:28";
+shapes = (
+{
+closed = 1;
+nodes = (
+(232,218,l),
+(475,461,l),
+(418,518,l),
+(175,275,l)
+);
+},
+{
+closed = 1;
+nodes = (
+(418,32,l),
+(475,89,l),
+(232,332,l),
+(175,275,l)
+);
+}
+);
+width = 620;
+},
+{
+associatedMasterId = m01;
+layerId = "129E2D75-C472-485B-98EE-8039D78C1239";
+name = "Apr 5, 24 at 20:30";
+shapes = (
+{
+closed = 1;
+nodes = (
+(226,214,l),
+(508,452,l),
+(455,513,l),
+(174,276,l)
+);
+},
+{
+closed = 1;
+nodes = (
+(379,27,l),
+(444,79,l),
+(238,326,l),
+(174,276,l)
+);
+}
+);
+width = 620;
+}
+);
+unicode = 8249;
+}

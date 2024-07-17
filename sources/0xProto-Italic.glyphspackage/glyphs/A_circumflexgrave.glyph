@@ -1,0 +1,19 @@
+{
+glyphname = Acircumflexgrave;
+layers = (
+{
+layerId = m01;
+shapes = (
+{
+ref = A;
+},
+{
+pos = (-15,0);
+ref = circumflexcomb_gravecomb.case;
+}
+);
+width = 620;
+}
+);
+unicode = 7846;
+}

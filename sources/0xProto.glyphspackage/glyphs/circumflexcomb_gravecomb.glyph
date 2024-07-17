@@ -1,0 +1,30 @@
+{
+glyphname = circumflexcomb_gravecomb;
+layers = (
+{
+anchors = (
+{
+name = _top;
+pos = (310,550);
+}
+);
+layerId = m01;
+shapes = (
+{
+ref = circumflexcomb;
+},
+{
+closed = 1;
+nodes = (
+(356,868,l),
+(356,862,l),
+(438,750,l),
+(508,750,l),
+(453,868,l)
+);
+}
+);
+width = 620;
+}
+);
+}

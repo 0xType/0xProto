@@ -1,0 +1,84 @@
+{
+glyphname = circumflexcomb_gravecomb;
+layers = (
+{
+anchors = (
+{
+name = _top;
+pos = (350,550);
+}
+);
+layerId = m01;
+shapes = (
+{
+ref = circumflexcomb;
+},
+{
+closed = 1;
+nodes = (
+(413,866,l),
+(413,860,l),
+(484,748,l),
+(540,748,l),
+(503,866,l)
+);
+}
+);
+width = 620;
+},
+{
+anchors = (
+{
+name = _top;
+pos = (310,550);
+}
+);
+associatedMasterId = m01;
+layerId = "A300924B-E84E-4E45-8196-370BD5F1B37F";
+name = "Mar 21, 24 at 19:00";
+shapes = (
+{
+ref = circumflexcomb;
+},
+{
+closed = 1;
+nodes = (
+(412,868,l),
+(412,862,l),
+(505,750,l),
+(574,750,l),
+(509,868,l)
+);
+}
+);
+width = 620;
+},
+{
+anchors = (
+{
+name = _top;
+pos = (350,550);
+}
+);
+associatedMasterId = m01;
+layerId = "255C5FCA-9193-4F1E-A833-7C8BA2E48B7E";
+name = "Mar 21, 24 at 19:20";
+shapes = (
+{
+ref = circumflexcomb;
+},
+{
+closed = 1;
+nodes = (
+(413,866,l),
+(413,860,l),
+(491,748,l),
+(552,748,l),
+(505,866,l)
+);
+}
+);
+width = 620;
+}
+);
+}

@@ -1,0 +1,34 @@
+{
+glyphname = kdotbelow;
+layers = (
+{
+layerId = m01;
+shapes = (
+{
+ref = k;
+},
+{
+pos = (19,0);
+ref = dotbelowcomb;
+}
+);
+width = 620;
+},
+{
+associatedMasterId = m01;
+layerId = "35569EFF-E442-43A0-9B15-E5C4972998CA";
+name = "Jun 3, 24 at 22:18";
+shapes = (
+{
+ref = k.ss01;
+},
+{
+pos = (20,0);
+ref = dotbelowcomb;
+}
+);
+width = 620;
+}
+);
+unicode = 7731;
+}

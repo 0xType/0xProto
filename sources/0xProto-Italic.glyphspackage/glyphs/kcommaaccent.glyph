@@ -1,0 +1,51 @@
+{
+glyphname = kcommaaccent;
+layers = (
+{
+layerId = m01;
+shapes = (
+{
+ref = k;
+},
+{
+pos = (19,0);
+ref = commaaccentcomb;
+}
+);
+width = 620;
+},
+{
+associatedMasterId = m01;
+layerId = "50C62E1B-9145-4BC6-8D51-443D0CD36872";
+name = "Jun 3, 24 at 22:18";
+shapes = (
+{
+ref = k.ss01;
+},
+{
+pos = (20,0);
+ref = commaaccentcomb;
+}
+);
+visible = 1;
+width = 620;
+},
+{
+associatedMasterId = m01;
+layerId = "D92CECA5-DDE4-406D-BF16-43801A0D71C8";
+name = "Jun 3, 24 at 22:19";
+shapes = (
+{
+pos = (20,0);
+ref = commaaccentcomb;
+},
+{
+ref = k;
+}
+);
+visible = 1;
+width = 620;
+}
+);
+unicode = 311;
+}

@@ -1,0 +1,73 @@
+{
+glyphname = brevecomb_acutecomb;
+layers = (
+{
+anchors = (
+{
+name = _top;
+pos = (350,550);
+}
+);
+layerId = m01;
+shapes = (
+{
+closed = 1;
+nodes = (
+(338,788,l),
+(407,788,l),
+(500,900,l),
+(500,906,l),
+(403,906,l)
+);
+},
+{
+ref = brevecomb;
+}
+);
+width = 620;
+},
+{
+anchors = (
+{
+name = _top;
+pos = (310,550);
+}
+);
+associatedMasterId = m01;
+layerId = "DEE7AAB5-1AB7-41F0-9F5D-43C36D87D415";
+name = "Mar 21, 24 at 16:30";
+shapes = (
+{
+closed = 1;
+nodes = (
+(273,788,l),
+(343,788,l),
+(425,900,l),
+(425,906,l),
+(328,906,l)
+);
+},
+{
+closed = 1;
+nodes = (
+(397,787,l),
+(396,727,o),
+(362,694,o),
+(310,694,cs),
+(257,694,o),
+(224,727,o),
+(223,787,c),
+(141,787,l),
+(142,689,o),
+(208,620,o),
+(310,620,cs),
+(409,620,o),
+(478,689,o),
+(479,787,c)
+);
+}
+);
+width = 620;
+}
+);
+}

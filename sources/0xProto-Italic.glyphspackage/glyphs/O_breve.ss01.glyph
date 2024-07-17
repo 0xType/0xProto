@@ -1,0 +1,34 @@
+{
+glyphname = Obreve.ss01;
+layers = (
+{
+layerId = m01;
+shapes = (
+{
+ref = O.ss01;
+},
+{
+pos = (2,0);
+ref = brevecomb.case;
+}
+);
+width = 620;
+},
+{
+associatedMasterId = m01;
+layerId = "325032A4-570F-46B7-AF46-6B3FE072804B";
+name = "Jun 4, 24 at 15:34";
+shapes = (
+{
+ref = O;
+},
+{
+pos = (14,0);
+ref = brevecomb.case;
+}
+);
+visible = 1;
+width = 620;
+}
+);
+}

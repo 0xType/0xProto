@@ -1,0 +1,30 @@
+{
+glyphname = dieresiscomb_gravecomb;
+layers = (
+{
+anchors = (
+{
+name = _top;
+pos = (310,550);
+}
+);
+layerId = m01;
+shapes = (
+{
+ref = dieresiscomb;
+},
+{
+closed = 1;
+nodes = (
+(195,906,l),
+(195,900,l),
+(277,788,l),
+(347,788,l),
+(292,906,l)
+);
+}
+);
+width = 620;
+}
+);
+}

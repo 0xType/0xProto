@@ -1,0 +1,47 @@
+{
+glyphname = Oslash.ss01;
+layers = (
+{
+layerId = m01;
+shapes = (
+{
+closed = 1;
+nodes = (
+(89,-86,l),
+(649,790,l),
+(649,796,l),
+(554,796,l),
+(-6,-80,l),
+(-6,-86,l)
+);
+},
+{
+ref = O.ss01;
+}
+);
+width = 620;
+},
+{
+associatedMasterId = m01;
+layerId = "F8D7FB5A-431C-4358-9867-FEEF64AA62DA";
+name = "Mar 24, 24 at 16:51";
+shapes = (
+{
+ref = O;
+},
+{
+closed = 1;
+nodes = (
+(114,-86,l),
+(598,790,l),
+(598,796,l),
+(506,796,l),
+(22,-80,l),
+(22,-86,l)
+);
+}
+);
+width = 620;
+}
+);
+}

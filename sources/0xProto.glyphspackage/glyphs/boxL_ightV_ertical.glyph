@@ -1,0 +1,21 @@
+{
+glyphname = boxLightVertical;
+layers = (
+{
+layerId = m01;
+shapes = (
+{
+closed = 1;
+nodes = (
+(344,1130,l),
+(276,1130,l),
+(276,-430,l),
+(344,-430,l)
+);
+}
+);
+width = 620;
+}
+);
+unicode = 9474;
+}

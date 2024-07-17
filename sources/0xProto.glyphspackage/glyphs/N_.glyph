@@ -1,0 +1,50 @@
+{
+glyphname = N;
+layers = (
+{
+anchors = (
+{
+name = bottom;
+pos = (310,0);
+},
+{
+name = top;
+pos = (310,710);
+}
+);
+layerId = m01;
+name = Regular;
+shapes = (
+{
+closed = 1;
+nodes = (
+(177,710,l),
+(63,710,l),
+(447,0,l),
+(557,0,l)
+);
+},
+{
+closed = 1;
+nodes = (
+(56,0,l),
+(154,0,l),
+(154,710,l),
+(56,710,l)
+);
+},
+{
+closed = 1;
+nodes = (
+(466,0,l),
+(564,0,l),
+(564,710,l),
+(466,710,l)
+);
+}
+);
+width = 620;
+}
+);
+unicode = 78;
+}

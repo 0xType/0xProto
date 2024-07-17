@@ -1,0 +1,21 @@
+{
+glyphname = boxHeavyDown;
+layers = (
+{
+layerId = m01;
+shapes = (
+{
+closed = 1;
+nodes = (
+(395,314,l),
+(225,314,l),
+(225,-430,l),
+(395,-430,l)
+);
+}
+);
+width = 620;
+}
+);
+unicode = 9595;
+}

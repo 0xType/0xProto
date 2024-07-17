@@ -1,0 +1,34 @@
+{
+glyphname = kmacronbelow;
+layers = (
+{
+layerId = m01;
+shapes = (
+{
+ref = k;
+},
+{
+pos = (19,0);
+ref = macronbelowcomb;
+}
+);
+width = 620;
+},
+{
+associatedMasterId = m01;
+layerId = "D964694E-65A3-436B-A7F7-7F2EE51A282E";
+name = "Jun 3, 24 at 22:18";
+shapes = (
+{
+ref = k.ss01;
+},
+{
+pos = (20,0);
+ref = macronbelowcomb;
+}
+);
+width = 620;
+}
+);
+unicode = 7733;
+}

@@ -1,0 +1,39 @@
+{
+glyphname = boxHeavyTripleDashVertical;
+layers = (
+{
+layerId = m01;
+shapes = (
+{
+closed = 1;
+nodes = (
+(394,1130,l),
+(226,1130,l),
+(226,825,l),
+(394,825,l)
+);
+},
+{
+closed = 1;
+nodes = (
+(394,-125,l),
+(226,-125,l),
+(226,-430,l),
+(394,-430,l)
+);
+},
+{
+closed = 1;
+nodes = (
+(394,620,l),
+(226,620,l),
+(226,80,l),
+(394,80,l)
+);
+}
+);
+width = 620;
+}
+);
+unicode = 9479;
+}

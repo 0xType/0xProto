@@ -1,0 +1,21 @@
+{
+glyphname = circumflexcomb_acutecomb.case;
+layers = (
+{
+anchors = (
+{
+name = _top;
+pos = (310,710);
+}
+);
+layerId = m01;
+shapes = (
+{
+pos = (0,148);
+ref = circumflexcomb_acutecomb;
+}
+);
+width = 620;
+}
+);
+}

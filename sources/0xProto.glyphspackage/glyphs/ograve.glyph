@@ -1,0 +1,18 @@
+{
+glyphname = ograve;
+layers = (
+{
+layerId = m01;
+shapes = (
+{
+ref = o;
+},
+{
+ref = gravecomb;
+}
+);
+width = 620;
+}
+);
+unicode = 242;
+}

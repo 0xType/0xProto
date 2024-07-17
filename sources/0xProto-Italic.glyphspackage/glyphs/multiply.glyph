@@ -1,0 +1,56 @@
+{
+glyphname = multiply;
+layers = (
+{
+layerId = m01;
+shapes = (
+{
+closed = 1;
+nodes = (
+(546,446,l),
+(488,511,l),
+(82,158,l),
+(140,93,l)
+);
+},
+{
+closed = 1;
+nodes = (
+(498,151,l),
+(201,510,l),
+(131,450,l),
+(428,91,l)
+);
+}
+);
+width = 620;
+},
+{
+associatedMasterId = m01;
+layerId = "608E814B-E74B-44F3-85DB-16E364C0440F";
+name = "Apr 4, 24 at 16:27";
+shapes = (
+{
+closed = 1;
+nodes = (
+(518,448,l),
+(456,510,l),
+(101,155,l),
+(163,93,l)
+);
+},
+{
+closed = 1;
+nodes = (
+(519,156,l),
+(164,511,l),
+(101,448,l),
+(456,93,l)
+);
+}
+);
+width = 620;
+}
+);
+unicode = 215;
+}

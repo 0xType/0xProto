@@ -1,0 +1,24 @@
+{
+glyphname = Tbar;
+layers = (
+{
+layerId = m01;
+shapes = (
+{
+ref = T;
+},
+{
+closed = 1;
+nodes = (
+(115,330,l),
+(527,330,l),
+(539,404,l),
+(127,404,l)
+);
+}
+);
+width = 620;
+}
+);
+unicode = 358;
+}

@@ -1,0 +1,19 @@
+{
+glyphname = Hbrevebelow;
+layers = (
+{
+layerId = m01;
+shapes = (
+{
+ref = H;
+},
+{
+pos = (15,0);
+ref = brevebelowcomb.case;
+}
+);
+width = 620;
+}
+);
+unicode = 7722;
+}

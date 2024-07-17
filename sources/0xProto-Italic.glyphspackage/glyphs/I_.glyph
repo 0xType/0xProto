@@ -1,0 +1,102 @@
+{
+glyphname = I;
+layers = (
+{
+anchors = (
+{
+name = bottom;
+pos = (259,0);
+},
+{
+name = ogonek;
+pos = (486,0);
+},
+{
+name = top;
+pos = (376,710);
+}
+);
+layerId = m01;
+shapes = (
+{
+closed = 1;
+nodes = (
+(317,0,l),
+(428,710,l),
+(328,710,l),
+(217,0,l)
+);
+},
+{
+closed = 1;
+nodes = (
+(594,710,l),
+(162,710,l),
+(148,622,l),
+(580,622,l)
+);
+},
+{
+closed = 1;
+nodes = (
+(500,88,l),
+(60,88,l),
+(49,0,l),
+(486,0,l)
+);
+}
+);
+width = 620;
+},
+{
+anchors = (
+{
+name = bottom;
+pos = (310,0);
+},
+{
+name = ogonek;
+pos = (530,0);
+},
+{
+name = top;
+pos = (310,710);
+}
+);
+associatedMasterId = m01;
+layerId = "E9761788-DFDD-42B6-AC40-C1366D71F85B";
+name = "Mar 19, 24 at 13:09";
+shapes = (
+{
+closed = 1;
+nodes = (
+(359,0,l),
+(359,710,l),
+(261,710,l),
+(261,0,l)
+);
+},
+{
+closed = 1;
+nodes = (
+(525,710,l),
+(95,710,l),
+(95,622,l),
+(525,622,l)
+);
+},
+{
+closed = 1;
+nodes = (
+(530,88,l),
+(90,88,l),
+(90,0,l),
+(530,0,l)
+);
+}
+);
+width = 620;
+}
+);
+unicode = 73;
+}

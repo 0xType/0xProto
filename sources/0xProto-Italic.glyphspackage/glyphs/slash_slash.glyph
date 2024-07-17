@@ -1,0 +1,50 @@
+{
+glyphname = slash_slash;
+layers = (
+{
+layerId = m01;
+shapes = (
+{
+pos = (-101,0);
+ref = slash;
+},
+{
+pos = (-534,0);
+ref = slash;
+}
+);
+width = 620;
+},
+{
+associatedMasterId = m01;
+layerId = "BAA13F59-C616-4275-A95E-9ADA5FCA8747";
+name = "Apr 8, 24 at 20:30";
+shapes = (
+{
+closed = 1;
+nodes = (
+(-408,-110,l),
+(-408,-120,l),
+(-307,-120,l),
+(-42,740,l),
+(-42,750,l),
+(-143,750,l)
+);
+},
+{
+closed = 1;
+nodes = (
+(24,-110,l),
+(24,-120,l),
+(125,-120,l),
+(390,740,l),
+(390,750,l),
+(289,750,l)
+);
+}
+);
+visible = 1;
+width = 620;
+}
+);
+}

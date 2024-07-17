@@ -1,0 +1,21 @@
+{
+glyphname = dieresiscomb_macroncomb.case;
+layers = (
+{
+anchors = (
+{
+name = _top;
+pos = (310,710);
+}
+);
+layerId = m01;
+shapes = (
+{
+pos = (0,147);
+ref = dieresiscomb_macroncomb;
+}
+);
+width = 620;
+}
+);
+}

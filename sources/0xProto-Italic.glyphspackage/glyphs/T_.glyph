@@ -1,0 +1,76 @@
+{
+glyphname = T;
+layers = (
+{
+anchors = (
+{
+name = bottom;
+pos = (263,0);
+},
+{
+name = top;
+pos = (377,710);
+}
+);
+layerId = m01;
+shapes = (
+{
+closed = 1;
+nodes = (
+(315,0,l),
+(428,710,l),
+(330,710,l),
+(217,0,l)
+);
+},
+{
+closed = 1;
+nodes = (
+(639,710,l),
+(119,710,l),
+(104,622,l),
+(624,622,l)
+);
+}
+);
+width = 620;
+},
+{
+anchors = (
+{
+name = bottom;
+pos = (310,0);
+},
+{
+name = top;
+pos = (310,710);
+}
+);
+associatedMasterId = m01;
+layerId = "FE149757-6680-456F-B753-5C90B7422A05";
+name = "Mar 19, 24 at 20:50";
+shapes = (
+{
+closed = 1;
+nodes = (
+(359,0,l),
+(359,710,l),
+(261,710,l),
+(261,0,l)
+);
+},
+{
+closed = 1;
+nodes = (
+(570,710,l),
+(50,710,l),
+(50,622,l),
+(570,622,l)
+);
+}
+);
+width = 620;
+}
+);
+unicode = 84;
+}

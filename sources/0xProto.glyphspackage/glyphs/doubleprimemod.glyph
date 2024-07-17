@@ -1,0 +1,15 @@
+{
+glyphname = doubleprimemod;
+layers = (
+{
+layerId = m01;
+shapes = (
+{
+ref = quotedbl;
+}
+);
+width = 620;
+}
+);
+unicode = 698;
+}

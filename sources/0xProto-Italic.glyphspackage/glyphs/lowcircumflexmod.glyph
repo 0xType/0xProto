@@ -1,0 +1,15 @@
+{
+glyphname = lowcircumflexmod;
+layers = (
+{
+layerId = m01;
+shapes = (
+{
+ref = circumflexbelowcomb;
+}
+);
+width = 620;
+}
+);
+unicode = 42888;
+}
