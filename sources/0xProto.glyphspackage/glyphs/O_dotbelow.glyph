@@ -1,0 +1,18 @@
+{
+glyphname = Odotbelow;
+layers = (
+{
+layerId = m01;
+shapes = (
+{
+ref = O;
+},
+{
+ref = dotbelowcomb.case;
+}
+);
+width = 620;
+}
+);
+unicode = 7884;
+}

@@ -1,0 +1,19 @@
+{
+glyphname = icaron;
+layers = (
+{
+layerId = m01;
+shapes = (
+{
+ref = idotless;
+},
+{
+pos = (-25,0);
+ref = caroncomb;
+}
+);
+width = 620;
+}
+);
+unicode = 464;
+}

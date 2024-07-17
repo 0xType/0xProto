@@ -1,0 +1,28 @@
+{
+glyphname = oslash;
+layers = (
+{
+layerId = m01;
+name = Italic;
+shapes = (
+{
+closed = 1;
+nodes = (
+(89,-86,l),
+(615,631,l),
+(615,637,l),
+(523,637,l),
+(-3,-80,l),
+(-3,-86,l)
+);
+},
+{
+ref = o;
+}
+);
+visible = 1;
+width = 620;
+}
+);
+unicode = 248;
+}

@@ -1,0 +1,48 @@
+{
+glyphname = i;
+layers = (
+{
+layerId = m01;
+shapes = (
+{
+ref = idotless;
+},
+{
+closed = 1;
+nodes = (
+(355,606,o),
+(390,641,o),
+(390,686,cs),
+(390,730,o),
+(355,766,o),
+(310,766,cs),
+(267,766,o),
+(230,730,o),
+(230,686,cs),
+(230,641,o),
+(267,606,o),
+(310,606,cs)
+);
+}
+);
+width = 620;
+},
+{
+associatedMasterId = m01;
+layerId = "9F82D5BB-E4D4-4B8F-B467-8293525EE44A";
+name = "Nov 21, 23 at 19:56";
+shapes = (
+{
+ref = idotless;
+},
+{
+pos = (-10,0);
+ref = dotaccentcomb;
+}
+);
+visible = 1;
+width = 620;
+}
+);
+unicode = 105;
+}

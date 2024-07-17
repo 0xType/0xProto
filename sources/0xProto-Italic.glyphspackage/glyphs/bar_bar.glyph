@@ -1,0 +1,46 @@
+{
+glyphname = bar_bar;
+layers = (
+{
+layerId = m01;
+shapes = (
+{
+pos = (-100,0);
+ref = bar;
+},
+{
+pos = (-525,0);
+ref = bar;
+}
+);
+width = 620;
+},
+{
+associatedMasterId = m01;
+layerId = "E5F73743-1836-4433-BA85-C79883FE2218";
+name = "Apr 8, 24 at 23:05";
+shapes = (
+{
+closed = 1;
+nodes = (
+(-260,766,l),
+(-260,-160,l),
+(-162,-160,l),
+(-162,766,l)
+);
+},
+{
+closed = 1;
+nodes = (
+(162,766,l),
+(162,-160,l),
+(260,-160,l),
+(260,766,l)
+);
+}
+);
+visible = 1;
+width = 620;
+}
+);
+}

@@ -1,0 +1,36 @@
+{
+glyphname = ohungarumlaut;
+layers = (
+{
+layerId = m01;
+name = Regular;
+shapes = (
+{
+ref = o;
+},
+{
+pos = (15,0);
+ref = hungarumlautcomb;
+}
+);
+width = 620;
+},
+{
+associatedMasterId = m01;
+layerId = "04AE6F85-27F3-434C-8F1F-85C23D18F46B";
+name = "Jun 4, 24 at 15:24";
+shapes = (
+{
+ref = o.ss01;
+},
+{
+pos = (5,0);
+ref = hungarumlautcomb;
+}
+);
+visible = 1;
+width = 620;
+}
+);
+unicode = 337;
+}

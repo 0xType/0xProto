@@ -1,0 +1,19 @@
+{
+glyphname = udieresisgrave;
+layers = (
+{
+layerId = m01;
+shapes = (
+{
+ref = u;
+},
+{
+pos = (-20,0);
+ref = dieresiscomb_gravecomb;
+}
+);
+width = 620;
+}
+);
+unicode = 476;
+}

@@ -1,0 +1,35 @@
+{
+glyphname = lcaron;
+layers = (
+{
+layerId = m01;
+shapes = (
+{
+ref = l;
+},
+{
+pos = (5,0);
+ref = caroncomb.alt;
+}
+);
+width = 620;
+},
+{
+associatedMasterId = m01;
+layerId = "CCB1A876-9F63-4C56-BDC5-2BBB64F66427";
+name = "Jun 3, 24 at 22:28";
+shapes = (
+{
+pos = (61,0);
+ref = caroncomb.alt;
+},
+{
+pos = (-24,0);
+ref = l.ss01;
+}
+);
+width = 620;
+}
+);
+unicode = 318;
+}

@@ -1,8 +1,0 @@
-<?xml version='1.0' encoding='UTF-8'?>
-<glyph name="less_plus" format="2">
-  <advance width="620"/>
-  <outline>
-    <component base="less" xOffset="-559"/>
-    <component base="plus" xOffset="-77"/>
-  </outline>
-</glyph>

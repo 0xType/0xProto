@@ -1,0 +1,21 @@
+{
+glyphname = caroncomb.alt.case;
+layers = (
+{
+anchors = (
+{
+name = _topright;
+pos = (357,750);
+}
+);
+layerId = m01;
+shapes = (
+{
+pos = (0,-20);
+ref = caroncomb.alt;
+}
+);
+width = 620;
+}
+);
+}

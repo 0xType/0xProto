@@ -1,0 +1,39 @@
+{
+glyphname = boxUpSingleAndRightDouble;
+layers = (
+{
+layerId = m01;
+shapes = (
+{
+closed = 1;
+nodes = (
+(344,1130,l),
+(276,1130,l),
+(276,246,l),
+(344,246,l)
+);
+},
+{
+closed = 1;
+nodes = (
+(276,450,l),
+(276,382,l),
+(630,382,l),
+(630,450,l)
+);
+},
+{
+closed = 1;
+nodes = (
+(276,314,l),
+(276,246,l),
+(630,246,l),
+(630,314,l)
+);
+}
+);
+width = 620;
+}
+);
+unicode = 9560;
+}

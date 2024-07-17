@@ -1,0 +1,49 @@
+{
+glyphname = H;
+layers = (
+{
+anchors = (
+{
+name = bottom;
+pos = (310,0);
+},
+{
+name = top;
+pos = (310,710);
+}
+);
+layerId = m01;
+shapes = (
+{
+closed = 1;
+nodes = (
+(80,0,l),
+(178,0,l),
+(178,710,l),
+(80,710,l)
+);
+},
+{
+closed = 1;
+nodes = (
+(442,0,l),
+(540,0,l),
+(540,710,l),
+(442,710,l)
+);
+},
+{
+closed = 1;
+nodes = (
+(97,414,l),
+(97,326,l),
+(511,326,l),
+(511,414,l)
+);
+}
+);
+width = 620;
+}
+);
+unicode = 72;
+}

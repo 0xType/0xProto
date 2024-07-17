@@ -1,0 +1,19 @@
+{
+glyphname = Ohornhookabove;
+layers = (
+{
+layerId = m01;
+shapes = (
+{
+ref = Ohorn;
+},
+{
+pos = (14,0);
+ref = hookabovecomb.case;
+}
+);
+width = 620;
+}
+);
+unicode = 7902;
+}

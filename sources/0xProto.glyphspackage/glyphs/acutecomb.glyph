@@ -1,0 +1,32 @@
+{
+glyphname = acutecomb;
+layers = (
+{
+anchors = (
+{
+name = _top;
+pos = (310,550);
+},
+{
+name = top;
+pos = (310,786);
+}
+);
+layerId = m01;
+shapes = (
+{
+closed = 1;
+nodes = (
+(272,628,l),
+(343,628,l),
+(448,780,l),
+(448,786,l),
+(334,786,l)
+);
+}
+);
+width = 620;
+}
+);
+unicode = 769;
+}

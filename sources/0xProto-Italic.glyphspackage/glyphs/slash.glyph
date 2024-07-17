@@ -1,0 +1,42 @@
+{
+glyphname = slash;
+layers = (
+{
+layerId = m01;
+shapes = (
+{
+closed = 1;
+nodes = (
+(63,-110,l),
+(62,-120,l),
+(167,-120,l),
+(567,740,l),
+(568,750,l),
+(463,750,l)
+);
+}
+);
+width = 620;
+},
+{
+associatedMasterId = m01;
+layerId = "92C98C92-4E04-4C1A-8520-9D996BD5501E";
+name = "Apr 5, 24 at 22:02";
+shapes = (
+{
+closed = 1;
+nodes = (
+(107,-110,l),
+(107,-120,l),
+(208,-120,l),
+(473,740,l),
+(473,750,l),
+(372,750,l)
+);
+}
+);
+width = 620;
+}
+);
+unicode = 47;
+}

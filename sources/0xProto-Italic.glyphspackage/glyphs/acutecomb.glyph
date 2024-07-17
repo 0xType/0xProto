@@ -1,0 +1,52 @@
+{
+glyphname = acutecomb;
+layers = (
+{
+anchors = (
+{
+name = _top;
+pos = (350,550);
+}
+);
+layerId = m01;
+shapes = (
+{
+closed = 1;
+nodes = (
+(324,628,l),
+(396,628,l),
+(510,780,l),
+(510,786,l),
+(395,786,l)
+);
+}
+);
+width = 620;
+},
+{
+anchors = (
+{
+name = _top;
+pos = (310,550);
+}
+);
+associatedMasterId = m01;
+layerId = "D48EA78D-5628-447C-A31E-BEDA7ED27E10";
+name = "Mar 21, 24 at 16:08";
+shapes = (
+{
+closed = 1;
+nodes = (
+(272,628,l),
+(343,628,l),
+(448,780,l),
+(448,786,l),
+(334,786,l)
+);
+}
+);
+width = 620;
+}
+);
+unicode = 769;
+}

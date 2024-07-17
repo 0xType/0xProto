@@ -1,0 +1,95 @@
+{
+glyphname = H;
+layers = (
+{
+anchors = (
+{
+name = bottom;
+pos = (265,0);
+},
+{
+name = top;
+pos = (372,710);
+}
+);
+layerId = m01;
+name = Regular;
+shapes = (
+{
+closed = 1;
+nodes = (
+(162,415,l),
+(154,325,l),
+(528,325,l),
+(536,415,l)
+);
+},
+{
+closed = 1;
+nodes = (
+(33,0,l),
+(134,0,l),
+(247,710,l),
+(146,710,l)
+);
+},
+{
+closed = 1;
+nodes = (
+(398,0,l),
+(499,0,l),
+(612,710,l),
+(511,710,l)
+);
+}
+);
+width = 620;
+},
+{
+anchors = (
+{
+name = bottom;
+pos = (310,0);
+},
+{
+name = top;
+pos = (310,710);
+}
+);
+associatedMasterId = m01;
+layerId = "A6D5094F-447F-4480-90EA-72F053CB71FB";
+name = "Feb 12, 24 at 13:03";
+shapes = (
+{
+closed = 1;
+nodes = (
+(80,0,l),
+(178,0,l),
+(178,710,l),
+(80,710,l)
+);
+},
+{
+closed = 1;
+nodes = (
+(442,0,l),
+(540,0,l),
+(540,710,l),
+(442,710,l)
+);
+},
+{
+closed = 1;
+nodes = (
+(97,414,l),
+(97,326,l),
+(511,326,l),
+(511,414,l)
+);
+}
+);
+width = 620;
+}
+);
+unicode = 72;
+}

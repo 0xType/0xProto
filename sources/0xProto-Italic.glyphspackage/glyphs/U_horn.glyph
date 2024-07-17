@@ -1,0 +1,127 @@
+{
+glyphname = Uhorn;
+layers = (
+{
+anchors = (
+{
+name = bottom;
+pos = (241,0);
+},
+{
+name = top;
+pos = (352,710);
+}
+);
+layerId = m01;
+shapes = (
+{
+closed = 1;
+nodes = (
+(426,277,ls),
+(404,142,o),
+(346,83,o),
+(265,83,cs),
+(183,83,o),
+(134,157,o),
+(155,287,cs),
+(222,710,l),
+(120,710,l),
+(52,287,ls),
+(19,82,o),
+(142,-15,o),
+(255,-15,cs),
+(384,-15,o),
+(493,63,o),
+(528,277,cs),
+(598,710,l),
+(496,710,l)
+);
+},
+{
+pos = (273,0);
+ref = horncomb.case;
+}
+);
+width = 620;
+},
+{
+anchors = (
+{
+name = bottom;
+pos = (277,-15);
+},
+{
+name = top;
+pos = (277,710);
+},
+{
+name = topright;
+pos = (469,710);
+}
+);
+associatedMasterId = m01;
+layerId = "9EC575F0-7DFE-418F-BA73-413487401ADF";
+name = "Mar 26, 24 at 13:27";
+shapes = (
+{
+closed = 1;
+nodes = (
+(490,277,l),
+(490,139,o),
+(426,82,o),
+(352,82,c),
+(278,82,o),
+(215,139,o),
+(215,277,c),
+(215,710,l),
+(115,710,l),
+(115,277,ls),
+(115,55,o),
+(243,-15,o),
+(352,-15,c),
+(461,-15,o),
+(590,55,o),
+(590,277,cs),
+(590,710,l),
+(490,710,l)
+);
+},
+{
+pos = (226,-51);
+ref = horncomb.case;
+}
+);
+width = 620;
+},
+{
+anchors = (
+{
+name = bottom;
+pos = (280,0);
+},
+{
+name = ogonek;
+pos = (370,0);
+},
+{
+name = top;
+pos = (373,710);
+},
+{
+name = topright;
+pos = (623,710);
+}
+);
+associatedMasterId = m01;
+layerId = "BEF7A3B6-5C30-4CBF-9221-E0FD10BD705F";
+name = "Mar 26, 24 at 13:31";
+shapes = (
+{
+ref = U;
+}
+);
+width = 620;
+}
+);
+unicode = 431;
+}

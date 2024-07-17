@@ -1,0 +1,15 @@
+{
+glyphname = primemod;
+layers = (
+{
+layerId = m01;
+shapes = (
+{
+ref = quotesingle;
+}
+);
+width = 620;
+}
+);
+unicode = 697;
+}

@@ -1,0 +1,14 @@
+{
+glyphname = commaaccentcomb.case;
+layers = (
+{
+layerId = m01;
+shapes = (
+{
+ref = commaaccentcomb;
+}
+);
+width = 620;
+}
+);
+}

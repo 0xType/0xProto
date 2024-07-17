@@ -1,0 +1,21 @@
+{
+glyphname = ohorntilde;
+layers = (
+{
+layerId = m01;
+name = Italic;
+shapes = (
+{
+ref = ohorn;
+},
+{
+pos = (15,0);
+ref = tildecomb;
+}
+);
+visible = 1;
+width = 620;
+}
+);
+unicode = 7905;
+}

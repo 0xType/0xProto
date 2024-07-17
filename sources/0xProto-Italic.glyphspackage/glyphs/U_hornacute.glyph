@@ -1,0 +1,29 @@
+{
+glyphname = Uhornacute;
+layers = (
+{
+anchors = (
+{
+name = bottom;
+pos = (276,-15);
+},
+{
+name = top;
+pos = (276,710);
+}
+);
+layerId = m01;
+shapes = (
+{
+ref = Uhorn;
+},
+{
+pos = (-18,0);
+ref = acutecomb.case;
+}
+);
+width = 620;
+}
+);
+unicode = 7912;
+}

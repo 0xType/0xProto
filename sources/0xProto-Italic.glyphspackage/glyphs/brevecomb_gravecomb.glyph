@@ -1,0 +1,57 @@
+{
+glyphname = brevecomb_gravecomb;
+layers = (
+{
+anchors = (
+{
+name = _top;
+pos = (350,550);
+}
+);
+layerId = m01;
+shapes = (
+{
+ref = brevecomb;
+},
+{
+closed = 1;
+nodes = (
+(255,906,l),
+(255,900,l),
+(348,788,l),
+(417,788,l),
+(352,906,l)
+);
+}
+);
+width = 620;
+},
+{
+anchors = (
+{
+name = _top;
+pos = (310,550);
+}
+);
+associatedMasterId = m01;
+layerId = "C63189CA-B71C-42EA-9EFD-4A64EAC9B00D";
+name = "Mar 21, 24 at 18:23";
+shapes = (
+{
+ref = brevecomb;
+},
+{
+closed = 1;
+nodes = (
+(195,906,l),
+(195,900,l),
+(277,788,l),
+(347,788,l),
+(292,906,l)
+);
+}
+);
+width = 620;
+}
+);
+}

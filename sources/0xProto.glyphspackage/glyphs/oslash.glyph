@@ -1,0 +1,48 @@
+{
+glyphname = oslash;
+layers = (
+{
+layerId = m01;
+shapes = (
+{
+ref = o;
+},
+{
+closed = 1;
+nodes = (
+(124,-86,l),
+(588,631,l),
+(588,637,l),
+(496,637,l),
+(32,-80,l),
+(32,-86,l)
+);
+}
+);
+width = 620;
+},
+{
+associatedMasterId = m01;
+layerId = "D893B254-7D46-46F1-AC15-920F4EF9107C";
+name = "Nov 1, 23 at 21:20";
+shapes = (
+{
+ref = o;
+},
+{
+closed = 1;
+nodes = (
+(116,-46,l),
+(596,590,l),
+(596,596,l),
+(504,596,l),
+(24,-40,l),
+(24,-46,l)
+);
+}
+);
+width = 620;
+}
+);
+unicode = 248;
+}

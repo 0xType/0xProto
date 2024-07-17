@@ -1,0 +1,29 @@
+{
+glyphname = Uhorntilde;
+layers = (
+{
+anchors = (
+{
+name = bottom;
+pos = (276,-15);
+},
+{
+name = top;
+pos = (276,710);
+}
+);
+layerId = m01;
+shapes = (
+{
+ref = Uhorn;
+},
+{
+pos = (-33,0);
+ref = tildecomb.case;
+}
+);
+width = 620;
+}
+);
+unicode = 7918;
+}

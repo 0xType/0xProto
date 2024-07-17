@@ -1,0 +1,44 @@
+{
+glyphname = Hbar;
+layers = (
+{
+layerId = m01;
+shapes = (
+{
+ref = H;
+},
+{
+closed = 1;
+nodes = (
+(54,530,l),
+(646,530,l),
+(658,604,l),
+(66,604,l)
+);
+}
+);
+width = 620;
+},
+{
+associatedMasterId = m01;
+layerId = "37AB2560-C1FE-4B74-83CB-A5B365704185";
+name = "Mar 27, 24 at 16:14";
+shapes = (
+{
+ref = H;
+},
+{
+closed = 1;
+nodes = (
+(14,530,l),
+(606,530,l),
+(606,604,l),
+(14,604,l)
+);
+}
+);
+width = 620;
+}
+);
+unicode = 294;
+}

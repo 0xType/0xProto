@@ -1,0 +1,48 @@
+{
+glyphname = lslash;
+layers = (
+{
+layerId = m01;
+shapes = (
+{
+ref = l;
+},
+{
+closed = 1;
+nodes = (
+(450,540,l),
+(72,317,l),
+(72,225,l),
+(78,225,l),
+(456,448,l),
+(456,540,l)
+);
+}
+);
+width = 620;
+},
+{
+associatedMasterId = m01;
+layerId = "17DEF9D9-66CA-4D14-88B8-4C028DB82D64";
+name = "Dec 11, 23 at 15:11";
+shapes = (
+{
+ref = l;
+},
+{
+closed = 1;
+nodes = (
+(460,565,l),
+(62,332,l),
+(62,240,l),
+(68,240,l),
+(466,473,l),
+(466,565,l)
+);
+}
+);
+width = 620;
+}
+);
+unicode = 322;
+}

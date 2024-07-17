@@ -1,0 +1,39 @@
+{
+glyphname = hyphen;
+layers = (
+{
+layerId = m01;
+shapes = (
+{
+closed = 1;
+nodes = (
+(116,350,l),
+(103,264,l),
+(513,264,l),
+(526,350,l)
+);
+}
+);
+width = 620;
+},
+{
+associatedMasterId = m01;
+layerId = "F38AEE56-5F9A-4EDC-94B5-D25B1500326F";
+name = "Apr 2, 24 at 15:37";
+shapes = (
+{
+closed = 1;
+nodes = (
+(105,350,l),
+(105,264,l),
+(515,264,l),
+(515,350,l)
+);
+}
+);
+visible = 1;
+width = 620;
+}
+);
+unicode = 45;
+}

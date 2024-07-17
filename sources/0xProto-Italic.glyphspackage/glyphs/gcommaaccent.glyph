@@ -1,0 +1,19 @@
+{
+glyphname = gcommaaccent;
+layers = (
+{
+layerId = m01;
+shapes = (
+{
+ref = g;
+},
+{
+pos = (5,0);
+ref = commaturnedabovecomb;
+}
+);
+width = 620;
+}
+);
+unicode = 291;
+}

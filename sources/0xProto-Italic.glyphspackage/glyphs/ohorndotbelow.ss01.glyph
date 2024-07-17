@@ -1,0 +1,22 @@
+{
+glyphname = ohorndotbelow.ss01;
+layers = (
+{
+layerId = m01;
+shapes = (
+{
+ref = o.ss01;
+},
+{
+pos = (225,-27);
+ref = horncomb;
+},
+{
+pos = (1,0);
+ref = dotbelowcomb;
+}
+);
+width = 620;
+}
+);
+}

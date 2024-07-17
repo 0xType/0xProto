@@ -1,0 +1,10 @@
+{
+glyphname = punctuationspace;
+layers = (
+{
+layerId = m01;
+width = 620;
+}
+);
+unicode = 8200;
+}

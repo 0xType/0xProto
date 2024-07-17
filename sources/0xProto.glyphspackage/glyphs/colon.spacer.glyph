@@ -1,0 +1,9 @@
+{
+glyphname = colon.spacer;
+layers = (
+{
+layerId = m01;
+width = 620;
+}
+);
+}

@@ -1,0 +1,68 @@
+{
+glyphname = dieresiscomb;
+layers = (
+{
+anchors = (
+{
+name = _top;
+pos = (310,555);
+}
+);
+layerId = m01;
+shapes = (
+{
+closed = 1;
+nodes = (
+(153,637,l),
+(266,637,l),
+(266,750,l),
+(153,750,l)
+);
+},
+{
+closed = 1;
+nodes = (
+(354,637,l),
+(467,637,l),
+(467,750,l),
+(354,750,l)
+);
+}
+);
+width = 620;
+},
+{
+anchors = (
+{
+name = _top;
+pos = (310,555);
+}
+);
+associatedMasterId = m01;
+layerId = "BB3CB85B-7464-4E2E-BE61-247957051346";
+name = "Apr 19, 24 at 16:55";
+shapes = (
+{
+closed = 1;
+nodes = (
+(158,639,l),
+(264,639,l),
+(264,745,l),
+(158,745,l)
+);
+},
+{
+closed = 1;
+nodes = (
+(356,639,l),
+(462,639,l),
+(462,745,l),
+(356,745,l)
+);
+}
+);
+width = 620;
+}
+);
+unicode = 776;
+}

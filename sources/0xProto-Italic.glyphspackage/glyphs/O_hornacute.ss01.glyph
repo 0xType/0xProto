@@ -1,0 +1,18 @@
+{
+glyphname = Ohornacute.ss01;
+layers = (
+{
+layerId = m01;
+shapes = (
+{
+ref = Ohorn.ss01;
+},
+{
+pos = (2,0);
+ref = acutecomb.case;
+}
+);
+width = 620;
+}
+);
+}

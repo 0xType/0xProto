@@ -1,0 +1,19 @@
+{
+glyphname = ymacron;
+layers = (
+{
+layerId = m01;
+shapes = (
+{
+ref = y;
+},
+{
+pos = (13,0);
+ref = macroncomb;
+}
+);
+width = 620;
+}
+);
+unicode = 563;
+}

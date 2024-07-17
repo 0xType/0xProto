@@ -1,9 +1,0 @@
-<?xml version='1.0' encoding='UTF-8'?>
-<glyph name="kdotbelow" format="2">
-  <advance width="620"/>
-  <unicode hex="1E33"/>
-  <outline>
-    <component base="k.ss01"/>
-    <component base="dotbelowcomb" xOffset="20"/>
-  </outline>
-</glyph>

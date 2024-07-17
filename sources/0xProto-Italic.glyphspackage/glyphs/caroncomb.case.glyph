@@ -1,0 +1,43 @@
+{
+glyphname = caroncomb.case;
+layers = (
+{
+anchors = (
+{
+name = _top;
+pos = (360,710);
+}
+);
+layerId = m01;
+shapes = (
+{
+pos = (23,148);
+ref = caroncomb;
+}
+);
+width = 620;
+},
+{
+anchors = (
+{
+name = _top;
+pos = (360,710);
+},
+{
+name = top;
+pos = (310,934);
+}
+);
+associatedMasterId = m01;
+layerId = "12B0D916-2578-4FBF-8675-F46B439C9B53";
+name = "Mar 21, 24 at 18:45";
+shapes = (
+{
+pos = (23,148);
+ref = caroncomb;
+}
+);
+width = 620;
+}
+);
+}

@@ -1,0 +1,56 @@
+{
+glyphname = dagger;
+layers = (
+{
+layerId = m01;
+shapes = (
+{
+closed = 1;
+nodes = (
+(224,-20,l),
+(304,-20,l),
+(396,570,l),
+(316,570,l)
+);
+},
+{
+closed = 1;
+nodes = (
+(495,339,l),
+(507,413,l),
+(157,413,l),
+(145,339,l)
+);
+}
+);
+width = 620;
+},
+{
+associatedMasterId = m01;
+layerId = "A8D2B826-59B1-44AD-BE58-A23042853298";
+name = "Apr 2, 24 at 23:55";
+shapes = (
+{
+closed = 1;
+nodes = (
+(271,-20,l),
+(349,-20,l),
+(349,570,l),
+(271,570,l)
+);
+},
+{
+closed = 1;
+nodes = (
+(485,339,l),
+(485,412,l),
+(135,412,l),
+(135,339,l)
+);
+}
+);
+width = 620;
+}
+);
+unicode = 8224;
+}
