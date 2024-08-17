@@ -1,5 +1,6 @@
 FONT_NAME = 0xProto
 MAIN_WEIGHT = Regular
+BOLD_WEIGHT = Bold
 ITALIC = Italic
 SOURCE_DIR = sources
 MAIN_GLYPHS_FILE = $(SOURCE_DIR)/$(FONT_NAME).glyphspackage
@@ -20,49 +21,38 @@ build:
 	$(MAKE) clean
 	$(MAKE) compile-all
 
-compile-otf-main: $(MAIN_GLYPHS_FILE)
-	fontmake -a -g $(MAIN_GLYPHS_FILE) -o otf --output-dir $(OUTPUT_DIR)
-
-compile-otf-italic: $(ITALIC_GLYPHS_FILE)
-	fontmake -a -g $(ITALIC_GLYPHS_FILE) -o otf --output-dir $(OUTPUT_DIR)
-
-compile-ttf-main: $(MAIN_GLYPHS_FILE)
-	fontmake -a -g $(MAIN_GLYPHS_FILE) -o ttf --output-dir $(OUTPUT_DIR)
-
-compile-ttf-italic: $(ITALIC_GLYPHS_FILE)
-	fontmake -a -g $(ITALIC_GLYPHS_FILE) -o ttf --output-dir $(OUTPUT_DIR)
-
-compile-woff2-main: $(OUTPUT_DIR)/$(FONT_NAME)-$(MAIN_WEIGHT).ttf
+compile-woff2-roman: $(OUTPUT_DIR)/$(FONT_NAME)-$(MAIN_WEIGHT).ttf $(OUTPUT_DIR)/$(FONT_NAME)-$(BOLD_WEIGHT).ttf
 	./woff2/woff2_compress $(OUTPUT_DIR)/$(FONT_NAME)-$(MAIN_WEIGHT).ttf
+	./woff2/woff2_compress $(OUTPUT_DIR)/$(FONT_NAME)-$(BOLD_WEIGHT).ttf
 
 compile-woff2-italic: $(OUTPUT_DIR)/$(FONT_NAME)-$(ITALIC).ttf
 	./woff2/woff2_compress $(OUTPUT_DIR)/$(FONT_NAME)-$(ITALIC).ttf
 
-compile-main: $(MAIN_GLYPHS_FILE)
-	$(MAKE) compile-otf-main
-	$(MAKE) compile-ttf-main && $(MAKE) compile-woff2-main
+compile-roman: $(MAIN_GLYPHS_FILE)
+	fontmake -a -g $(MAIN_GLYPHS_FILE) -i --output-dir $(OUTPUT_DIR) && $(MAKE) compile-woff2-roman
 
 compile-italic: $(ITALIC_GLYPHS_FILE)
-	$(MAKE) compile-otf-italic
-	$(MAKE) compile-ttf-italic && $(MAKE) compile-woff2-italic
+	fontmake -a -g $(ITALIC_GLYPHS_FILE) --output-dir $(OUTPUT_DIR) && $(MAKE) compile-woff2-italic
 
 compile-all:
-	$(MAKE) compile-main
+	$(MAKE) compile-roman
 	$(MAKE) compile-italic
 
 .PHONY: clean
 clean:
 	if [ -e $(OUTPUT_DIR) ]; then rm -rf $(OUTPUT_DIR); fi
 
-install-otf-main: $(OUTPUT_DIR)/$(FONT_NAME)-$(MAIN_WEIGHT).otf
+install-otf-roman: $(OUTPUT_DIR)/$(FONT_NAME)-$(MAIN_WEIGHT).otf $(OUTPUT_DIR)/$(FONT_NAME)-$(BOLD_WEIGHT).otf
 	cp $(OUTPUT_DIR)/$(FONT_NAME)-$(MAIN_WEIGHT).otf $(HOME)/Library/Fonts
+	cp $(OUTPUT_DIR)/$(FONT_NAME)-$(BOLD_WEIGHT).otf $(HOME)/Library/Fonts
 
 install-otf-italic: $(OUTPUT_DIR)/$(FONT_NAME)-$(MAIN_WEIGHT).otf
 	cp $(OUTPUT_DIR)/$(FONT_NAME)-$(ITALIC).otf $(HOME)/Library/Fonts
 
-install-latest:
+.PHONY: install
+install:
 	$(MAKE) build
-	$(MAKE) install-otf-main
+	$(MAKE) install-otf-roman
 	$(MAKE) install-otf-italic
 
 close-vscode:
@@ -72,8 +62,6 @@ close-vscode:
 
 debug:
 	$(MAKE) close-vscode
-	$(MAKE) clean
-	$(MAKE) ufo
-	$(MAKE) compile-otf-main
-	$(MAKE) install-otf-main
+	$(MAKE) build
+	$(MAKE) install
 	code .
