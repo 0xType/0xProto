@@ -42,6 +42,48 @@ nodes = (
 }
 );
 width = 620;
+},
+{
+layerId = m002;
+shapes = (
+{
+ref = o;
+},
+{
+closed = 1;
+nodes = (
+(131,-86,l),
+(595,631,l),
+(595,637,l),
+(489,637,l),
+(25,-80,l),
+(25,-86,l)
+);
+}
+);
+width = 620;
+},
+{
+associatedMasterId = m002;
+layerId = "79D491AC-4620-40ED-A917-95EAEB7D3580";
+name = "Nov 1, 23 at 21:20";
+shapes = (
+{
+ref = o;
+},
+{
+closed = 1;
+nodes = (
+(116,-46,l),
+(596,590,l),
+(596,596,l),
+(504,596,l),
+(24,-40,l),
+(24,-46,l)
+);
+}
+);
+width = 620;
 }
 );
 unicode = 248;

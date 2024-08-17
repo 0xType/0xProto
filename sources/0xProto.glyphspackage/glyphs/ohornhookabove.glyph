@@ -16,6 +16,22 @@ ref = hookabovecomb;
 }
 );
 width = 620;
+},
+{
+layerId = m002;
+shapes = (
+{
+ref = o;
+},
+{
+pos = (207,-27);
+ref = horncomb;
+},
+{
+ref = hookabovecomb;
+}
+);
+width = 620;
 }
 );
 unicode = 7903;

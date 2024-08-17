@@ -1,4 +1,5 @@
 {
+color = 3;
 glyphname = daggerdbl;
 layers = (
 {
@@ -37,6 +38,74 @@ width = 620;
 {
 associatedMasterId = m01;
 layerId = "8CA68334-D725-4D0C-8EA5-5AFBD888417E";
+name = "Dec 29, 23 at 14:21";
+shapes = (
+{
+closed = 1;
+nodes = (
+(270,270,l),
+(350,270,l),
+(350,750,l),
+(270,750,l)
+);
+},
+{
+closed = 1;
+nodes = (
+(460,550,l),
+(460,621,l),
+(160,621,l),
+(160,550,l)
+);
+},
+{
+closed = 1;
+nodes = (
+(460,399,l),
+(460,470,l),
+(160,470,l),
+(160,399,l)
+);
+}
+);
+width = 620;
+},
+{
+layerId = m002;
+shapes = (
+{
+closed = 1;
+nodes = (
+(261,-20,l),
+(359,-20,l),
+(359,570,l),
+(261,570,l)
+);
+},
+{
+closed = 1;
+nodes = (
+(485,338,l),
+(485,428,l),
+(135,428,l),
+(135,338,l)
+);
+},
+{
+closed = 1;
+nodes = (
+(485,122,l),
+(485,212,l),
+(135,212,l),
+(135,122,l)
+);
+}
+);
+width = 620;
+},
+{
+associatedMasterId = m002;
+layerId = "4A6E2CCD-50B2-481E-BAC9-B14A38027A9B";
 name = "Dec 29, 23 at 14:21";
 shapes = (
 {

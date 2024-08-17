@@ -12,6 +12,18 @@ ref = gravecomb.case;
 }
 );
 width = 620;
+},
+{
+layerId = m002;
+shapes = (
+{
+ref = U;
+},
+{
+ref = gravecomb.case;
+}
+);
+width = 620;
 }
 );
 unicode = 217;

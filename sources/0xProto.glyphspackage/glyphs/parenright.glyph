@@ -1,4 +1,5 @@
 {
+color = 3;
 glyphname = parenright;
 layers = (
 {
@@ -29,6 +30,54 @@ width = 620;
 {
 associatedMasterId = m01;
 layerId = "BA05E055-9C11-41E7-B3F1-48F3C81CDDCB";
+name = "Sep 29, 23 15:55";
+shapes = (
+{
+closed = 1;
+nodes = (
+(165,750,l),
+(167,740,l),
+(433,529,o),
+(433,101,o),
+(167,-110,c),
+(165,-120,l),
+(270,-120,l),
+(534,96,o),
+(534,534,o),
+(270,750,c)
+);
+}
+);
+width = 620;
+},
+{
+layerId = m002;
+shapes = (
+{
+closed = 1;
+nodes = (
+(425,-43,o),
+(510,149,o),
+(510,311,cs),
+(510,473,o),
+(425,665,o),
+(211,766,c),
+(150,664,l),
+(315,577,o),
+(382,433,o),
+(382,311,cs),
+(382,189,o),
+(315,45,o),
+(150,-42,c),
+(211,-144,l)
+);
+}
+);
+width = 620;
+},
+{
+associatedMasterId = m002;
+layerId = "FFAB64A0-7BEC-498E-B3A9-8FE2D389998E";
 name = "Sep 29, 23 15:55";
 shapes = (
 {

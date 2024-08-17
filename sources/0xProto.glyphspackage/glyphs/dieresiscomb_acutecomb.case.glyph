@@ -1,4 +1,5 @@
 {
+color = 3;
 glyphname = dieresiscomb_acutecomb.case;
 layers = (
 {
@@ -9,6 +10,22 @@ pos = (310,710);
 }
 );
 layerId = m01;
+shapes = (
+{
+pos = (0,147);
+ref = dieresiscomb_acutecomb;
+}
+);
+width = 620;
+},
+{
+anchors = (
+{
+name = _top;
+pos = (310,710);
+}
+);
+layerId = m002;
 shapes = (
 {
 pos = (0,147);

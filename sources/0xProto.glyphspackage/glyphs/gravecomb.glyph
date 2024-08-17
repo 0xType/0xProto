@@ -1,4 +1,5 @@
 {
+color = 3;
 glyphname = gravecomb;
 layers = (
 {
@@ -22,6 +23,32 @@ nodes = (
 (277,628,l),
 (348,628,l),
 (286,786,l)
+);
+}
+);
+width = 620;
+},
+{
+anchors = (
+{
+name = _top;
+pos = (310,550);
+},
+{
+name = top;
+pos = (310,786);
+}
+);
+layerId = m002;
+shapes = (
+{
+closed = 1;
+nodes = (
+(160,786,l),
+(160,780,l),
+(263,628,l),
+(358,628,l),
+(298,786,l)
 );
 }
 );

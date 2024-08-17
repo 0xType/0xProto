@@ -1,4 +1,5 @@
 {
+color = 3;
 glyphname = caroncomb.alt;
 layers = (
 {
@@ -18,6 +19,28 @@ nodes = (
 (620,844,l),
 (620,850,l),
 (512,850,l)
+);
+}
+);
+width = 620;
+},
+{
+anchors = (
+{
+name = _topright;
+pos = (387,750);
+}
+);
+layerId = m002;
+shapes = (
+{
+closed = 1;
+nodes = (
+(488,635,l),
+(566,635,l),
+(632,844,l),
+(632,850,l),
+(505,850,l)
 );
 }
 );

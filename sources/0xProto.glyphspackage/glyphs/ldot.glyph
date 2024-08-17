@@ -13,6 +13,19 @@ ref = periodcentered.loclCAT;
 }
 );
 width = 620;
+},
+{
+layerId = m002;
+shapes = (
+{
+ref = l;
+},
+{
+pos = (180,-2);
+ref = periodcentered.loclCAT;
+}
+);
+width = 620;
 }
 );
 unicode = 320;

@@ -15,6 +15,21 @@ ref = periodcentered.loclCAT;
 }
 );
 width = 620;
+},
+{
+anchors = (
+{
+name = _center;
+pos = (130,357);
+}
+);
+layerId = m002;
+shapes = (
+{
+ref = periodcentered.loclCAT;
+}
+);
+width = 620;
 }
 );
 }

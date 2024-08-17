@@ -18,6 +18,24 @@ nodes = (
 }
 );
 width = 620;
+},
+{
+layerId = m002;
+shapes = (
+{
+ref = t;
+},
+{
+closed = 1;
+nodes = (
+(100,262,l),
+(458,262,l),
+(458,354,l),
+(100,354,l)
+);
+}
+);
+width = 620;
 }
 );
 unicode = 359;

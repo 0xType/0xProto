@@ -1,8 +1,18 @@
 {
+color = 3;
 glyphname = apostrophemod;
 layers = (
 {
 layerId = m01;
+shapes = (
+{
+ref = quoteright;
+}
+);
+width = 620;
+},
+{
+layerId = m002;
 shapes = (
 {
 ref = quoteright;

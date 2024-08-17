@@ -1,4 +1,5 @@
 {
+color = 3;
 glyphname = plus;
 layers = (
 {
@@ -20,6 +21,56 @@ nodes = (
 (265,558,l),
 (265,56,l),
 (355,56,l)
+);
+}
+);
+width = 620;
+},
+{
+layerId = m002;
+shapes = (
+{
+closed = 1;
+nodes = (
+(75,365,l),
+(75,249,l),
+(545,249,l),
+(545,365,l)
+);
+},
+{
+closed = 1;
+nodes = (
+(372,558,l),
+(248,558,l),
+(248,56,l),
+(372,56,l)
+);
+}
+);
+width = 620;
+},
+{
+associatedMasterId = m002;
+layerId = "C44EFEC8-EF02-4C49-928D-DC89FB1C39FA";
+name = "Aug 12, 24 at 19:53";
+shapes = (
+{
+closed = 1;
+nodes = (
+(75,367,l),
+(75,247,l),
+(545,247,l),
+(545,367,l)
+);
+},
+{
+closed = 1;
+nodes = (
+(374,558,l),
+(246,558,l),
+(246,56,l),
+(374,56,l)
 );
 }
 );

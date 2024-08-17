@@ -12,6 +12,18 @@ ref = macronbelowcomb;
 }
 );
 width = 620;
+},
+{
+layerId = m002;
+shapes = (
+{
+ref = k;
+},
+{
+ref = macronbelowcomb;
+}
+);
+width = 620;
 }
 );
 unicode = 7733;

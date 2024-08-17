@@ -1,4 +1,5 @@
 {
+color = 3;
 glyphname = verticallinelowmod;
 layers = (
 {
@@ -11,6 +12,21 @@ nodes = (
 (260,-200,l),
 (360,-200,l),
 (360,160,l)
+);
+}
+);
+width = 620;
+},
+{
+layerId = m002;
+shapes = (
+{
+closed = 1;
+nodes = (
+(252,160,l),
+(252,-200,l),
+(368,-200,l),
+(368,160,l)
 );
 }
 );

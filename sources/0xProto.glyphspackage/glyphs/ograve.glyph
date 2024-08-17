@@ -12,6 +12,18 @@ ref = gravecomb;
 }
 );
 width = 620;
+},
+{
+layerId = m002;
+shapes = (
+{
+ref = o;
+},
+{
+ref = gravecomb;
+}
+);
+width = 620;
 }
 );
 unicode = 242;

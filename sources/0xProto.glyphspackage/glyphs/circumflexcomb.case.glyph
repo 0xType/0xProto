@@ -1,4 +1,5 @@
 {
+color = 3;
 glyphname = circumflexcomb.case;
 layers = (
 {
@@ -13,6 +14,26 @@ pos = (310,934);
 }
 );
 layerId = m01;
+shapes = (
+{
+pos = (0,148);
+ref = circumflexcomb;
+}
+);
+width = 620;
+},
+{
+anchors = (
+{
+name = _top;
+pos = (310,710);
+},
+{
+name = top;
+pos = (310,934);
+}
+);
+layerId = m002;
 shapes = (
 {
 pos = (0,148);

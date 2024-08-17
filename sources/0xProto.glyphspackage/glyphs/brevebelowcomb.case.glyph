@@ -1,4 +1,5 @@
 {
+color = 3;
 glyphname = brevebelowcomb.case;
 layers = (
 {
@@ -9,6 +10,21 @@ pos = (310,0);
 }
 );
 layerId = m01;
+shapes = (
+{
+ref = brevebelowcomb;
+}
+);
+width = 620;
+},
+{
+anchors = (
+{
+name = _bottom;
+pos = (310,0);
+}
+);
+layerId = m002;
 shapes = (
 {
 ref = brevebelowcomb;

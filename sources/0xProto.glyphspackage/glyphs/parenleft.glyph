@@ -1,4 +1,5 @@
 {
+color = 3;
 glyphname = parenleft;
 layers = (
 {
@@ -29,6 +30,54 @@ width = 620;
 {
 associatedMasterId = m01;
 layerId = "EAE24CAD-B02F-4CA0-8470-B6E79A6A0472";
+name = "Sep 29, 23 15:55";
+shapes = (
+{
+closed = 1;
+nodes = (
+(86,534,o),
+(86,96,o),
+(350,-120,c),
+(455,-120,l),
+(453,-110,l),
+(187,101,o),
+(187,529,o),
+(453,740,c),
+(455,750,l),
+(350,750,l)
+);
+}
+);
+width = 620;
+},
+{
+layerId = m002;
+shapes = (
+{
+closed = 1;
+nodes = (
+(470,-42,l),
+(305,45,o),
+(238,189,o),
+(238,311,cs),
+(238,433,o),
+(305,577,o),
+(470,664,c),
+(409,766,l),
+(195,665,o),
+(110,473,o),
+(110,311,cs),
+(110,149,o),
+(195,-43,o),
+(409,-144,c)
+);
+}
+);
+width = 620;
+},
+{
+associatedMasterId = m002;
+layerId = "4D77DF20-AB31-4E8A-9EC7-98C3ECD9832E";
 name = "Sep 29, 23 15:55";
 shapes = (
 {

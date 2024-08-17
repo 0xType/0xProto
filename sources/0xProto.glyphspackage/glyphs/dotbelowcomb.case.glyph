@@ -1,4 +1,5 @@
 {
+color = 3;
 glyphname = dotbelowcomb.case;
 layers = (
 {
@@ -29,6 +30,42 @@ pos = (310,-200);
 );
 associatedMasterId = m01;
 layerId = "42B200A6-EF13-477E-A6FF-97871A7B897D";
+name = "Dec 17, 23 at 17:30";
+shapes = (
+{
+ref = dotbelowcomb;
+}
+);
+width = 620;
+},
+{
+anchors = (
+{
+name = _bottom;
+pos = (310,0);
+}
+);
+layerId = m002;
+shapes = (
+{
+ref = dotbelowcomb;
+}
+);
+width = 620;
+},
+{
+anchors = (
+{
+name = _bottom;
+pos = (310,0);
+},
+{
+name = bottom;
+pos = (310,-200);
+}
+);
+associatedMasterId = m002;
+layerId = "0C22990A-F28A-4781-9CAD-D2FA6220240D";
 name = "Dec 17, 23 at 17:30";
 shapes = (
 {

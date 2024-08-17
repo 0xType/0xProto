@@ -12,6 +12,18 @@ ref = brevecomb;
 }
 );
 width = 620;
+},
+{
+layerId = m002;
+shapes = (
+{
+ref = u;
+},
+{
+ref = brevecomb;
+}
+);
+width = 620;
 }
 );
 unicode = 365;

@@ -13,6 +13,19 @@ ref = ogonekcomb.case;
 }
 );
 width = 620;
+},
+{
+layerId = m002;
+shapes = (
+{
+ref = O;
+},
+{
+pos = (-10,-3);
+ref = ogonekcomb.case;
+}
+);
+width = 620;
 }
 );
 unicode = 490;

@@ -1,14 +1,18 @@
 {
+color = 3;
 glyphname = ogonekcomb.case;
 layers = (
 {
-anchors = (
+layerId = m01;
+shapes = (
 {
-name = _ogonek;
-pos = (411,3);
+ref = ogonekcomb;
 }
 );
-layerId = m01;
+width = 620;
+},
+{
+layerId = m002;
 shapes = (
 {
 ref = ogonekcomb;
