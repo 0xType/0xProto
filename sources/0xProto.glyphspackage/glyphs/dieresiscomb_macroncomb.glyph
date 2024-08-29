@@ -1,5 +1,4 @@
 {
-color = 3;
 glyphname = dieresiscomb_macroncomb;
 layers = (
 {
@@ -33,32 +32,6 @@ name = _top;
 pos = (310,550);
 }
 );
-associatedMasterId = m01;
-layerId = "4D7E245C-0886-4058-A5A2-1984B5AD612B";
-name = "Jan 9, 24 at 13:01";
-shapes = (
-{
-ref = dieresiscomb;
-},
-{
-closed = 1;
-nodes = (
-(180,821,l),
-(440,821,l),
-(440,895,l),
-(180,895,l)
-);
-}
-);
-width = 620;
-},
-{
-anchors = (
-{
-name = _top;
-pos = (310,550);
-}
-);
 layerId = m002;
 shapes = (
 {
@@ -71,32 +44,6 @@ nodes = (
 (442,821,l),
 (442,917,l),
 (178,917,l)
-);
-}
-);
-width = 620;
-},
-{
-anchors = (
-{
-name = _top;
-pos = (310,550);
-}
-);
-associatedMasterId = m002;
-layerId = "17EBAEDA-37E4-4C4B-9B59-3366AB0F8420";
-name = "Jan 9, 24 at 13:01";
-shapes = (
-{
-ref = dieresiscomb;
-},
-{
-closed = 1;
-nodes = (
-(180,821,l),
-(440,821,l),
-(440,895,l),
-(180,895,l)
 );
 }
 );

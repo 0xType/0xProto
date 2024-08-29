@@ -1,5 +1,4 @@
 {
-color = 3;
 glyphname = circumflexbelowcomb;
 layers = (
 {
@@ -61,40 +60,6 @@ nodes = (
 (362,-65,l),
 (255,-65,l),
 (129,-223,l)
-);
-}
-);
-width = 620;
-},
-{
-anchors = (
-{
-name = _bottom;
-pos = (310,0);
-}
-);
-associatedMasterId = m002;
-layerId = "F27B03AA-66D9-4136-BAF6-08DDF7750ACF";
-name = "Aug 12, 24 at 19:33";
-shapes = (
-{
-closed = 1;
-nodes = (
-(132,-223,l),
-(237,-223,l),
-(362,-77,l),
-(362,-65,l),
-(255,-65,l)
-);
-},
-{
-closed = 1;
-nodes = (
-(258,-65,l),
-(258,-77,l),
-(383,-223,l),
-(488,-223,l),
-(365,-65,l)
 );
 }
 );

@@ -109,20 +109,6 @@ nodes = (
 width = 620;
 },
 {
-associatedMasterId = m01;
-layerId = "AB53237D-8B39-44CC-9AC4-CD953B6E456B";
-name = "Dec 18, 23 at 15:23";
-shapes = (
-{
-ref = g;
-},
-{
-ref = macroncomb;
-}
-);
-width = 620;
-},
-{
 anchors = (
 {
 name = bottom;

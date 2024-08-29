@@ -1,5 +1,4 @@
 {
-color = 3;
 glyphname = plus;
 layers = (
 {
@@ -45,32 +44,6 @@ nodes = (
 (248,558,l),
 (248,56,l),
 (372,56,l)
-);
-}
-);
-width = 620;
-},
-{
-associatedMasterId = m002;
-layerId = "C44EFEC8-EF02-4C49-928D-DC89FB1C39FA";
-name = "Aug 12, 24 at 19:53";
-shapes = (
-{
-closed = 1;
-nodes = (
-(75,367,l),
-(75,247,l),
-(545,247,l),
-(545,367,l)
-);
-},
-{
-closed = 1;
-nodes = (
-(374,558,l),
-(246,558,l),
-(246,56,l),
-(374,56,l)
 );
 }
 );

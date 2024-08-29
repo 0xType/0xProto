@@ -132,45 +132,6 @@ ref = horncomb.case;
 }
 );
 width = 620;
-},
-{
-anchors = (
-{
-name = bottom;
-pos = (300,0);
-},
-{
-name = center;
-pos = (310,355);
-},
-{
-name = top;
-pos = (300,710);
-},
-{
-name = topleft;
-pos = (40,710);
-},
-{
-name = topright;
-pos = (453,679);
-}
-);
-associatedMasterId = m002;
-layerId = "42904C7B-4CBF-43DB-83AF-CEF6F8122DAA";
-name = "Aug 7, 24 at 17:56";
-shapes = (
-{
-pos = (211,-81);
-ref = horncomb.case;
-},
-{
-pos = (-10,0);
-ref = O;
-}
-);
-visible = 1;
-width = 620;
 }
 );
 unicode = 416;

@@ -1,5 +1,4 @@
 {
-color = 3;
 glyphname = dotbelowcomb;
 layers = (
 {
@@ -36,41 +35,6 @@ anchors = (
 {
 name = _bottom;
 pos = (310,0);
-},
-{
-name = bottom;
-pos = (310,-200);
-}
-);
-associatedMasterId = m01;
-layerId = "7DE1DBB8-F120-400E-BBDC-149B459C338B";
-name = "Dec 17, 23 at 17:30";
-shapes = (
-{
-closed = 1;
-nodes = (
-(355,-216,o),
-(390,-181,o),
-(390,-136,cs),
-(390,-92,o),
-(355,-56,o),
-(310,-56,cs),
-(267,-56,o),
-(230,-92,o),
-(230,-136,cs),
-(230,-181,o),
-(267,-216,o),
-(310,-216,cs)
-);
-}
-);
-width = 620;
-},
-{
-anchors = (
-{
-name = _bottom;
-pos = (310,0);
 }
 );
 layerId = m002;
@@ -90,41 +54,6 @@ nodes = (
 (233,-189,o),
 (269,-222,o),
 (310,-222,cs)
-);
-}
-);
-width = 620;
-},
-{
-anchors = (
-{
-name = _bottom;
-pos = (310,0);
-},
-{
-name = bottom;
-pos = (310,-200);
-}
-);
-associatedMasterId = m002;
-layerId = "4E8917F3-5441-4F39-8AE7-1D64247DC78A";
-name = "Dec 17, 23 at 17:30";
-shapes = (
-{
-closed = 1;
-nodes = (
-(355,-216,o),
-(390,-181,o),
-(390,-136,cs),
-(390,-92,o),
-(355,-56,o),
-(310,-56,cs),
-(267,-56,o),
-(230,-92,o),
-(230,-136,cs),
-(230,-181,o),
-(267,-216,o),
-(310,-216,cs)
 );
 }
 );

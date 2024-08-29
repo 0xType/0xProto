@@ -28,22 +28,6 @@ nodes = (
 width = 620;
 },
 {
-associatedMasterId = m01;
-layerId = "9F82D5BB-E4D4-4B8F-B467-8293525EE44A";
-name = "Nov 21, 23 at 19:56";
-shapes = (
-{
-ref = idotless;
-},
-{
-pos = (-10,0);
-ref = dotaccentcomb;
-}
-);
-visible = 1;
-width = 620;
-},
-{
 layerId = m002;
 shapes = (
 {
@@ -64,34 +48,6 @@ nodes = (
 (214,626,o),
 (259,584,o),
 (310,584,cs)
-);
-}
-);
-width = 620;
-},
-{
-associatedMasterId = m002;
-layerId = "349C5581-A150-4E7C-AA29-DE567F8166FF";
-name = "Aug 12, 24 at 19:36";
-shapes = (
-{
-ref = idotless;
-},
-{
-closed = 1;
-nodes = (
-(365,582,o),
-(408,625,o),
-(408,680,cs),
-(408,734,o),
-(365,778,o),
-(310,778,cs),
-(258,778,o),
-(212,734,o),
-(212,680,cs),
-(212,625,o),
-(258,582,o),
-(310,582,cs)
 );
 }
 );

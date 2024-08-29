@@ -1,5 +1,4 @@
 {
-color = 3;
 glyphname = guillemetright;
 layers = (
 {
@@ -42,51 +41,6 @@ nodes = (
 );
 }
 );
-width = 620;
-},
-{
-associatedMasterId = m01;
-layerId = "B842F15D-CC0B-4109-B3FA-A558E122D71E";
-name = "Jan 4, 24 at 13:07";
-shapes = (
-{
-closed = 1;
-nodes = (
-(312,518,l),
-(255,461,l),
-(498,218,l),
-(555,275,l)
-);
-},
-{
-closed = 1;
-nodes = (
-(498,332,l),
-(255,89,l),
-(312,32,l),
-(555,275,l)
-);
-},
-{
-closed = 1;
-nodes = (
-(112,518,l),
-(55,461,l),
-(298,218,l),
-(355,275,l)
-);
-},
-{
-closed = 1;
-nodes = (
-(298,332,l),
-(55,89,l),
-(112,32,l),
-(355,275,l)
-);
-}
-);
-visible = 1;
 width = 620;
 },
 {

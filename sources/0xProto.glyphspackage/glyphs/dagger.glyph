@@ -1,5 +1,4 @@
 {
-color = 3;
 glyphname = dagger;
 layers = (
 {
@@ -27,32 +26,6 @@ nodes = (
 width = 620;
 },
 {
-associatedMasterId = m01;
-layerId = "4238214B-66E8-4077-8321-7CF4131C3909";
-name = "Dec 28, 23 at 23:19";
-shapes = (
-{
-closed = 1;
-nodes = (
-(270,270,l),
-(350,270,l),
-(350,750,l),
-(270,750,l)
-);
-},
-{
-closed = 1;
-nodes = (
-(460,550,l),
-(460,621,l),
-(160,621,l),
-(160,550,l)
-);
-}
-);
-width = 620;
-},
-{
 layerId = m002;
 shapes = (
 {
@@ -71,32 +44,6 @@ nodes = (
 (485,422,l),
 (135,422,l),
 (135,329,l)
-);
-}
-);
-width = 620;
-},
-{
-associatedMasterId = m002;
-layerId = "AE2AF3FF-BE7B-4E85-A0DE-5C8C4153DAEB";
-name = "Dec 28, 23 at 23:19";
-shapes = (
-{
-closed = 1;
-nodes = (
-(270,270,l),
-(350,270,l),
-(350,750,l),
-(270,750,l)
-);
-},
-{
-closed = 1;
-nodes = (
-(460,550,l),
-(460,621,l),
-(160,621,l),
-(160,550,l)
 );
 }
 );
