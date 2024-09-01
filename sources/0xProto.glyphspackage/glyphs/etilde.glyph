@@ -12,6 +12,18 @@ ref = tildecomb;
 }
 );
 width = 620;
+},
+{
+layerId = m002;
+shapes = (
+{
+ref = e;
+},
+{
+ref = tildecomb;
+}
+);
+width = 620;
 }
 );
 unicode = 7869;

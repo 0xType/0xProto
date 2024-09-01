@@ -15,6 +15,21 @@ ref = macronbelowcomb;
 }
 );
 width = 620;
+},
+{
+anchors = (
+{
+name = _bottom;
+pos = (310,0);
+}
+);
+layerId = m002;
+shapes = (
+{
+ref = macronbelowcomb;
+}
+);
+width = 620;
 }
 );
 }

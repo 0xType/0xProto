@@ -17,6 +17,23 @@ ref = brevecomb_tildecomb;
 }
 );
 width = 620;
+},
+{
+anchors = (
+{
+name = _top;
+pos = (310,710);
+}
+);
+layerId = m002;
+name = Regular;
+shapes = (
+{
+pos = (0,147);
+ref = brevecomb_tildecomb;
+}
+);
+width = 620;
 }
 );
 }

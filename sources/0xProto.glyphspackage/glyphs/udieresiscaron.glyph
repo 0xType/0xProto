@@ -12,6 +12,18 @@ ref = dieresiscomb_caroncomb;
 }
 );
 width = 620;
+},
+{
+layerId = m002;
+shapes = (
+{
+ref = u;
+},
+{
+ref = dieresiscomb_caroncomb;
+}
+);
+width = 620;
 }
 );
 unicode = 474;

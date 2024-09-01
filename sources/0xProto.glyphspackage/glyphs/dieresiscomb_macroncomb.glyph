@@ -32,9 +32,7 @@ name = _top;
 pos = (310,550);
 }
 );
-associatedMasterId = m01;
-layerId = "4D7E245C-0886-4058-A5A2-1984B5AD612B";
-name = "Jan 9, 24 at 13:01";
+layerId = m002;
 shapes = (
 {
 ref = dieresiscomb;
@@ -42,10 +40,10 @@ ref = dieresiscomb;
 {
 closed = 1;
 nodes = (
-(180,821,l),
-(440,821,l),
-(440,895,l),
-(180,895,l)
+(178,821,l),
+(442,821,l),
+(442,917,l),
+(178,917,l)
 );
 }
 );

@@ -25,6 +25,31 @@ nodes = (
 }
 );
 width = 620;
+},
+{
+anchors = (
+{
+name = _top;
+pos = (310,550);
+}
+);
+layerId = m002;
+shapes = (
+{
+ref = dieresiscomb;
+},
+{
+closed = 1;
+nodes = (
+(185,906,l),
+(185,900,l),
+(267,788,l),
+(353,788,l),
+(300,906,l)
+);
+}
+);
+width = 620;
 }
 );
 }

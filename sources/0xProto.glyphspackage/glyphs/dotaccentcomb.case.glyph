@@ -20,6 +20,26 @@ ref = dotaccentcomb;
 }
 );
 width = 620;
+},
+{
+anchors = (
+{
+name = _top;
+pos = (310,710);
+},
+{
+name = top;
+pos = (310,924);
+}
+);
+layerId = m002;
+shapes = (
+{
+pos = (0,158);
+ref = dotaccentcomb;
+}
+);
+width = 620;
 }
 );
 }

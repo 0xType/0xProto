@@ -15,6 +15,20 @@ ref = tildecomb;
 );
 visible = 1;
 width = 620;
+},
+{
+layerId = m002;
+name = Regular;
+shapes = (
+{
+ref = a;
+},
+{
+pos = (3,0);
+ref = tildecomb;
+}
+);
+width = 620;
 }
 );
 unicode = 227;

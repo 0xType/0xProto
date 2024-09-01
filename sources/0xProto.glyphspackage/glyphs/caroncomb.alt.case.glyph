@@ -16,6 +16,22 @@ ref = caroncomb.alt;
 }
 );
 width = 620;
+},
+{
+anchors = (
+{
+name = _topright;
+pos = (357,750);
+}
+);
+layerId = m002;
+shapes = (
+{
+pos = (0,-20);
+ref = caroncomb.alt;
+}
+);
+width = 620;
 }
 );
 }

@@ -26,6 +26,32 @@ nodes = (
 }
 );
 width = 620;
+},
+{
+anchors = (
+{
+name = _top;
+pos = (310,550);
+},
+{
+name = top;
+pos = (310,786);
+}
+);
+layerId = m002;
+shapes = (
+{
+closed = 1;
+nodes = (
+(262,628,l),
+(357,628,l),
+(460,780,l),
+(460,786,l),
+(322,786,l)
+);
+}
+);
+width = 620;
 }
 );
 unicode = 769;

@@ -29,17 +29,15 @@ name = _top;
 pos = (310,550);
 }
 );
-associatedMasterId = m01;
-layerId = "A53D440B-BE03-4032-97A9-97C9203A6B3A";
-name = "Jan 9, 24 at 13:01";
+layerId = m002;
 shapes = (
 {
 closed = 1;
 nodes = (
-(155,643,l),
-(465,643,l),
-(465,721,l),
-(155,721,l)
+(151,642,l),
+(469,642,l),
+(469,743,l),
+(151,743,l)
 );
 }
 );

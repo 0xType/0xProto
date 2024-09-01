@@ -20,6 +20,26 @@ ref = gravecomb;
 }
 );
 width = 620;
+},
+{
+anchors = (
+{
+name = _top;
+pos = (310,710);
+},
+{
+name = top;
+pos = (310,934);
+}
+);
+layerId = m002;
+shapes = (
+{
+pos = (0,148);
+ref = gravecomb;
+}
+);
+width = 620;
 }
 );
 }

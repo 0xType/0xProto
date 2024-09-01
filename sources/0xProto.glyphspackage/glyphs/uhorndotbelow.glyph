@@ -31,6 +31,37 @@ ref = dotbelowcomb;
 }
 );
 width = 620;
+},
+{
+anchors = (
+{
+name = bottom;
+pos = (264,0);
+},
+{
+name = ogonek;
+pos = (547,-8);
+},
+{
+name = top;
+pos = (264,550);
+},
+{
+name = topright;
+pos = (437,550);
+}
+);
+layerId = m002;
+shapes = (
+{
+ref = uhorn;
+},
+{
+pos = (-31,0);
+ref = dotbelowcomb;
+}
+);
+width = 620;
 }
 );
 unicode = 7921;

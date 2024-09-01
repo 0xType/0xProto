@@ -20,6 +20,26 @@ ref = horncomb;
 }
 );
 width = 620;
+},
+{
+anchors = (
+{
+name = _topright;
+pos = (242,760);
+},
+{
+name = topright;
+pos = (383,877);
+}
+);
+layerId = m002;
+shapes = (
+{
+pos = (0,211);
+ref = horncomb;
+}
+);
+width = 620;
 }
 );
 }

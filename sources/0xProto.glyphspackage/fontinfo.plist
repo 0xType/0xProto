@@ -1,6 +1,12 @@
 {
 .appVersion = "3260";
 .formatVersion = 3;
+axes = (
+{
+name = Weight;
+tag = wght;
+}
+);
 classes = (
 {
 automatic = 1;
@@ -778,6 +784,9 @@ tag = dlig;
 );
 fontMaster = (
 {
+axesValues = (
+400
+);
 customParameters = (
 {
 name = strikeoutPosition;
@@ -808,20 +817,104 @@ over = -16;
 {
 over = -16;
 pos = -250;
+},
+{
 }
 );
 name = Regular;
 userData = {
 GSCornerRadius = 218;
 };
+visible = 1;
+},
+{
+axesValues = (
+700
+);
+customParameters = (
+{
+name = strikeoutPosition;
+value = 330;
+},
+{
+name = strikeoutSize;
+value = 50;
+}
+);
+iconName = SemiBold;
+id = m002;
+metricValues = (
+{
+over = 16;
+pos = 750;
+},
+{
+over = 16;
+pos = 710;
+},
+{
+over = 16;
+pos = 550;
+},
+{
+over = -16;
+},
+{
+over = -16;
+pos = -250;
+},
+{
+}
+);
+name = Bold;
+userData = {
+GSCornerRadius = 218;
+};
+visible = 1;
 }
 );
 instances = (
 {
+axesValues = (
+400
+);
 instanceInterpolations = {
 m01 = 1;
 };
 name = Regular;
+properties = (
+{
+key = postscriptFullNames;
+values = (
+{
+language = dflt;
+value = "0xProto Regular";
+}
+);
+}
+);
+},
+{
+axesValues = (
+700
+);
+instanceInterpolations = {
+m002 = 1;
+};
+isBold = 1;
+name = Bold;
+properties = (
+{
+key = postscriptFullNames;
+values = (
+{
+language = dflt;
+value = "0xProto Bold";
+}
+);
+}
+);
+weightClass = 700;
 }
 );
 metrics = (
@@ -840,6 +933,9 @@ type = baseline;
 },
 {
 type = descender;
+},
+{
+type = "italic angle";
 }
 );
 properties = (
@@ -857,26 +953,20 @@ key = manufacturerURL;
 value = "https://0xtype.dev/";
 },
 {
-key = postscriptFontName;
-value = "0xProto Regular";
-},
-{
-key = postscriptFullNames;
-values = (
-{
-language = dflt;
-value = "0xProto Regular";
-}
-);
-},
-{
 key = vendorID;
-value = 0xType;
+value = 0x;
 }
 );
 unitsPerEm = 1000;
 userData = {
 GSDimensionPlugin.Dimensions = {
+m002 = {
+HH = "130";
+HV = "138";
+nV = "131";
+nd = "118";
+tH = "122";
+};
 m01 = {
 };
 };

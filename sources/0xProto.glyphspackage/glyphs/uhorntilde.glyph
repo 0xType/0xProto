@@ -23,6 +23,29 @@ ref = tildecomb;
 }
 );
 width = 620;
+},
+{
+anchors = (
+{
+name = bottom;
+pos = (279,0);
+},
+{
+name = top;
+pos = (279,550);
+}
+);
+layerId = m002;
+shapes = (
+{
+ref = uhorn;
+},
+{
+pos = (-31,0);
+ref = tildecomb;
+}
+);
+width = 620;
 }
 );
 unicode = 7919;

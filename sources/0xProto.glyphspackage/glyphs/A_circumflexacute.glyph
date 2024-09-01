@@ -12,6 +12,18 @@ ref = circumflexcomb_acutecomb.case;
 }
 );
 width = 620;
+},
+{
+layerId = m002;
+shapes = (
+{
+ref = A;
+},
+{
+ref = circumflexcomb_acutecomb.case;
+}
+);
+width = 620;
 }
 );
 unicode = 7844;
