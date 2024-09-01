@@ -969,6 +969,17 @@ m01 = 1;
 isItalic = 1;
 linkStyle = Regular;
 name = Italic;
+properties = (
+{
+key = postscriptFullNames;
+values = (
+{
+language = dflt;
+value = "0xProto Italic";
+}
+);
+}
+);
 }
 );
 metrics = (
@@ -1007,10 +1018,6 @@ key = manufacturerURL;
 value = "https://0xtype.dev/";
 },
 {
-key = postscriptFontName;
-value = "0xProto Italic";
-},
-{
 key = postscriptFullNames;
 values = (
 {
@@ -1021,7 +1028,7 @@ value = "0xProto Italic";
 },
 {
 key = vendorID;
-value = 0xType;
+value = 0x;
 }
 );
 unitsPerEm = 1000;
