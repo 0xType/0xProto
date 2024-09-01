@@ -1,5 +1,10 @@
 All notable changes to this project will be documented in this file.
 
+## 2.200
+
+- Introduce bold family https://github.com/0xType/0xProto/pull/83
+- Fix a validation caution https://github.com/0xType/0xProto/issues/84
+
 ## 2.100
 
 - Add ss01 variants https://github.com/0xType/0xProto/pull/75
