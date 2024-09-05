@@ -1,5 +1,5 @@
 {
-.appVersion = "3260";
+.appVersion = "3316";
 .formatVersion = 3;
 axes = (
 {
@@ -870,7 +870,6 @@ name = Bold;
 userData = {
 GSCornerRadius = 218;
 };
-visible = 1;
 }
 );
 instances = (
