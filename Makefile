@@ -1,10 +1,8 @@
 FONT_NAME = 0xProto
-MAIN_WEIGHT = Regular
-BOLD_WEIGHT = Bold
-ITALIC = Italic
+FAMILIES = Regular Italic Bold
 SOURCE_DIR = sources
-MAIN_GLYPHS_FILE = $(SOURCE_DIR)/$(FONT_NAME).glyphspackage
-ITALIC_GLYPHS_FILE = $(SOURCE_DIR)/$(FONT_NAME)-$(ITALIC).glyphspackage
+ROMAN_GLYPHS_FILE = $(SOURCE_DIR)/$(FONT_NAME).glyphspackage
+ITALIC_GLYPHS_FILE = $(SOURCE_DIR)/$(FONT_NAME)-Italic.glyphspackage
 OUTPUT_DIR = fonts
 WOFF2_DIR = woff2
 
@@ -28,40 +26,29 @@ compile-woff2-roman: $(OUTPUT_DIR)/$(FONT_NAME)-$(MAIN_WEIGHT).ttf $(OUTPUT_DIR)
 compile-woff2-italic: $(OUTPUT_DIR)/$(FONT_NAME)-$(ITALIC).ttf
 	./woff2/woff2_compress $(OUTPUT_DIR)/$(FONT_NAME)-$(ITALIC).ttf
 
-compile-roman: $(MAIN_GLYPHS_FILE)
-	fontmake -a -g $(MAIN_GLYPHS_FILE) -i --output-dir $(OUTPUT_DIR) && $(MAKE) compile-woff2-roman
+compile-roman: $(ROMAN_GLYPHS_FILE)
+	fontmake -a -g $(ROMAN_GLYPHS_FILE) -i --output-dir $(OUTPUT_DIR)
 
 compile-italic: $(ITALIC_GLYPHS_FILE)
-	fontmake -a -g $(ITALIC_GLYPHS_FILE) --output-dir $(OUTPUT_DIR) && $(MAKE) compile-woff2-italic
+	fontmake -a -g $(ITALIC_GLYPHS_FILE) --output-dir $(OUTPUT_DIR)
+
+compile-woff2: compile-roman compile-italic
+	@for family in $(FAMILIES); do \
+		./woff2/woff2_compress $(OUTPUT_DIR)/$(FONT_NAME)-$$family.ttf; \
+	done
 
 compile-all:
-	$(MAKE) compile-roman
-	$(MAKE) compile-italic
+	$(MAKE) compile-woff2
 
 .PHONY: clean
 clean:
 	if [ -e $(OUTPUT_DIR) ]; then rm -rf $(OUTPUT_DIR); fi
 
-install-otf-roman: $(OUTPUT_DIR)/$(FONT_NAME)-$(MAIN_WEIGHT).otf $(OUTPUT_DIR)/$(FONT_NAME)-$(BOLD_WEIGHT).otf
-	cp $(OUTPUT_DIR)/$(FONT_NAME)-$(MAIN_WEIGHT).otf $(HOME)/Library/Fonts
-	cp $(OUTPUT_DIR)/$(FONT_NAME)-$(BOLD_WEIGHT).otf $(HOME)/Library/Fonts
-
-install-otf-italic: $(OUTPUT_DIR)/$(FONT_NAME)-$(MAIN_WEIGHT).otf
-	cp $(OUTPUT_DIR)/$(FONT_NAME)-$(ITALIC).otf $(HOME)/Library/Fonts
+install-otf: $(OUTPUT_DIR)
+	@for family in $(FAMILIES); do \
+		cp $(OUTPUT_DIR)/$(FONT_NAME)-$$family.otf $(HOME)/Library/Fonts; \
+	done
 
 .PHONY: install
 install:
-	$(MAKE) build
-	$(MAKE) install-otf-roman
-	$(MAKE) install-otf-italic
-
-close-vscode:
-	@osascript -e 'if application "Visual Studio Code" is running then' \
-	           -e 'tell application "Visual Studio Code" to quit' \
-	           -e 'end if'
-
-debug:
-	$(MAKE) close-vscode
-	$(MAKE) build
-	$(MAKE) install
-	code .
+	$(MAKE) build && $(MAKE) install-otf
