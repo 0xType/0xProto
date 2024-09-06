@@ -1,5 +1,9 @@
 All notable changes to this project will be documented in this file.
 
+## 2.201
+
+- Update some glyphs https://github.com/0xType/0xProto/pull/88
+
 ## 2.200
 
 - Introduce bold family https://github.com/0xType/0xProto/pull/83
