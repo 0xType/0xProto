@@ -1,5 +1,9 @@
 All notable changes to this project will be documented in this file.
 
+## 2.202
+
+- Deactivate dlig feature https://github.com/0xType/0xProto/pull/98
+
 ## 2.201
 
 - Update some glyphs https://github.com/0xType/0xProto/pull/88
