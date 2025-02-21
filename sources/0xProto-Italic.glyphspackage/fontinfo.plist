@@ -1,5 +1,5 @@
 {
-.appVersion = "3316";
+.appVersion = "3343";
 .formatVersion = 3;
 classes = (
 {
@@ -821,6 +821,7 @@ sub plus greater by plus_greater;
 sub question question by question_question;
 sub slash slash by slash_slash;
 ";
+disabled = 1;
 tag = dlig;
 },
 {
