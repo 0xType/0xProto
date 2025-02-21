@@ -1,5 +1,5 @@
 {
-.appVersion = "3316";
+.appVersion = "3343";
 .formatVersion = 3;
 axes = (
 {
@@ -722,7 +722,6 @@ sub macronbelowcomb by macronbelowcomb.case;
 tag = case;
 },
 {
-automatic = 1;
 code = "lookupflag IgnoreMarks;
 sub bar bar bar greater by bar_bar_bar_greater;
 sub less bar bar bar by less_bar_bar_bar;
@@ -779,6 +778,7 @@ sub plus greater by plus_greater;
 sub question question by question_question;
 sub slash slash by slash_slash;
 ";
+disabled = 1;
 tag = dlig;
 }
 );

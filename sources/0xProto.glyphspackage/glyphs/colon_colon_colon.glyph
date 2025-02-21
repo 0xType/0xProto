@@ -213,16 +213,6 @@ nodes = (
 (78,-19,o),
 (129,-19,cs)
 );
-},
-{
-closed = 1;
-nodes = (
-);
-},
-{
-closed = 1;
-nodes = (
-);
 }
 );
 width = 620;
