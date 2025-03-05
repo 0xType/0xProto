@@ -1,0 +1,29 @@
+{
+glyphname = arrow_equal;
+layers = (
+{
+layerId = m01;
+shapes = (
+{
+closed = 1;
+nodes = (
+(574,186,l),
+(585,258,l),
+(29,258,l),
+(18,186,l)
+);
+},
+{
+closed = 1;
+nodes = (
+(601,356,l),
+(612,428,l),
+(56,428,l),
+(45,356,l)
+);
+}
+);
+width = 620;
+}
+);
+}
