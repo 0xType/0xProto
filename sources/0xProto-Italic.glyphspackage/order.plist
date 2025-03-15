@@ -657,6 +657,7 @@ less_dollar,
 less_dollar_greater,
 less_plus,
 less_plus_greater,
+less_equal,
 less_equal_greater,
 less_equal_less,
 less_greater,
@@ -928,5 +929,7 @@ primemod,
 ringhalfleft,
 ringhalfright,
 verticallinelowmod,
-verticallinemod
+verticallinemod,
+arrow_equal,
+arrow_hyphen
 )
