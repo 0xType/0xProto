@@ -1,0 +1,48 @@
+{
+glyphname = brokenbar;
+layers = (
+{
+layerId = m01;
+shapes = (
+{
+closed = 1;
+nodes = (
+(247,190,l),
+(192,-160,l),
+(291,-160,l),
+(346,190,l)
+);
+},
+{
+closed = 1;
+nodes = (
+(338,766,l),
+(283,416,l),
+(382,416,l),
+(437,766,l)
+);
+}
+);
+width = 620;
+},
+{
+associatedMasterId = m01;
+layerId = "9FCD514D-BE1B-409D-B88B-230FC9D2892C";
+name = "Mar 16, 25 at 22:19";
+shapes = (
+{
+closed = 1;
+nodes = (
+(338,766,l),
+(192,-160,l),
+(291,-160,l),
+(437,766,l)
+);
+}
+);
+visible = 1;
+width = 620;
+}
+);
+unicode = 166;
+}
