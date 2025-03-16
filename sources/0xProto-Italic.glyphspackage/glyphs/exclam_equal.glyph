@@ -85,6 +85,36 @@ nodes = (
 );
 visible = 1;
 width = 620;
+},
+{
+associatedMasterId = m01;
+layerId = "0316C73F-7D6D-45AF-A49E-D39D5389EB60";
+name = "Mar 16, 25 at 22:07";
+shapes = (
+{
+closed = 1;
+nodes = (
+(-35,247,l),
+(-49,158,l),
+(441,158,l),
+(455,247,l)
+);
+},
+{
+closed = 1;
+nodes = (
+(-3,448,l),
+(-17,359,l),
+(473,359,l),
+(487,448,l)
+);
+},
+{
+pos = (-560,0);
+ref = exclam;
+}
+);
+width = 620;
 }
 );
 }
