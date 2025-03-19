@@ -1,5 +1,13 @@
 All notable changes to this project will be documented in this file.
 
+## 2.300
+
+- Recursive ligatures for arrows https://github.com/0xType/0xProto/pull/102
+- Some glyphs update https://github.com/0xType/0xProto/pull/104
+  - Make it easier to distinguish between `B` and `8` https://github.com/0xType/0xProto/commit/d87e50d78d043b33545c0082947eb1123a367e93
+  - Make it easier to distinguish `!` and `|` https://github.com/0xType/0xProto/commit/c37dfe5a2a2910ffd7318fd1eeb1698e94b18d76
+  - New glyph: `¦`, U+00A6 https://github.com/0xType/0xProto/commit/d53f504db0877150b9cda36701bef868180ebc37
+
 ## 2.202
 
 - Deactivate dlig feature https://github.com/0xType/0xProto/pull/98
