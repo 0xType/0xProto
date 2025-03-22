@@ -69,7 +69,7 @@ In the Italic family of 0xProto, some characters can be changed to script.
 
 How to enable:
 
-- [Visual Stuio Code](https://github.com/microsoft/vscode/issues/84018)
+- [Visual Studio Code](https://github.com/microsoft/vscode/issues/84018)
 - [other tools](https://github.com/tonsky/FiraCode/wiki/How-to-enable-stylistic-sets)
   - This is a Fira Code document; the Script Variant for 0xProto is `ss01`.
 
