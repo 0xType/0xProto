@@ -1,5 +1,5 @@
 {
-.appVersion = "3402";
+.appVersion = "3410";
 .formatVersion = 3;
 axes = (
 {
@@ -609,8 +609,8 @@ lookup arrow_sequence {
   sub less' hyphen by hyphen.spacer;
   sub hyphen.spacer' hyphen by less_hyphen;
 
-  # hyphen hyphen ... => arrow_hyphen arrow_hyphen ...
-  sub hyphen' hyphen by arrow_hyphen;
+  # hyphen hyphen hyphen ... => arrow_hyphen arrow_hyphen ...
+  sub hyphen' hyphen hyphen by arrow_hyphen;
   sub arrow_hyphen hyphen' by arrow_hyphen;
   sub hyphen' arrow_hyphen by arrow_hyphen;
 
