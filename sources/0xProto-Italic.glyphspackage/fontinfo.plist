@@ -1,5 +1,5 @@
 {
-.appVersion = "3410";
+.appVersion = "3413";
 .formatVersion = 3;
 classes = (
 {
@@ -314,15 +314,40 @@ lookup less_greater {
 
 # ->
 lookup hyphen_greater {
+  ignore sub hyphen' hyphen greater;
+  ignore sub hyphen hyphen' greater;
   sub hyphen.spacer greater' by hyphen_greater;
   sub hyphen' greater by hyphen.spacer;
 } hyphen_greater;
 
 # <-
 lookup less_hyphen {
+  ignore sub less hyphen' hyphen;
+  ignore sub less' hyphen hyphen;
   sub less.spacer hyphen' by less_hyphen;
   sub less' hyphen by less.spacer;
 } less_hyphen;
+
+# ===
+lookup equal_equal_equal {
+  ignore sub equal equal' equal equal;
+  ignore sub equal' equal equal equal;
+  sub equal.spacer equal.spacer equal' by equal_equal_equal;
+  sub equal.spacer equal' equal by equal.spacer;
+  sub equal' equal equal by equal.spacer;
+} equal_equal_equal;
+
+# ==
+lookup equal_equal {
+  ignore sub equal equal' equal;
+  ignore sub equal' equal equal;
+  ignore sub less equal' equal;
+  ignore sub less equal equal';
+  ignore sub equal' equal greater;
+  ignore sub equal equal' greater;
+  sub equal.spacer equal' by equal_equal;
+  sub equal' equal by equal.spacer;
+} equal_equal;
 
 # <=>
 lookup less_equal_greater {
@@ -366,18 +391,20 @@ lookup equal_greater_greater {
   sub equal' greater greater by equal.spacer;
 } equal_greater_greater;
 
+# =>
+lookup equal_greater {
+  ignore sub equal' equal greater;
+  ignore sub equal equal' greater;
+  sub equal' greater by equal.spacer;
+  sub equal.spacer greater' by equal_greater;
+} equal_greater;
+
 # =<<
 lookup equal_less_less {
   sub equal.spacer less.spacer less' by equal_less_less;
   sub equal.spacer less' less by less.spacer;
   sub equal' less less by equal.spacer;
 } equal_less_less;
-
-# =>
-lookup equal_greater {
-  sub equal.spacer greater' by equal_greater;
-  sub equal' greater by equal.spacer;
-} equal_greater;
 
 # <<<
 lookup less_less_less {
@@ -550,88 +577,6 @@ lookup dollar_greater {
   sub dollar.spacer greater' by dollar_greater;
   sub dollar' greater by dollar.spacer;
 } dollar_greater;
-
-# ==...==>
-# <==...==
-# --...-->
-# <--...--
-lookup arrow_sequence {
-  # equal greater => equal.spacer equal_greater
-  sub equal' greater by equal.spacer;
-  sub equal.spacer greater' by equal_greater;
-
-  # less equal => equal.spacer less_equal
-  sub less' equal by equal.spacer;
-  sub equal.spacer equal' by less_equal;
-
-  # equal equal ... => arrow_equal arrow_equal ...
-  sub equal' equal by arrow_equal;
-  sub arrow_equal equal' by arrow_equal;
-  sub equal' arrow_equal by arrow_equal;
-
-  # equal => equal.spacer (immediately before greater)
-  sub arrow_equal equal' greater by equal.spacer;
-
-  # equal => equal.spacer (immediately after less)
-  sub less equal' arrow_equal by equal.spacer;
-
-  # less equal equal => equal.spacer less_equal arrow_equal
-  sub less' equal equal by equal.spacer;
-  sub equal.spacer' equal by less_equal;
-  sub less_equal equal' by arrow_equal;
-
-  # less equal arrow_equal => equal.spacer less_equal arrow_equal
-  sub less' equal arrow_equal by equal.spacer;
-  sub equal.spacer' equal by less_equal;
-
-  # less arrow_equal equal => less_equal arrow_equal
-  sub less arrow_equal' equal by arrow_equal;
-
-  # less equal equal => equal.spacer less_equal arrow_equal
-  sub less' equal equal equal by equal.spacer;
-  sub equal.spacer' equal equal by less_equal;
-  sub less_equal equal' equal by arrow_equal;
-  sub arrow_equal equal' by arrow_equal;
-
-  # less equal arrow_equal => equal.spacer less_equal arrow_equal
-  sub less' equal arrow_equal arrow_equal by equal.spacer;
-  sub equal.spacer' equal arrow_equal by less_equal;
-  sub less_equal arrow_equal' by arrow_equal;
-
-  # less arrow_equal equal => less_equal arrow_equal
-  sub less arrow_equal' equal by arrow_equal;
-
-  # hyphen greater => hyphen.spacer hyphen_greater
-  sub hyphen' greater by hyphen.spacer;
-  sub hyphen.spacer greater' by hyphen_greater;
-
-  # less hyphen => hyphen.spacer less_hyphen
-  sub less' hyphen by hyphen.spacer;
-  sub hyphen.spacer' hyphen by less_hyphen;
-
-  # hyphen hyphen hyphen ... => arrow_hyphen arrow_hyphen arrow_hyphen ...
-  sub hyphen' hyphen hyphen by arrow_hyphen;
-  sub arrow_hyphen hyphen' by arrow_hyphen;
-  sub hyphen' arrow_hyphen by arrow_hyphen;
-
-  # hyphen => hyphen.spacer (immediately before greater)
-  sub arrow_hyphen hyphen' greater by hyphen.spacer;
-
-  # hyphen => hyphen.spacer (immediately after less)
-  sub less hyphen' arrow_hyphen by hyphen.spacer;
-
-  # less hyphen hyphen => hyphen.spacer less_hyphen arrow_hyphen
-  sub less' hyphen hyphen by hyphen.spacer;
-  sub hyphen.spacer' hyphen by less_hyphen;
-  sub less_hyphen hyphen' by arrow_hyphen;
-
-  # less hyphen arrow_hyphen => hyphen.spacer less_hyphen arrow_hyphen
-  sub less' hyphen arrow_hyphen by hyphen.spacer;
-  sub hyphen.spacer' hyphen by less_hyphen;
-
-  sub hyphen' hyphen.spacer hyphen_greater by arrow_hyphen;
-  sub equal' equal.spacer equal_greater by arrow_equal;
-} arrow_sequence;
 ";
 tag = calt;
 },
