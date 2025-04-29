@@ -1,5 +1,11 @@
 All notable changes to this project will be documented in this file.
 
+## 2.400
+
+- Build 'Zx Proto' font files https://github.com/0xType/0xProto/pull/112
+- Build 'No Ligatures' font files https://github.com/0xType/0xProto/pull/117
+- Disable the recursive arrow ligatures https://github.com/0xType/0xProto/pull/115
+
 ## 2.300
 
 - Recursive ligatures for arrows https://github.com/0xType/0xProto/pull/102
