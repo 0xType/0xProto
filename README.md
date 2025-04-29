@@ -6,15 +6,12 @@ Ensuring code **readability** is your own responsibility ;)
 
 ![0xProto](./images/examples.png)
 
-## Quick Q&A
+## Installation
 
-**Q. Can I legally use 0xProto for my purpose?**
-
-A. Most likely YES. 0xProto is free and open source. For details, [read the LICENSE](./LICENSE).
-
-**Q. Where can I get 0xProto?**
-
-A. [Here](https://github.com/0xType/0xProto/releases)
+1. [Download font files](https://github.com/0xType/0xProto/releases/tag/2.300)
+1. Unzip the archive and install the font:
+    - macOS: Drag & Drop the font file to Font Book (or the other font management app)
+    - Windows: right-click any of them, then pick `Install` from the menu
 
 ## Features
 
@@ -73,16 +70,7 @@ How to enable:
 - [other tools](https://github.com/tonsky/FiraCode/wiki/How-to-enable-stylistic-sets)
   - This is a Fira Code document; the Script Variant for 0xProto is `ss01`.
 
-## Installation
-
-1. Download font files
-1. Unzip the archive and install the font:
-    - macOS: Drag & Drop the font file to Font Book (or the other font management app)
-    - Windows: right-click any of them, then pick `Install` from the menu
-
-## How to use
-
-### Visual Studio Code
+## How to use 0xProto in Visual Studio Code
 
 1. Open `Settings`
 1. Go `Text Editor` -> `Font` -> `Font Family`
@@ -94,8 +82,30 @@ To enable ligatures:
 1. Click `Edit in settings.json`
 1. Change `"editor.fontLigatures"` to `true` in `settings.json`
 
+## Quick Q&A
+
+**Q. Can I legally use 0xProto for my purpose?**
+
+A. Most likely YES. 0xProto is free and open source. For details, [read the LICENSE](./LICENSE).
+
+**Q. Where can I get 0xProto?**
+
+A. [Here](https://github.com/0xType/0xProto/releases)
+
+**Q. What is "0xProto NL"?**
+
+No Ligatures fonts. Why: https://github.com/0xType/0xProto/issues/116
+
+**Q. What is "Zx Proto"?**
+
+Same as 0xProto. Why: https://github.com/0xType/0xProto/pull/112
+
+**Q. Other questions?**
+
+Feel free to [create an issue](https://github.com/0xType/0xProto/issues?q=is%3Aissue%20) and ask questions. But please make sure that there is a previous issue with the same question.
+
 ## License
 
 The SIL Open Font License, Version 1.1
 
-Copyright (c) 2024 [0xType](https://0xtype.dev)
+Copyright (c) 2025 [0xType](https://0xtype.dev)

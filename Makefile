@@ -19,6 +19,7 @@ build:
 	$(MAKE) clean
 	$(MAKE) compile-all
 	python scripts/remove_calt.py $(OUTPUT_DIR) -o $(OUTPUT_DIR)/No-Ligatures
+	python scripts/build_zx_fonts.py 
 
 compile-woff2-roman: $(OUTPUT_DIR)/$(FONT_NAME)-$(MAIN_WEIGHT).ttf $(OUTPUT_DIR)/$(FONT_NAME)-$(BOLD_WEIGHT).ttf
 	./woff2/woff2_compress $(OUTPUT_DIR)/$(FONT_NAME)-$(MAIN_WEIGHT).ttf
