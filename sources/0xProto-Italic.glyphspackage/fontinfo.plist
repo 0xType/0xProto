@@ -1,5 +1,5 @@
 {
-.appVersion = "3413";
+.appVersion = "3414";
 .formatVersion = 3;
 classes = (
 {
@@ -328,6 +328,16 @@ lookup less_hyphen {
   sub less' hyphen by less.spacer;
 } less_hyphen;
 
+# ::=
+lookup colon_colon_equal {
+  ignore sub colon colon equal' equal;
+  ignore sub colon colon' equal equal;
+  ignore sub colon' colon equal equal;
+  sub colon.spacer colon.spacer equal' by colon_colon_equal;
+  sub colon.spacer colon' equal by colon.spacer;
+  sub colon' colon equal by colon.spacer;
+} colon_colon_equal;
+
 # ===
 lookup equal_equal_equal {
   ignore sub equal equal' equal equal;
@@ -484,6 +494,8 @@ lookup equal_colon_equal {
 
 # :=
 lookup colon_equal {
+  ignore sub colon colon' equal equal;
+  ignore sub colon colon equal' equal;
   sub colon.spacer equal' by colon_equal;
   sub colon' equal by colon.spacer;
 } colon_equal;
@@ -577,6 +589,33 @@ lookup dollar_greater {
   sub dollar.spacer greater' by dollar_greater;
   sub dollar' greater by dollar.spacer;
 } dollar_greater;
+
+# ...
+lookup period_period_period {
+  ignore sub period period' period period;
+  ignore sub period' period period period;
+  sub period.spacer period.spacer period' by period_period_period;
+  sub period.spacer period' period by period.spacer;
+  sub period' period period by period.spacer;
+} period_period_period;
+
+# ..
+lookup period_period{
+  ignore sub period period' period;
+  ignore sub period' period period;
+  sub period.spacer period' by period_period;
+  sub period' period by period.spacer;
+} period_period;
+
+# ;;
+lookup semicolon_semicolon {
+  ignore sub semicolon semicolon' semicolon;
+  ignore sub semicolon' semicolon semicolon;
+  sub semicolon.spacer semicolon' by semicolon_semicolon;
+  sub semicolon' semicolon by semicolon.spacer;
+} semicolon_semicolon;
+
+
 ";
 tag = calt;
 },
