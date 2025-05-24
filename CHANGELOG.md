@@ -1,5 +1,9 @@
 All notable changes to this project will be documented in this file.
 
+## 2.500
+
+- New ligatures: `..`, `...`, `;;`, `::=` https://github.com/0xType/0xProto/pull/123
+
 ## 2.400
 
 - Build 'Zx Proto' font files https://github.com/0xType/0xProto/pull/112

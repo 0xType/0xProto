@@ -43,7 +43,7 @@ name = "Write lastChange";
 value = 0;
 }
 );
-date = "2025-04-29 23:36:37 +0000";
+date = "2025-05-24 02:19:02 +0000";
 familyName = 0xProto;
 featurePrefixes = (
 {
@@ -1091,5 +1091,5 @@ HV = "100";
 };
 };
 versionMajor = 2;
-versionMinor = 400;
+versionMinor = 500;
 }
