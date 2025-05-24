@@ -11,7 +11,7 @@ glyphsLib==6.7.1
 lxml==5.2.2
 openstep-plist==0.3.1
 pyclipper==1.3.0.post5
-setuptools==70.3.0
+setuptools==78.1.1
 six==1.16.0
 ttfautohint-py==0.5.1
 ufo2ft==3.2.5
