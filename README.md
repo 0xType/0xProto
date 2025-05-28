@@ -8,7 +8,7 @@ Ensuring code **readability** is your own responsibility ;)
 
 ## Installation
 
-1. [Download font files](https://github.com/0xType/0xProto/releases/tag/2.300)
+1. [Download font files](https://github.com/0xType/0xProto/releases/latest)
 1. Unzip the archive and install the font:
     - macOS: Drag & Drop the font file to Font Book (or the other font management app)
     - Windows: right-click any of them, then pick `Install` from the menu
