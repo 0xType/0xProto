@@ -1,5 +1,5 @@
 {
-.appVersion = "3414";
+.appVersion = "3418";
 .formatVersion = 3;
 classes = (
 {
@@ -615,7 +615,24 @@ lookup semicolon_semicolon {
   sub semicolon' semicolon by semicolon.spacer;
 } semicolon_semicolon;
 
+# </>
+lookup less_slash_greater {
+  sub less.spacer slash.spacer greater' by less_slash_greater;
+  sub less.spacer slash' greater by slash.spacer;
+  sub less' slash greater by less.spacer;
+} less_slash_greater;
 
+# />
+lookup slash_greater {
+  sub slash.spacer greater' by slash_greater;
+  sub slash' greater by slash.spacer;
+} slash_greater;
+
+# />
+lookup less_slash {
+  sub less.spacer slash' by less_slash;
+  sub less' slash by less.spacer;
+} less_slash;
 ";
 tag = calt;
 },

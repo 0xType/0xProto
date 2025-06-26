@@ -7,6 +7,42 @@ shapes = (
 {
 closed = 1;
 nodes = (
+(112,-110,l),
+(112,-120,l),
+(203,-120,l),
+(468,740,l),
+(468,750,l),
+(377,750,l)
+);
+}
+);
+width = 620;
+},
+{
+layerId = m002;
+shapes = (
+{
+closed = 1;
+nodes = (
+(219,-120,l),
+(484,740,l),
+(484,750,l),
+(361,750,l),
+(96,-110,l),
+(96,-120,l)
+);
+}
+);
+width = 620;
+},
+{
+associatedMasterId = m01;
+layerId = "692BE171-77DA-4FB1-9F81-464FE581AE6C";
+name = "Jun 23, 25 at 15:19";
+shapes = (
+{
+closed = 1;
+nodes = (
 (107,-110,l),
 (107,-120,l),
 (208,-120,l),
@@ -16,10 +52,13 @@ nodes = (
 );
 }
 );
+visible = 1;
 width = 620;
 },
 {
-layerId = m002;
+associatedMasterId = m002;
+layerId = "6809343E-DD40-418E-8B28-54743737B80C";
+name = "Jun 23, 25 at 15:28";
 shapes = (
 {
 closed = 1;
