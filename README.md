@@ -12,6 +12,10 @@ Ensuring code **readability** is your own responsibility ;)
 1. Unzip the archive and install the font:
     - macOS: Drag & Drop the font file to Font Book (or the other font management app)
     - Windows: right-click any of them, then pick `Install` from the menu
+  
+### Editor support
+
+Note, that IDEs that let you set the font by putting its name into an input field, need quotation marks around the name (like VSCode) or a [different package altogether](https://github.com/0xType/0xProto/pull/112).
 
 ## Features
 
