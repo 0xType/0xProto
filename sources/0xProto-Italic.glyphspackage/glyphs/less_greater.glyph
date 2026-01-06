@@ -1,15 +1,16 @@
 {
+color = 1;
 glyphname = less_greater;
 layers = (
 {
 layerId = m01;
 shapes = (
 {
-pos = (-73,0);
+pos = (-37,0);
 ref = greater;
 },
 {
-pos = (-542,0);
+pos = (-576,0);
 ref = less;
 }
 );
@@ -110,6 +111,54 @@ nodes = (
 }
 );
 visible = 1;
+width = 620;
+},
+{
+associatedMasterId = m01;
+layerId = "D82A3786-4410-4ED0-99B8-8CD3149241D6";
+name = "Jun 26, 25 at 15:03";
+shapes = (
+{
+closed = 1;
+nodes = (
+(-34,597,l),
+(-482,356,l),
+(-496,263,l),
+(-39,498,l),
+(-24,597,l)
+);
+},
+{
+closed = 1;
+nodes = (
+(-101,110,l),
+(-483,350,l),
+(-497,257,l),
+(-126,11,l),
+(-116,11,l)
+);
+},
+{
+closed = 1;
+nodes = (
+(101,498,l),
+(484,263,l),
+(498,356,l),
+(126,597,l),
+(116,597,l)
+);
+},
+{
+closed = 1;
+nodes = (
+(34,11,l),
+(483,257,l),
+(497,350,l),
+(39,110,l),
+(24,11,l)
+);
+}
+);
 width = 620;
 }
 );
