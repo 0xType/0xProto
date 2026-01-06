@@ -1,5 +1,9 @@
 All notable changes to this project will be documented in this file.
 
+## 2.501
+
+- New ligatures: `</>`, `</`, `/>` https://github.com/0xType/0xProto/pull/128
+
 ## 2.500
 
 - New ligatures: `..`, `...`, `;;`, `::=` https://github.com/0xType/0xProto/pull/123
