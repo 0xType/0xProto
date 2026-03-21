@@ -6,6 +6,10 @@ ITALIC_GLYPHS_FILE = $(SOURCE_DIR)/$(FONT_NAME)-Italic.glyphspackage
 OUTPUT_DIR = fonts
 WOFF2_DIR = woff2
 SCRIPTS_DIR = scripts
+ZIP_VERSION ?= dev
+ZIP_DIR = dist
+ZIP_NAME = $(FONT_NAME)_$(ZIP_VERSION)
+ZIP_FILE = $(ZIP_DIR)/$(ZIP_NAME).zip
 
 setup:
 	uv sync
@@ -63,3 +67,13 @@ test:
 	uv run fontbakery check-universal $(OUTPUT_DIR)/$(FONT_NAME)-*.ttf
 	uv run fontbakery check-universal $(OUTPUT_DIR)/No-Ligatures/*.ttf
 	uv run fontbakery check-universal $(OUTPUT_DIR)/ZxProto/*.ttf
+
+.PHONY: zip zip-clean
+zip: zip-clean
+	mkdir -p "$(ZIP_DIR)"
+	COPYFILE_DISABLE=1 zip -r "$(ZIP_FILE)" "$(OUTPUT_DIR)" LICENSE \
+		-x '*.DS_Store' -x '__MACOSX/*' -x '*/._*' -x '._*'
+	unzip -l "$(ZIP_FILE)"
+
+zip-clean:
+	rm -rf "$(ZIP_DIR)"
