@@ -102,7 +102,7 @@ Same as 0xProto. Why: https://github.com/0xType/0xProto/pull/112
 
 **Q. Other questions?**
 
-Feel free to [create an issue](https://github.com/0xType/0xProto/issues?q=is%3Aissue%20) and ask questions. But please make sure that there is a previous issue with the same question.
+Feel free to [create an issue](https://github.com/0xType/0xProto/issues?q=is%3Aissue%20) and ask questions. But please make sure that there isn't a previous issue with the same question.
 
 ## License
 
