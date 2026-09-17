@@ -191,24 +191,8 @@ lookup expandRight_canGiveSpaceWithoutSubstitute {
   sub @defaults_expand' @can_give_space_without_substitute by @expanded_to_right;
 } expandRight_canGiveSpaceWithoutSubstitute;
 
-lookup shrinkLeft_expandBoth_EOL {
-  # i m EOL => i.left m.both EOL
-  ignore sub @defaults_shrink @defaults_expand' @AllLetters;
-  ignore sub @defaults_shrink @defaults_expand' space @All;
-  ignore sub @shrinked_to_left @expanded_to_left' @All;
-  sub @defaults_shrink' @defaults_expand by @shrinked_to_left;
-  sub @shrinked_to_left @defaults_expand' by @expanded_to_both;
-  sub @shrinked_to_left @expanded_to_left' by @expanded_to_both;
-} shrinkLeft_expandBoth_EOL;
-
-lookup canGiveSpaceWithoutSubstitute_expandBoth_EOL {
-  # period m EOL => period m.both EOL
-  ignore sub @can_give_space_without_substitute @defaults_expand' @AllLetters;
-  ignore sub @can_give_space_without_substitute @defaults_expand' space @All;
-  ignore sub @can_give_space_without_substitute @expanded_to_left' @All;
-  sub @can_give_space_without_substitute @defaults_expand' by @expanded_to_both;
-  sub @can_give_space_without_substitute @expanded_to_left' by @expanded_to_both;
-} canGiveSpaceWithoutSubstitute_expandBoth_EOL;
+# Keep end-of-run m variants left-expanded. Right expansion exceeds the glyph
+# advance and can be clipped by terminal cells.
 
 
 ### programming ligatures
