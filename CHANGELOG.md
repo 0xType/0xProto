@@ -4,6 +4,7 @@ All notable changes to this project will be documented in this file.
 
 - Introduce [Font Bakery](https://github.com/fonttools/fontbakery) https://github.com/0xType/0xProto/pull/134
 - Update to pass `fontbakery check-universal`
+- Update vertical metrics to fit the full glyph height (line height is larger than in 2.501) https://github.com/0xType/0xProto/pull/134/commits/0fe62e1
 - (Migrate from requirements.txt to [uv](https://github.com/astral-sh/uv) )
 
 ## 2.501
